@@ -1,3 +1,30 @@
 @use "./variables.scss" as *;
 
 // put your custom CSS here!
+
+/* Portada: botones color papiro */
+.portada-enlaces {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 50px;
+  margin: 28px auto;
+}
+
+.portada-enlaces .boton-papiro {
+  display: inline-block;
+  padding: 2px 24px;
+  background-color: #E8D8B8;
+  color: #59442F;
+  border: 1px solid #C7AD83;
+  border-radius: 6px;
+  text-decoration: none;
+  font-weight: 500;
+  transition: background-color 0.2s ease;
+}
+
+.portada-enlaces .boton-papiro:hover {
+  background-color: #D8C39B;
+  color: #463321;
+}
