@@ -12,11 +12,11 @@ title: Retratos de el-Fayum
 
 <div class="portada-enlaces">
 
-<a href="/obsidian-web/Acerca-de/" class="boton-papiro">Acerca de</a>
+<a href="/Acerca-de/" class="boton-papiro">Acerca de</a>
 
-<a href="/obsidian-web/Retratos/" class="boton-papiro">Retratos</a>
+<a href="/Retratos/" class="boton-papiro">Retratos</a>
 
-<a href="/obsidian-web/Bibliografia/" class="boton-papiro">Bibliografía</a>
+<a href="/Bibliografia/" class="boton-papiro">Bibliografía</a>
 
 </div>
 
