@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: Retratos de el-Fayum
+  pageTitle: Fayum Portraits
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
