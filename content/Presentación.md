@@ -1,1 +1,0 @@
-Esta es una página de prueba de mi sitio web publicado con Quartz.
