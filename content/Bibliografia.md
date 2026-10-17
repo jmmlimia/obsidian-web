@@ -2,7 +2,7 @@
 
 
 
-title: Bibliogrfía
+title: Welcome to RdelF
 
 
 
@@ -10,11 +10,9 @@ title: Bibliogrfía
 
 
 
-
-
 1\. A. Sancho, J. A., \& Jofre, G. (2020). \*Robert Hay\*. Amigos de la Egiptología. https://egiptologia.com/robert-hay/
 
-2\. Abdel-Maksoud<, G., \& El-Amin, A.-R. (2011). A Review on the Materials Used During the Mummification Processes in Ancient Egypt. \*Mediterranean Archaeology and Archaeometry\*, \*11\*(2), 129-150.
+2\. Abdel-Maksoud, G., \& El-Amin, A.-R. (2011). A Review on the Materials Used During the Mummification Processes in Ancient Egypt. \*Mediterranean Archaeology and Archaeometry\*, \*11\*(2), 129-150.
 
 3\. Abdulfattah, I. R. (2020). A Forgotten Man. Maurice Nahman, an Antiquarian-Tastemaker. En J. Kamrin, M. Bárta, S. Ikram, M. Lehner, \& M. Megahed (Eds.), \*Guardian of Ancient Egypt: Studies in Honor of Zahi Hawass\* (Vol. 1, pp. 105-123). Charles University.
 
