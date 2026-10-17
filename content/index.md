@@ -1,6 +1,6 @@
 ---
 
-title: Welcome to RdelF
+title: Bienvenidos a RdelF
 
 ---
 
