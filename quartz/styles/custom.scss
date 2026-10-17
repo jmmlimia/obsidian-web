@@ -12,7 +12,7 @@
   margin: 28px auto;
 }
 
-.portada-enlaces .boton-papiro {
+.boton-papiro {
   display: inline-block;
   padding: 2px 24px;
   background-color: #E8D8B8;
@@ -24,7 +24,7 @@
   transition: background-color 0.2s ease;
 }
 
-.portada-enlaces .boton-papiro:hover {
+.boton-papiro:hover {
   background-color: #D8C39B;
   color: #463321;
 }
@@ -55,4 +55,9 @@
     flex-basis: auto;
     width: 100%;
   }
+}
+
+.acerca-menu .boton-papiro {
+  text-align: center;
+  padding: 6px 24px;
 }
