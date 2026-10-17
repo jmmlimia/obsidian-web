@@ -1,15 +1,6 @@
-\---
-
-
-
+---
 title: Bibliografía
-
-
-
-\---
-
-
-
+---
 
 
 1\. A. Sancho, J. A., \& Jofre, G. (2020). \*Robert Hay\*. Amigos de la Egiptología. https://egiptologia.com/robert-hay/
