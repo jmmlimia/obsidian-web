@@ -28,3 +28,31 @@
   background-color: #D8C39B;
   color: #463321;
 }
+
+.acerca-layout {
+  display: flex;
+  gap: 2rem;
+  align-items: flex-start;
+}
+
+.acerca-menu {
+  flex: 0 0 200px;
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+}
+
+.acerca-texto {
+  flex: 1;
+  min-width: 0;
+}
+
+@media (max-width: 700px) {
+  .acerca-layout {
+    flex-direction: column;
+  }
+  .acerca-menu {
+    flex-basis: auto;
+    width: 100%;
+  }
+}
