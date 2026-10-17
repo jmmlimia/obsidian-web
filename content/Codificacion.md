@@ -1,6 +1,10 @@
 \---
 
+
+
 title: Codificación
+
+
 
 \---
 
@@ -30,7 +34,7 @@ Empezando por 900 (Pad900): retratos no clasificados en ninguno de los otros gru
 
 
 
-A continuación hay tres grupos de registros especiales que no empiezan por la letra P. 
+A continuación hay tres grupos de registros especiales que no empiezan por la letra P.
 
 
 
@@ -74,15 +78,13 @@ W = para averiguar las falsificaciones descubiertas.
 
 
 
-\*\*Bibliografía\*\* 
+\*\*Bibliografía\*\*
 
-\[\[01-Bibliografía APA 7#^c142b3|Parlasca 1969]] 
+\[\[01-Bibliografía APA 7#^c142b3|Parlasca 1969]]
 
-\[\[01-Bibliografía APA 7#^90951d|Parlasca 1977]] 
+\[\[01-Bibliografía APA 7#^90951d|Parlasca 1977]]
 
-\[\[01-Bibliografía APA 7#^660dc0|Parlasca 1980]] 
+\[\[01-Bibliografía APA 7#^660dc0|Parlasca 1980]]
 
-\[\[01-Bibliografía APA 7#^caca01|Parlasca \& Frenz 2003]] 
-
-
+\[\[01-Bibliografía APA 7#^caca01|Parlasca \& Frenz 2003]]
 
