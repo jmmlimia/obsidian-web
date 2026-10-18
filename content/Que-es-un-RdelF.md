@@ -6,7 +6,7 @@ title: Qué es un RdelF
 
 
 
-Sin explicar lo que es para nosotros un retrato de el-Fayum (RdelF) no podemos iniciar ningún camino.
+Sin explicar lo que es para nosotros un retrato de el-Fayum (**RdelF**) no podemos iniciar ningún camino.
 
 
 
@@ -26,7 +26,7 @@ Entenderemos que un Retrato de el-Fayum es:
 
 5. Que muestre la intención de individualizar físicamente (por su aspecto) al efigiado, con independencia de que tal intención desemboque en una obra más o menos conseguida.
 
-6\. Que, en general, omita cualquier elemento adicional que no pueda llevar encima el efigiado.
+6. Que, en general, omita cualquier elemento adicional que no pueda llevar encima el efigiado.
 
 
 
@@ -34,7 +34,7 @@ Tan importante como lo incluido es lo excluido: en virtud del ítem (1) la escul
 
 
 
-Obviamente, esta elección, como cualquier otra por cierto, deja en las inmediaciones, incluso en los límites, obras que son consideradas retratos de el-Fayum en diferentes publicaciones y, lo que es más importante, otros tipos de monumentos que nos ayudarían muchísimo a entender a los que sí consideramos. La ventaja de este formato web es que permite incluirlos a todos, aunque con una codificación que los diferencie ([[codificación|v. aquí]]), para que puedan ser consultados de forma independiente.
+Obviamente, esta elección, como cualquier otra por cierto, deja en las inmediaciones, incluso en los límites, obras que son consideradas retratos de el-Fayum en diferentes publicaciones y, lo que es más importante, otros tipos de monumentos que nos ayudarían muchísimo a entender a los que sí consideramos. La ventaja de este formato web es que permite incluirlos a todos, aunque con una codificación que los diferencie ([[Codificación|v. aquí]]), para que puedan ser consultados de forma independiente.
 
 
 

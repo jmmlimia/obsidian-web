@@ -6,7 +6,9 @@ title: Codificación
 
 
 
-El campo llamado "Código", que también podríamos denominar con todo sentido “nombre”, es el más importante de la base de datos (RdelF) y, junto con “Fotografía”, es el motivo esencial de su creación (v. \[[Sobre esta página]]). Cada registro tiene un “nombre” único que lo identifica.
+JMML
+
+El campo llamado "Código", que también podríamos denominar con todo sentido “nombre”, es el más importante de la base de datos (RdelF) y, junto con “Fotografía”, es el motivo esencial de su creación (v. [[acerca-de|Sobre esta página]]). Cada registro tiene un “nombre” único que lo identifica.
 
 
 
@@ -32,15 +34,15 @@ A continuación hay tres grupos de registros especiales que no empiezan por la l
 
 
 
-En primer lugar los que hemos considerado que no son retratos de el Fayum (aunque algunos estén incluidos en los 4 volúmenes de Parlasca; aquí está explicado [[Qué es un RdelF]]), pero que pueden ayudar a discernir o ejemplificar aspectos diversos de los retratos; estos se incluyen con la inicial R.
+En primer lugar los que hemos considerado que no son retratos de el Fayum (aunque algunos estén incluidos en los 4 volúmenes de Parlasca; aquí está explicado [[Que-es-un-RdelF|Qué es un RdelF]]), pero que pueden ayudar a discernir o ejemplificar aspectos diversos de los retratos; estos se incluyen con la inicial **R**.
 
 
 
-En segundo lugar aquellos que empiezan por la letra T (del ingles *taken*), son retratos cuya existencia estuvo comprobada, pero han desaparecido, en algunos casos destruidos en la II Guerra Mundial, en otros quizás robados... Sea como sea ya no forman parte del corpus vivo. 
+En segundo lugar aquellos que empiezan por la letra **T** (del ingles *taken* = fuera del corpus), son retratos cuya existencia estuvo comprobada, pero han desaparecido, en algunos casos destruidos en la II Guerra Mundial, en otros quizás robados... Sea como sea ya no forman parte del corpus vivo. 
 
 
 
-Por último, se han incluido las falsificaciones que aparecen en alguna parte de la bibliografía. Van precedidas de la letra W (del inglés *waste*).
+Por último, se han incluido las falsificaciones que aparecen en alguna parte de la bibliografía. Van precedidas de la letra **W** (del inglés *waste* = desperdicio).
 
 
 
