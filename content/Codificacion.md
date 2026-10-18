@@ -1,14 +1,8 @@
 \---
 
-
-
-title: Codificación
-
-
+title: Acerca de
 
 \---
-
-
 
 
 

@@ -1,14 +1,8 @@
 \---
 
-
-
-title: Qué es un RdelF
-
-
+title: Acerca de
 
 \---
-
-
 
 
 
