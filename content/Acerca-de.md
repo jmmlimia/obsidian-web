@@ -17,7 +17,7 @@ title: Acerca de
 
 <div class="acerca-texto">
 
-*Retratos de el-Fayum* (**RdelF**) es una obra de consulta dinámica digital cuyo objeto es la catalogación y el estudio de un corpus de pintura mayoritariamente sobre madera y lino de época romana y procedencia egipcia que, con alrededor de unos mil retratos, es referido por esta denominación entre otras. Para evitar confusiones, [[Qué es un RdelF|aquí]] está claramente explicado qué entendemos por retrato de el-Fayum (RdelF) en esta base de datos. 
+*Retratos de el-Fayum* (**RdelF**) es una obra de consulta dinámica digital cuyo objeto es la catalogación y el estudio de un corpus de pintura mayoritariamente sobre madera y lino de época romana y procedencia egipcia que, con alrededor de unos mil retratos, es referido por esta denominación entre otras. Para evitar confusiones, [[Que-es-un-RdelF|aquí]] está claramente explicado qué entendemos por retrato de el-Fayum (RdelF) en esta base de datos. 
 
 Es de estricto contenido y uso científico y educativo, sin ánimo lucrativo o comercial. No tiene ni admite ningún tipo de transacción económica a su respecto y, por tanto, no requiere de donaciones económicas monetarias. La web es libre y gratuita por su propia concepción de origen. Con estas premisas hace uso, además, de los contenidos de otras páginas, de instituciones públicas o privadas y de personas físicas o jurídicas a las que, de ninguna manera, pretende sustituir ni relegar, muy al contrario, parte de la idea raíz de respetar cualquier propiedad intelectual que esté comprometida
 

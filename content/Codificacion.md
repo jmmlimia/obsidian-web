@@ -6,8 +6,6 @@ title: Codificación
 
 
 
-JMML
-
 El campo llamado "Código", que también podríamos denominar con todo sentido “nombre”, es el más importante de la base de datos (RdelF) y, junto con “Fotografía”, es el motivo esencial de su creación (v. [[acerca-de|Sobre esta página]]). Cada registro tiene un “nombre” único que lo identifica.
 
 
