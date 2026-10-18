@@ -9,9 +9,11 @@ title: Acerca de
 
 <nav class="acerca-menu">
 
-<a href="/Acerca-de/Codificacion/" class="boton-papiro">Codificación</a>
+<a href="/Seccion-acercade/abreviaturas" class="boton-papiro">Abreviaturas</a>
 
-<a href="/Acerca-de/Que-es-un-RdelF/" class="boton-papiro">Qué es un RdelF</a>
+<a href="/Seccion-acercade/Codificacion/" class="boton-papiro">Codificación</a>
+
+<a href="/Seccion-acercade/Que-es-un-RdelF/" class="boton-papiro">Qué es un RdelF</a>
 
 </nav>
 
