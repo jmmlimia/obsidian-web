@@ -28,6 +28,13 @@ title: Abreviaturas
 | aum. | aumentado |
 | b/n | blanco y negro|
 | ca. | *circa*, aproximadamente, alrededor de |
+| cap. | capítulo-s |
+| cat. | catálogo o inventario |
+| *cf* | *confer*, comparar, compárese con |
+| cit. | cita en, citado en, se cita por |
+| col. | colección, coleccionista |
+| corr. | corregido-a |
+| com. per. | comunicación personal |
 
 
 
