@@ -70,7 +70,7 @@ title: Abreviaturas
 | s.d. | sin datos |
 | s.e. | sin editorial |
 | s.f. | sin fecha |
-| sig. /sigs. | siguiente / siguientes |
+| sig. | siguiente |
 | sing. | singular-es |
 | s.p. | sin paginación |
 | supl. | suplemento-s |
@@ -79,7 +79,7 @@ title: Abreviaturas
 | t. | tomo-s |
 | tb. | también |
 | trad. | traducción, traducido por |
-| v. | ver,véase, una referencia interna en el texto |
+| v. | ver, véase, una referencia interna en el texto |
 | *v.g.* | *verbi gratia*, por ejemplo |
 | *vid.* | *vide*, ver, véase, una referencia externa al texto |
 | vol. | volumen |
