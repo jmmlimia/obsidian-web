@@ -5,6 +5,6 @@ title: Retratos
 ---
 
 
-Esta sección reúne retratos funerarios realizados en el Egipto romano, conocidos como retratos de el-Fayum.
+Estamos en la Base de Datos del sistema. En la página se lista una breve referencia de cada uno de los retratos que ya están incluidos en ella: Nombre del ejemplar, una fotografía y su localización (núm. cat.), ciudad, país. 
 
-Aquí se presentarán las obras, sus características artísticas, los materiales empleados y la información histórica disponible sobre cada retrato.
+Por medio de sus enlaces, accederán a una ficha completa de cada retrato, con información sobre museología, retratística, complementos, sociología, bibliografía y relaciones. Estos datos se irán completando progresivamente.
