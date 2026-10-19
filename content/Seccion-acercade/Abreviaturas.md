@@ -1,8 +1,8 @@
-\---
+---
 
 title: Abreviaturas
 
-\---
+---
 
 
 
@@ -20,13 +20,14 @@ title: Abreviaturas
 
 
 
-Abrev. Desarrollo
-
-
-
-**aC** antes de Cristo
-
-**amp.** ampliado
+| Abrev. | Desarrollo |
+|---|---|
+| aC | antes de Cristo |
+| amp. | ampliado |
+| *apud.* | la fuente original es otra, citada inmediatamente antes |
+| aum. | aumentado |
+| b/n | blanco y negro|
+| ca. | *circa*, aproximadamente, alrededor de |
 
 
 
