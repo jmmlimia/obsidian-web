@@ -10,7 +10,7 @@ title: Abreviaturas
 
 <nav class="acerca-menu">
 
-<a href="/Seccion-acercade/Clasicos/" class="boton-papiro">Clásicos</a>
+<a href="/Seccion-acercade/Clasicos/" class="boton-papiro">Autores clásicos</a>
 
 </nav>
 
@@ -20,13 +20,13 @@ title: Abreviaturas
 
 
 
-|   Abrev.   | Desarrollo                                                       |
+Abrev. Desarrollo
 
-| :--------: | ---------------------------------------------------------------- |
 
-|     aC     | antes de Cristo                                                  |
 
-|    amp.    | ampliado                                                         |
+**aC** antes de Cristo
+
+**amp.** ampliado
 
 
 
