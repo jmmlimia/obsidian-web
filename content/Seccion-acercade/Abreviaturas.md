@@ -59,11 +59,31 @@ title: Abreviaturas
 | per. | (con) permiso |
 | pl. | plural-es |
 | prop. | propiedad-es |
+| reimp. | reimpresión-es |
+| reorg. | reorganizado-s |
+| rep. | reproducido-s |
+| req. | requerido-s |
+| ret. | retrato-s |
+| rev. | revisado-s |
 | s. / ss. | siglo / siglos |
 | s.a. | sin autor |
 | s.d. | sin datos |
 | s.e. | sin editorial |
 | s.f. | sin fecha |
+| sig. /sigs. | siguiente / siguientes |
+| sing. | singular-es |
+| s.p. | sin paginación |
+| supl. | suplemento-s |
+| *supra* | arriba, más arriba |
+| *s.v.* | *sub verbo*, en la palabra |
+| t. | tomo-s |
+| tb. | también |
+| trad. | traducción, traducido por |
+| v. | ver,véase, una referencia interna en el texto |
+| *v.g.* | *verbi gratia*, por ejemplo |
+| *vid.* | *vide*, ver, véase, una referencia externa al texto |
+| vol. | volumen |
+
 
 
 
