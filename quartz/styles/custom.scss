@@ -62,5 +62,80 @@
   padding: 6px 24px;
 }
 
-table td:first-child { width: 180px; }
-table td:first-child img { max-width: 100%; height: auto; }
+/* Tabla de retratos */
+.retratos-tabla td:first-child {
+  width: 180px;
+  vertical-align: middle;
+}
+
+.retratos-tabla td:first-child img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin: 0 auto;
+}
+
+/* Tabla de retratos: altura uniforme */
+article table td:first-child {
+  width: 180px;
+  min-width: 180px;
+  vertical-align: middle;
+}
+
+/* Separación vertical entre retratos */
+article table td {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+article table td:first-child img {
+  display: block;
+  width: auto;
+  max-width: 160px;
+  max-height: 180px;
+  object-fit: contain;
+  margin: 0 auto;
+}
+
+/* Datos de cada retrato en dos columnas */
+.retrato-datos {
+  display: grid;
+  grid-template-columns: 170px minmax(0, 1fr);
+  column-gap: 15px;
+  row-gap: 14px;
+  margin-top: 15px;
+  align-items: start;
+}
+
+.retrato-datos span:nth-child(odd) {
+  font-weight: bold;
+}
+
+/* Paginación de retratos: botones color papiro */
+#paginacion-retratos {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin: 30px 0;
+}
+
+#paginacion-retratos button {
+  background-color: #E8D8B8;
+  color: #59442F;
+  border: 1px solid #C7AD83;
+  border-radius: 6px;
+  padding: 6px 14px;
+  cursor: pointer;
+  font-weight: 500;
+}
+
+#paginacion-retratos button:hover:not(:disabled) {
+  background-color: #D8C39B;
+  color: #463321;
+}
+
+#paginacion-retratos button:disabled {
+  opacity: 0.5;
+  cursor: default;
+}
