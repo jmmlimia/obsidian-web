@@ -90,7 +90,10 @@ export default (() => {
         )}
 
         <link rel="icon" href={iconPath} />
-        <script defer src="/static/paginacion-retratos.js"></script>
+        <script
+  		defer
+  		src={`${ctx.argv.serve ? "" : url.pathname.replace(/\/$/, "")}/static/paginacion-retratos.js`}
+	></script>
         <meta name="description" content={description} />
         <meta name="generator" content="Quartz" />
 
