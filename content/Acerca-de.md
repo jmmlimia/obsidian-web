@@ -40,9 +40,12 @@ Habiendo nacido como un proyecto personal, sin ayuda de entes oficiales o privad
 En resumen, presentamos **RdelF** a todas aquellas personas interesadas en estas obras de arte únicas de la Antigüedad, a todos los amantes del arte, los pintores y escritores (que encontrarán seguro inspiración), a todos los estudiantes de humanidades y profesores, especialistas o doctorandos que disponen en estas páginas de una guía inicial accesible para sus docencias y sus futuras investigaciones. 
 
 **Bibliografía** 
-[[01-Bibliografía APA 7#^dae8cc|Corcoran 1995]] 
-[[01-Bibliografía APA 7#^70b4f2|Marías 1966]] 
-[[01-Bibliografía APA 7#^b9204e|Montserrat 1994]] 
+
+[[Bibliografia#^dae8cc|Corcoran 1995]]
+
+[[Bibliografia#^70b4f2|Marías 1966]] 
+
+[[Bibliografia#^b9204e|Montserrat 1994]] 
 
 
 </div>
