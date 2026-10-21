@@ -74,11 +74,11 @@ W = para averiguar las falsificaciones descubiertas.
 
 **Bibliografía**
 
-[[01-Bibliografía APA 7#^c142b3|Parlasca 1969]]
+[[Bibliografia#^c142b3|Parlasca 1969]]
 
-[[01-Bibliografía APA 7#^90951d|Parlasca 1977]]
+[[Bibliografia#^90951d|Parlasca 1977]]
 
-[[01-Bibliografía APA 7#^660dc0|Parlasca 1980]]
+[[Bibliografia#^660dc0|Parlasca 1980]]
 
-[[01-Bibliografía APA 7#^caca01|Parlasca \& Frenz 2003]]
+[[Bibliografia#^caca01|Parlasca \& Frenz 2003]]
 

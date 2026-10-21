@@ -40,5 +40,5 @@ Obviamente, esta elección, como cualquier otra por cierto, deja en las inmediac
 
 **Bibliografía**
 
-[[01-Bibliografía APA 7#^596238|Bonnassie 1983]]
+[[Bibliografia#^596238|Bonnassie 1983]]
 
