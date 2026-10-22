@@ -139,3 +139,85 @@ article table td:first-child img {
   opacity: 0.5;
   cursor: default;
 }
+
+/* Fichas individuales de retratos */
+
+.ficha-retrato {
+  display: grid;
+  grid-template-columns: 35% minmax(0, 1fr);
+  gap: 35px;
+  align-items: start;
+}
+
+.ficha-izquierda,
+.ficha-derecha {
+  min-width: 0;
+}
+
+.ficha-izquierda img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin: 0 auto 25px;
+}
+
+.ficha-retrato h3 {
+  margin-top: 0;
+  margin-bottom: 15px;
+}
+
+/* Adaptación a pantallas pequeñas */
+
+@media (max-width: 700px) {
+  .ficha-retrato {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* Botones de los estudios individuales */
+
+.ficha-apartados {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 8px;
+  margin: 25px 0 20px;
+}
+
+.ficha-apartados button {
+  background-color: #E8D8B8;
+  color: #59442F;
+  border: 1px solid #C7AD83;
+  border-radius: 6px;
+  padding: 10px 5px;
+  font-size: 0.85rem;
+  cursor: pointer;
+}
+
+.ficha-apartados button:hover {
+  background-color: #D8C39B;
+}
+
+.ficha-apartados button.estudio-activo {
+  background-color: #C7AD83;
+  font-weight: bold;
+}
+
+/* En pantallas estrechas, dos botones por fila */
+
+@media (max-width: 900px) {
+  .ficha-apartados {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+.ficha-apartados {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 24px;
+}
+
+.ficha-apartados button {
+  flex: 0 0 auto;
+  padding: 10px 14px;
+}

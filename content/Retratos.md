@@ -5,6 +5,7 @@ title: Retratos
 ---
 
 
+
 Estamos en la Base de Datos del sistema. En la página se lista una breve referencia de cada uno de los retratos que ya están incluidos en ella: fotografía, nombre, denominación, dónde se encuentra (con número de catálogo) y localización.
 
 Por medio de sus enlaces, accederán a una ficha completa de cada retrato, con información sobre museología, retratística, complementos, sociología, bibliografía y relaciones. Estos datos se irán completando progresivamente.
@@ -26,6 +27,4 @@ Por medio de sus enlaces, accederán a una ficha completa de cada retrato, con i
 |[![Pad013](images/Pad013.jpg)](Seccion-retratos/Pad013.md)|**[[Pad013\|Pad013]]** ─ **Mujer joven de Hawara en pésimo estado**<div class="retrato-datos"><span>Ubicación:</span><span>Petrie Museum of Egyptian Archaeology (LDUCE-UC40698), Londres, Reino Unido</span><span>Género y procedencia:</span><span>Mujer procedente de Hawara</span><span>Técnica y soporte:</span><span>Encáustica sobre madera</span></div>|
 
 <div id="paginacion-retratos"></div>
-
-
 

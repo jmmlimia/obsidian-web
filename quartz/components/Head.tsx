@@ -94,6 +94,10 @@ export default (() => {
   		defer
   		src={`${ctx.argv.serve ? "" : url.pathname.replace(/\/$/, "")}/static/paginacion-retratos.js`}
 	></script>
+	<script
+		defer
+	  	src={`${ctx.argv.serve ? "" : url.pathname.replace(/\/$/, "")}/static/estudios-retratos.js`}
+	></script>
         <meta name="description" content={description} />
         <meta name="generator" content="Quartz" />
 
