@@ -5,13 +5,13 @@ title: Pad001 - Museología
 
 # Museología
 
-## Historia
+### Historia
 Actualmente se encuentra en una colección privada. 
 
-Vendido por la Galería [[Christie's]], Nueva York, el 07DIC2006 (venta 1734, lote 35), en 262.400 USD.
+Vendido por la Galería [[Christies|Christie's]], Nueva York, el 07DIC2006 (venta 1734, lote 35), en 262.400 USD.
 En la información de dicha venta, solo aparece que estaba en posesión de [[Cambelong|Thierry Cambelong]], Suiza, en la década de 1970.
 
-## Conservación 
+### Conservación 
 I) En su actual [[estado de conservación]], el conjunto del retrato se nos presenta como muy bueno (2).
 
 II) a) La madera está [[cortes|cortada]] con un borde superior indescifrable que cubren restos de tela, cantos laterales irregulares (el lado derecho muy discontinuo; el lado izquierdo formando un ligero arco cóncavo), ensanchándose hacia la base que es recta y está pintada en su totalidad. b) Solo presenta una fisura en la parte central-superior que va desde el ojo a la nariz, y dos ligeras grietas verticales en el centro de su base, más aparentes pérdidas de material en la zona de la vestimenta.
@@ -22,6 +22,6 @@ IV) En general, por tanto, tal como podemos verla hoy (la madera parece en buena
 
 V) No tenemos referencias a ningún procedimiento de restauración o conservación.
 
-## Fotografías 
+### Fotografías 
 <u>Reproducidas</u> = Permiso Public Domain [[Permisos de fotografías]]. 
 <u>Recientes de calidad</u> = Christie's 2006.
