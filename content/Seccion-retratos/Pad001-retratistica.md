@@ -5,7 +5,7 @@ title: Pad001 - Retratística
 
 # Retratística
 
-###Descripción 
+### Descripción 
 I) Edad. [[edades|Adolescente]] entre 15-20 años. 
 
 II) Busto. Apenas visible para determinar su orientación, con ka cabeza en 3/4, girada a su derecha y verticalmente recta; el rostro tiene forma claramente [[rostros|adiamantada]], presentando una mandíbula no marcada que termina en un mentón alargado y afilada. No se aprecia la asimetría facial tan característica en bastantes retratos.
@@ -28,5 +28,5 @@ X) Fondo. Para Christie's (2006), es de tono crema visible hoy apenas, aunque en
 
 XI) Consideración general. La obra presenta una coherencia absoluta y una belleza serena imponente. Todos los detalles que se han ido enumerando abundan en una declaración sin estridencias, en un excelso tratamiento pictórico que acompaña una imagen trágica y calma a la vez.
 
-###Técnica, materiales y procedimientos 
+### Técnica, materiales y procedimientos 
 I) Técnica. Encáustica (cera como aglutinante) sobre madera desconocida de 39.6 cm (Christie's 2006).

@@ -5,10 +5,8 @@ title: Bibliografía
 
 En muchísimos textos escritos por verdaderas autoridades en la materia, las referencias bibliográficas brillan por su ausencia, o se reúnen en un breve compendio resumido. Aquí intentaremos ser escrupulosos atendiendo a dos razones esenciales: la confiabilidad científica, que requiere transparencia e identificación de fuentes, al tiempo que validez y actualización de los conocimientos; el profundo agradecimiento a cientos de personas y sus trabajos, sin los cuales una recopilación como esta sería imposible.
 
-A. Sancho, J. A., & Jofre, G. (2020). *Robert Hay*. Amigos de la Egiptología. 
-
-Abdel-Maksoud, G., & El-Amin, A.-R. (2011). A Review on the Materials Used During the Mummification Processes in Ancient Egypt. *Mediterranean Archaeology and Archaeometry*, *11*(2), 129-150.
-
+1. A. Sancho, J. A., & Jofre, G. (2020). *Robert Hay*. Amigos de la Egiptología. 
+2. Abdel-Maksoud, G., & El-Amin, A.-R. (2011). A Review on the Materials Used During the Mummification Processes in Ancient Egypt. *Mediterranean Archaeology and Archaeometry*, *11*(2), 129-150.
 3. Abdulfattah, I. R. (2020). A Forgotten Man. Maurice Nahman, an Antiquarian-Tastemaker. En J. Kamrin, M. Bárta, S. Ikram, M. Lehner, & M. Megahed (Eds.), *Guardian of Ancient Egypt: Studies in Honor of Zahi Hawass* (Vol. 1, pp. 105-123). Charles University.
 4. Acerbi, G. (1833). _Lettere a Ippolito Rosellini: 1 Agosto 1833_ [Carta]. Biblioteca Universitaria de Pisa. Lettere a Ippolito Rosellini. 
 5. Aceto, M. (2021). Pigments—The palette of organic colourants in wall paintings. *Archaeological and Anthropological Sciences*, *13*(10), 1-23.  ^6b8411
@@ -159,7 +157,7 @@ Abdel-Maksoud, G., & El-Amin, A.-R. (2011). A Review on the Materials Used Durin
 150. Rodler-Rørbo, A., Baragona, A. J., Verbeemen, E. J., Sørensen, L. V., Çakmakoğlu, B., Helvaci, C., Bolea-Fernandez, E., Rua-Ibarz, A., Vanhaecke, F., Becker, H., Artioli, G., Zabrana, L., Debaille, V., Mattielli, N., Goderis, S., & Claeys, P. (2025). Cinnabar for Roman Ephesus: Material quality, processing and provenance. *Journal of Archaeological Science*, *173*, 1-16. ^eea99f
 151. Rodríguez Salvador, J. J. (2012). Xerorradiografía. *Imagen Diagnóstica*, *3*(2), 67-69. ^c25237
 152. Rondot, V. (2015). Graeco-Roman Fayum pantheons as documented by 2nd century painted wooden panels. En *Von cler Pharaanenzeit his zur Spatantike: Kulturelle Vielfalt im Fayum* (pp. 145-162). Harrassowitz Verlag. ^b8ab98
-153. Rothe, A. (1982). Conservation Report on the Mummy Portrait of Isidora. *The J. Paul Getty Museum Journal*, *10*, 195-196.
+153. Rothe, A. (1982). Conservation Report on the Mummy Portrait of Isidora. *The J. Paul Getty Museum Journal*, *10*, 195-196. ^9be0f3
 154. Sattar, S. (2024). Lake Pigments and Thin-Layer Chromatography of Natural Dyes: Paired Experiments for Nonmajors. *Journal of Chemical Education*, *101*(11), 4983-4988. ^c4d7a2
 155. Schweitzer, A. (1998). L’évolution stylistique et iconographique des parures de cartonnage d’Akhmîm du début de l’époque ptolémaïque à l’époque romaine. *Bulletin de l’Institut Français d’Archéologie Orientale*, _98_, 325-352.
 156. Scott, P. (1997). A Portrait Mummy in Blackburn. En M. L. Bierbrier (Ed.), *Portraits and Masks: Burial Customs in Roman Egypt* (pp. 55-58 y lám. 6, núm. 1 y 2). The British Museum Press.

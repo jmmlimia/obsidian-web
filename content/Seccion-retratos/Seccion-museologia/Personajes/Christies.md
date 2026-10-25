@@ -14,7 +14,9 @@ En 1973 la compañía comenzó a cotizar en la Bolsa de Valores de Londres como 
 Puede consultarse su [página web](https://www.christies.com/?lid=1&sc_lang=en) 
 
 **Relacionada con los (17) retratos:**
+
 [[Pad001]] | [[Pad002]] | PI0061 | PI0084 | PI0113 | PI0143 | PI0212 | PII0287 | PII0341 | PII0379 | PIII0577 | PIII0591 | PIII0607 | PIV0686 | [[PIV0690]] | PIV0799 | PIV0856 
 
 **Bibliografía**
+
 1. Christie’s Corporate Entities. (2026). *About Christie’s* [Web corporativa]. Christie’s. https://www.christies.com/en/about/overview 
