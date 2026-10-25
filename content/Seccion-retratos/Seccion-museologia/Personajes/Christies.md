@@ -19,4 +19,4 @@ Puede consultarse su [página web](https://www.christies.com/?lid=1&sc_lang=en)
 
 **Bibliografía**
 
-[[Bibliografia#^aba2de|Christie’s Corporate Entities, 2026]] 
+[Bibliografia#^aba2de|Christie’s Corporate Entities, 2026]] 

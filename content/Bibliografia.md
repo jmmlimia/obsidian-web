@@ -51,7 +51,7 @@ En muchísimos textos escritos por verdaderas autoridades en la materia, las ref
 44. Carreras, O. (2015). La mirada incandescente. *Tendencias del mercado del arte*, _84_, 40-42.
 45. Cartwright, C. R. (1997). Egyptian Mummy Portraits: Examining the Woodworkers’ Craft. En M. L. Bierbrier (Ed.), *Portraits and masks: Burial customs in Roman Egypt* (pp. 106-111). The British Museum Press.
 46. Cerrato Moreno, E. J. (2021). *Estudio arqueométrico de la pintura mural romana en Córdoba* [Tesis doctoral, Universidad de Córdoba]. Helvia: Repositorio Institucional de la Universidad de Córdoba. ^a29d3a
-47. Christie’s Corporate Entities. (2026). *About Christie’s* [Web corporativa]. Christie's. ^aba2de 
+47. Christie’s Corporate Entities. (2026). _About Christie’s_ [Web corporativa]. Christie’s. ^aba2de
 48. Christie’s London. (1997). *A Romano-Egyptian painted wooden «Fayum portrait» of a young boy*. 
 49. Christie’s London. (2015). *An Egyptian painted wood mummy portrait of a man*. ^528392
 50. Christie’s New York. (2006). *A Painted Wood Mummy Portrait of a Woman*. ^ffc796
@@ -95,13 +95,13 @@ En muchísimos textos escritos por verdaderas autoridades en la materia, las ref
 88. Grenfell, B. P., & Hunt, A. S. (1900). Graeco-Roman Branch: Excavations in the Fayûm. *Archaeological Report (Egypt Exploration Fund)*, 4-7. ^1412cf
 89. Griffith, F. L. (1898). *A collection of hieroglyphs: A contribution to the history of Egyptian writing*. Egypt Exploration Fund.
 90. Griffiths, J. G. (1982). Eight Funerary Paintings with Judgement Scenes in the Swansea Wellcome Museum. *The Journal of Egyptian Archaeology*, *68*, 228-252 y lám. XXIII-XXVI.
-91. Gunther Schmidt. (2026, junio 14). Wikipedia. https://en.wikipedia.org/wiki/Gunther_Schmidt ^b1f96c
+91. Gunther Schmidt. (2026, junio 14). Wikipedia. ^b1f96c
 92. Hagen, F., & Ryholt, K. (2016). *The Antiquities Trade in Eypt I880-1930: The H.O. Lange Papers*. Det Kongelige Danske Videnskabernes Selskab.
 93. Hagen, F. N., & Ryholt, K. (2017). The antiquities trade in Egypt during the time of Rudolf Mose. En J. Helmbold-Doyé- & T. L. Gertzen (Eds.), *Mosse im Museum: Die Stiftungstätigkeit des Berliner Verlegers Rudolf Mosse (1843−1920) für das Ägyptische Museum Berlin* (pp. 59-74). Staatlichen Museen zu Berlin.
 94. Halm-Tisserant, M. (2013). Floridi vs austeri au livre XXXV de l’Histoire naturelle. *Ktèma*, *38*, 305-321. ^c82132
 95. Handoussa, T. (1981). Le collier ousekh. *Studien zur Altägyptischen Kultur*, _9_, 143-150.
 96. Harvard Art Museums. (2022). *Funerary Portraits from Roman Egypt: Facing Forward*.
-97. Heinz Herzer. (2025, julio 19). Wikipedia. https://de.wikipedia.org/wiki/Heinz_Herzer ^095654 
+97. Heinz Herzer. (2025, julio 19). Wikipedia. ^095654 
 98. Higginbotham, J. (s. f.). *Portrait of a youth wearing a gilded wreath*. Bowdoin College Museum of Art. Antiquity & America. ^4fb9a2
 99. Hjalgrim, H., Lynnerup, N., Liversage, M., & Rosenklint, A. (1995). Stereolithography: Potential Applications in Anthropological  Studies. *American Journal of Physical Anthropology*, *97*, 329-333. ^bcd8b9
 100. *Hôtel Drouot*. (2020, mayo 6). Wikipedia. https://es.wikipedia.org/wiki/H%C3%B4tel_Drouot 
