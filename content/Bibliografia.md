@@ -5,8 +5,10 @@ title: Bibliografía
 
 En muchísimos textos escritos por verdaderas autoridades en la materia, las referencias bibliográficas brillan por su ausencia, o se reúnen en un breve compendio resumido. Aquí intentaremos ser escrupulosos atendiendo a dos razones esenciales: la confiabilidad científica, que requiere transparencia e identificación de fuentes, al tiempo que validez y actualización de los conocimientos; el profundo agradecimiento a cientos de personas y sus trabajos, sin los cuales una recopilación como esta sería imposible.
 
-1. A. Sancho, J. A., & Jofre, G. (2020). *Robert Hay*. Amigos de la Egiptología. 
-2. Abdel-Maksoud, G., & El-Amin, A.-R. (2011). A Review on the Materials Used During the Mummification Processes in Ancient Egypt. *Mediterranean Archaeology and Archaeometry*, *11*(2), 129-150.
+A. Sancho, J. A., & Jofre, G. (2020). *Robert Hay*. Amigos de la Egiptología. 
+
+Abdel-Maksoud, G., & El-Amin, A.-R. (2011). A Review on the Materials Used During the Mummification Processes in Ancient Egypt. *Mediterranean Archaeology and Archaeometry*, *11*(2), 129-150.
+
 3. Abdulfattah, I. R. (2020). A Forgotten Man. Maurice Nahman, an Antiquarian-Tastemaker. En J. Kamrin, M. Bárta, S. Ikram, M. Lehner, & M. Megahed (Eds.), *Guardian of Ancient Egypt: Studies in Honor of Zahi Hawass* (Vol. 1, pp. 105-123). Charles University.
 4. Acerbi, G. (1833). _Lettere a Ippolito Rosellini: 1 Agosto 1833_ [Carta]. Biblioteca Universitaria de Pisa. Lettere a Ippolito Rosellini. 
 5. Aceto, M. (2021). Pigments—The palette of organic colourants in wall paintings. *Archaeological and Anthropological Sciences*, *13*(10), 1-23.  ^6b8411
@@ -38,7 +40,7 @@ En muchísimos textos escritos por verdaderas autoridades en la materia, las ref
 31. Bierbrier, M. L. (1997). Fayum Cemeteries and their Portraits. En M. L. Bierbrier (Ed.), *Portraits and Masks. Burial Customs in Roman Egypt* (pp. 16-18). The British Museum Press.
 32. Bierbrier, M. L., Cartwright, C. R., Filer, J., Humphrey, S., Middleton, A., & Walker, S. E. C. (1997). New Light on Ancient Faces. *British Museum Magazine*, *27*, 36-39.
 33. Bonnassie, P. (1983). _Vocabulario básico de la historia medieval_. Crítica. ^596238
-34. 1. Bowdoin College Museum of Art. (2016, enero 26). New Acquisitions at Bowdoin College Museum of Art: Egyptian Portraits. *e-bulletin newsletter*.
+34. Bowdoin College Museum of Art. (2016, enero 26). New Acquisitions at Bowdoin College Museum of Art: Egyptian Portraits. *e-bulletin newsletter*. ^60c173
 35. Brecoulaki, H. (2014). “Precious colours” in Ancient Greek polychromy and painting: Material aspects and symbolic values. *Revue archéologique*, *57*(1), 3-35. 
 36. Bresciani, E. (1983). Giuseppe Acerbi e il ritratto di Dioskorous. En N. Bonacasa & A. Di Vita (Eds.), *Alessandria e il mondo ellenistico-romano: Studi in onore di Achille Adriani* (pp. 203-208). L’Erma di Bretschneider.
 37. Bricault, L. (2016). Les prêtres isiaques du monde romain. En V. Gasparini & R. Veymiers (Eds.), *Individuals and Materials in the Greco-Roman Cults of Isis: Agents, Images, and Practices* (pp. 155-197). Brill.
@@ -53,7 +55,7 @@ En muchísimos textos escritos por verdaderas autoridades en la materia, las ref
 46. Cerrato Moreno, E. J. (2021). *Estudio arqueométrico de la pintura mural romana en Córdoba* [Tesis doctoral, Universidad de Córdoba]. Helvia: Repositorio Institucional de la Universidad de Córdoba. ^a29d3a
 47. Christie’s Corporate Entities. (2026). *About Christie’s* [Web corporativa]. Christie’s. https://www.christies.com/en/about/overview 
 48. Christie’s London. (1997). *A Romano-Egyptian painted wooden «Fayum portrait» of a young boy*. 
-49. Christie’s London. (2015). *An Egyptian painted wood mummy portrait of a man*.
+49. Christie’s London. (2015). *An Egyptian painted wood mummy portrait of a man*. ^528392
 50. Christie’s New York. (2006). *A Painted Wood Mummy Portrait of a Woman*. ^ffc796
 51. Corcoran, L. H. (1995). Evidence for the Survival of Pharaonic Religion in Roman Egypt: The Portrait Mummy. En *Aufstieg und Niedergang der romischen Welt (ANRW)* (Vols. 18-5, pp. 3316-3332). De Gruyter. ^dae8cc
 52. Cortea, I. M., Ghervase, L., Ratoiu, L., Țentea, O., & Dinu, M. (2024). New Insights into the Materials and Painting Techniques of Ancient Wall Paintings from the Roman Province of Dacia: A Minimally Invasive Multi-Method Approach. *Heritage*, *7*(9), 5.268-5.294. ^ec8cf7
@@ -102,7 +104,7 @@ En muchísimos textos escritos por verdaderas autoridades en la materia, las ref
 95. Handoussa, T. (1981). Le collier ousekh. *Studien zur Altägyptischen Kultur*, _9_, 143-150.
 96. Harvard Art Museums. (2022). *Funerary Portraits from Roman Egypt: Facing Forward*.
 97. *Heinz Herzer*. (2025, julio 19). Wikipedia. https://de.wikipedia.org/wiki/Heinz_Herzer 
-98. Higginbotham, J. (s. f.). *Portrait of a youth wearing a gilded wreath*. Bowdoin College Museum of Art. Antiquity & America.
+98. Higginbotham, J. (s. f.). *Portrait of a youth wearing a gilded wreath*. Bowdoin College Museum of Art. Antiquity & America. ^4fb9a2
 99. Hjalgrim, H., Lynnerup, N., Liversage, M., & Rosenklint, A. (1995). Stereolithography: Potential Applications in Anthropological  Studies. *American Journal of Physical Anthropology*, *97*, 329-333. ^bcd8b9
 100. *Hôtel Drouot*. (2020, mayo 6). Wikipedia. https://es.wikipedia.org/wiki/H%C3%B4tel_Drouot 
 101. Jørgensen, M. (2001). *Catalogue Egypt III*. Ny Carlsberg Glyptotek.

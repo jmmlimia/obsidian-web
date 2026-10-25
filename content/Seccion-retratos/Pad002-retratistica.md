@@ -5,7 +5,7 @@ title: Pad002 - Retratística
 
 # Retratística
 
-###Descripción** 
+### Descripción 
 I) Edad. [[edades|Niño/a]] entre 3-14 años.
 
 II) Busto. Vuelto a su izquierda, más por la perspectiva (con el hombro derecho aparentando estar a más altura) que por la parte visible, entrega una cabeza recta en la vertical y ligeramente girada a la derecha; el rostro tiene forma [[rostros|adiamantada]], dibujado una mandíbula  bien marcada que remata en un mentón afilado, apenas resaltado por una mosca.
@@ -27,7 +27,7 @@ X) Fondo. Ha sido dorado en el momento del entierro, lo que nos impide, en caso 
 
 XI) Consideración general. La obra parece desvelar una ejecución rápida y sin detalles, tanto por los aspectos apuntados en cuanto al soporte, como por la pura labor retratística, centrada en ojos, nariz y boca como únicos elementos que merecían reseñarse y que, en efecto, destacan junto al pan de oro. Ni siquiera es seguro el género del efigiado, barbilampiño, sin rastro de arrugas, con cierto aire enfermizo a pesar de la sonrisa apuntada.
 
-###Técnica, materiales y procedimientos 
+### Técnica, materiales y procedimientos 
 I) Técnica. Encáustica (cera como aglutinante) sobre madera de tilo (_Tilia_ sp.) de 39.37 x 20.32 x X 0.16 cm.
 
 II) Materiales. a) Capa base de cal (al temple o blanco de plomo). c) Pan de oro, utilizado como fondo para enmarcar el rostro y en la corona. Esta decoración aún conserva la línea donde terminaban las vendas de lino.
