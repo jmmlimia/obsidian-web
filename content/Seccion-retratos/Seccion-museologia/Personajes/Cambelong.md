@@ -17,4 +17,5 @@ Así aparece en varias subastas de [[Christies|Christie's]]  ya en el siglo XXI,
 [[Pad001]] 
 
 **Bibliografía** 
-1. Livius Drusus. (2016). Restituted Egyptian mummy portraits for sale. _The History Blog_. https://www.thehistoryblog.com/archives/44320 
+
+[[Bibliografia#^3ee430|Livius Drusus, 2016]] 

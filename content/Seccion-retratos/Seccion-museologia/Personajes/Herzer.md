@@ -18,4 +18,4 @@ Instalado desde 1971 en la Promenadeplatz de Múnich, llamó a su negocio «Anti
 
 **Bibliografía** 
 
-1. *Heinz Herzer*. (2025, julio 19). En Wikipedia. https://de.wikipedia.org/wiki/Heinz_Herzer 
+[[Bibliografia#^095654|*Heinz Herzer*, 2025]] 

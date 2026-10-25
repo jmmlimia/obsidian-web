@@ -8,7 +8,7 @@ title: Pad002 - Museología
 ### Historia
 Actualmente se encuentra en [Bowdoin College Museum of Art](https://www.bowdoin.edu/art-museum/) (Brunswick, Maine (ME), EE. UU.), cat. = 2015.38.
 
-Antes de 1970, colección de [[Herzer|Heinz Herzer]], Múnich; adquirido por el matemático alemán, que trabajó en la Universidad de aquella ciudad, [[Schmidt|Gunther Schmidt]] y heredado por Dieter Schmidt. Vendido por la Galería [[Chisties|Christie's]], Londres, el 01OCT2015 (lote 165, _sale_ 10373), en 98.500 GBP al Museo de Arte del Bowdoin College, gracias al fondo de [[Wood-Smith|Adela Wood Smith]].
+Antes de 1970, colección de [[Herzer|Heinz Herzer]], Múnich; adquirido por el matemático alemán, que trabajó en la Universidad de aquella ciudad, [[Schmidt|Gunther Schmidt]] y heredado por Dieter Schmidt. Vendido por la Galería [[Christies|Christie's]], Londres, el 01OCT2015 (lote 165, _sale_ 10373), en 98.500 GBP al Museo de Arte del Bowdoin College, gracias al fondo de [[Wood-Smith|Adela Wood Smith]].
 
 ### Conservación 
 I) En su actual [[Estado-de-conservacion|estado de conservación]], el conjunto del retrato se nos presenta como bueno (+1).

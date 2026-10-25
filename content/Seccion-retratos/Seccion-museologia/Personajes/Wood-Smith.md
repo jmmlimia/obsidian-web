@@ -1,5 +1,5 @@
 ---
-title: Wood Smith
+title: Adela Wood Smith
 ---
 
 
@@ -15,4 +15,4 @@ En 1977 se creó un fondo de dotación gracias al legado de Adela Hills Wood (Ad
 
 **Bibliografía** 
 
-1. Danny, D. D. (2006.). *Harry De Forest Smith Residence, Old Brunswick Road*. Edwin Arlington Robinson. Recuperado https://www.earobinson.com/pages/sites/site20.html#:~:text=Harry%20De%20Forest%20Smith%20was%20a%20distinguished%20professor,them%20to%20the%20Houghton%20Library%20at%20Harvard%20University 
+[[Bibliografia#^540d0c|Danny, 2006]] 

@@ -17,4 +17,4 @@ Al parecer, su hijo Dieter Schmidt, del que no hemos encontrado ninguna informac
 
 **Bibliografía** 
 
-1. *Gunther Schmidt*. (2026, junio 14). En Wikipedia. https://en.wikipedia.org/wiki/Gunther_Schmidt 
+[[Bibliografia#^b1f96c|*Gunther Schmidt*, 2026]] 

@@ -51,7 +51,7 @@ En muchísimos textos escritos por verdaderas autoridades en la materia, las ref
 44. Carreras, O. (2015). La mirada incandescente. *Tendencias del mercado del arte*, _84_, 40-42.
 45. Cartwright, C. R. (1997). Egyptian Mummy Portraits: Examining the Woodworkers’ Craft. En M. L. Bierbrier (Ed.), *Portraits and masks: Burial customs in Roman Egypt* (pp. 106-111). The British Museum Press.
 46. Cerrato Moreno, E. J. (2021). *Estudio arqueométrico de la pintura mural romana en Córdoba* [Tesis doctoral, Universidad de Córdoba]. Helvia: Repositorio Institucional de la Universidad de Córdoba. ^a29d3a
-47. Christie’s Corporate Entities. (2026). *About Christie’s* [Web corporativa]. Christie’s. https://www.christies.com/en/about/overview 
+47. Christie’s Corporate Entities. (2026). *About Christie’s* [Web corporativa]. Christie’s. https://www.christies.com/en/about/overview ^aba2de. 
 48. Christie’s London. (1997). *A Romano-Egyptian painted wooden «Fayum portrait» of a young boy*. 
 49. Christie’s London. (2015). *An Egyptian painted wood mummy portrait of a man*. ^528392
 50. Christie’s New York. (2006). *A Painted Wood Mummy Portrait of a Woman*. ^ffc796
@@ -60,7 +60,7 @@ En muchísimos textos escritos por verdaderas autoridades en la materia, las ref
 53. Cosmacini, P., & Piazentini, P. (2011). Egyptian Mummies and Radiology: A Closer Link. *Yearbook of Mummy Studies*, *1*, 37-44. ^7a7281
 54. Cox, S. L. (2015). A Critical Look at Mummy CT Scanning. *The Anatomical Record*, *298*(6), 1099-1110. ^959ed8
 55. Dahms, J., Flossmann-Schütze, M., & Schütze, A. (2023). Forschung Im Smäk. Der Workshop «Coffins In 3D» Die Sargbestände Des Smäk Und Ihre Digitalisirrung. *Maat*, *29*, 2-17.
-56. Danny, D. D. (2006.). *Harry De Forest Smith Residence, Old Brunswick Road*. Edwin Arlington Robinson. 
+56. Danny, D. D. (2006.). *Harry De Forest Smith Residence, Old Brunswick Road*. Edwin Arlington Robinson. ^540d0c
 57. David, R. (Ed.). (1979). *Manchester Museum Mummy Project: Multidisciplinary Research on Ancient Egyptian Mummified Remains*. Manchester Museum.
 58. Davoli, P. (1997). El-Rubayyat e i «ritratti del Fayum». *Aegyptus*, *77*(1-2), 61-70. ^afef0f
 59. Davy, H. (1815). Some experiments and observations on the colours used in painting by the ancients. *Philosophical  Transactions of the Royal Society*, *105*, 97-124. ^37fc7e
@@ -95,13 +95,13 @@ En muchísimos textos escritos por verdaderas autoridades en la materia, las ref
 88. Grenfell, B. P., & Hunt, A. S. (1900). Graeco-Roman Branch: Excavations in the Fayûm. *Archaeological Report (Egypt Exploration Fund)*, 4-7. ^1412cf
 89. Griffith, F. L. (1898). *A collection of hieroglyphs: A contribution to the history of Egyptian writing*. Egypt Exploration Fund.
 90. Griffiths, J. G. (1982). Eight Funerary Paintings with Judgement Scenes in the Swansea Wellcome Museum. *The Journal of Egyptian Archaeology*, *68*, 228-252 y lám. XXIII-XXVI.
-91. *Gunther Schmidt*. (2026, junio 14). Wikipedia. https://en.wikipedia.org/wiki/Gunther_Schmidt 
+91. Gunther Schmidt*. (2026, junio 14). Wikipedia. https://en.wikipedia.org/wiki/Gunther_Schmidt ^b1f96c
 92. Hagen, F., & Ryholt, K. (2016). *The Antiquities Trade in Eypt I880-1930: The H.O. Lange Papers*. Det Kongelige Danske Videnskabernes Selskab.
 93. Hagen, F. N., & Ryholt, K. (2017). The antiquities trade in Egypt during the time of Rudolf Mose. En J. Helmbold-Doyé- & T. L. Gertzen (Eds.), *Mosse im Museum: Die Stiftungstätigkeit des Berliner Verlegers Rudolf Mosse (1843−1920) für das Ägyptische Museum Berlin* (pp. 59-74). Staatlichen Museen zu Berlin.
 94. Halm-Tisserant, M. (2013). Floridi vs austeri au livre XXXV de l’Histoire naturelle. *Ktèma*, *38*, 305-321. ^c82132
 95. Handoussa, T. (1981). Le collier ousekh. *Studien zur Altägyptischen Kultur*, _9_, 143-150.
 96. Harvard Art Museums. (2022). *Funerary Portraits from Roman Egypt: Facing Forward*.
-97. *Heinz Herzer*. (2025, julio 19). Wikipedia. https://de.wikipedia.org/wiki/Heinz_Herzer 
+97. *Heinz Herzer*. (2025, julio 19). Wikipedia. https://de.wikipedia.org/wiki/Heinz_Herzer ^095654 
 98. Higginbotham, J. (s. f.). *Portrait of a youth wearing a gilded wreath*. Bowdoin College Museum of Art. Antiquity & America. ^4fb9a2
 99. Hjalgrim, H., Lynnerup, N., Liversage, M., & Rosenklint, A. (1995). Stereolithography: Potential Applications in Anthropological  Studies. *American Journal of Physical Anthropology*, *97*, 329-333. ^bcd8b9
 100. *Hôtel Drouot*. (2020, mayo 6). Wikipedia. https://es.wikipedia.org/wiki/H%C3%B4tel_Drouot 
@@ -111,7 +111,7 @@ En muchísimos textos escritos por verdaderas autoridades en la materia, las ref
 104. Kroustallis, S. K. (2015). *Diccionario de Materias y Técnicas (II. Técnicas)*. Ministerio de Cultura.
 105. *Lewis Einstein*. (2026, junio 27). Wikipedia. https://en.wikipedia.org/wiki/Lewis_Einstein 
 106. Liddell, H. G., Scott, R., & Jones, H. S. (1940). *A Greek-English Lexicon*. Clarendon Press.
-107. Livius Drusus. (2016). Restituted Egyptian mummy portraits for sale. *The History Blog*.
+107. Livius Drusus. (2016). Restituted Egyptian mummy portraits for sale. *The History Blog*. ^3ee430
 108. Lynnerup, N. (2007). Mummies. *American Journal of Physical Anthropology*, *134*(S45), 162-190. ^7ef89c
 109. Lynnerup, N., & Rühli, F. (2015). Short Review: The Use of Conventional X‐rays in Mummy Studies. *The Anatomical Record*, *298*(6), 1085-1087.  ^68e03e
 110. Lynnerup, N., & Skaarup, B. (2008). Faces from the past: The reconstruction of human physical appearance. En N. Marchetti & I. Thuesen (Eds.), *Archaia: Case Studies on Research Planing, Characterisation, Conservation and Management of Archaeological Sites* (pp. 209-213). Archaeopress.

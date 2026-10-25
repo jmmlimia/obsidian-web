@@ -19,4 +19,4 @@ Puede consultarse su [página web](https://www.christies.com/?lid=1&sc_lang=en)
 
 **Bibliografía**
 
-1. Christie’s Corporate Entities. (2026). *About Christie’s* [Web corporativa]. Christie’s. https://www.christies.com/en/about/overview 
+[[Bibliografia#^aba2de|Christie’s Corporate Entities, 2026]] 

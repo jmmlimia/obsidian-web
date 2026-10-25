@@ -7,7 +7,7 @@ Un asunto de especial relevancia para la web es el de la propiedad intelectual.
 
 RdelF tiene uno de sus elementos fundamentales en la disponibilidad de material fotográfico sobre los retratos que incluye. Al menos una fotografía de cada uno de los registros es imprescindible para su correcto aprovechamiento, así que, desde el primer momento, se pensó en su propiedad intelectual y la gestión de sus derechos de copia.
 
-En [[acerca-de|Sobre esta página]] ya se hace hincapié en que la BD tiene un propósito educativo y de investigación y, por encima de todo, en que su uso no está relacionado, de ninguna manera, con interés lucrativo o comercial alguno.
+En la explicación "[[acerca-de|Acreca de]]" esta página, ya se hace hincapié en que la BD tiene un propósito educativo y de investigación y, por encima de todo, en que su uso no está relacionado, de ninguna manera, con interés lucrativo o comercial alguno.
 
 Por otra parte, las fotografías utilizadas lo son con unos criterios muy claros:
 
