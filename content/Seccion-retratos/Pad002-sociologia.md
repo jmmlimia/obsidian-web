@@ -9,7 +9,7 @@ title: Pad002 - Sociología
 Según MR, del siglo II, que lo ocupa casi en su totalidad la [[Dinastias-romanas|dinastía antonina]].
 
 ### Procedencia 
-([[Procedencia|Sobre procedencias]])
+([[Sobre-procedencias|Sobre procedencias]])
 
 Desconocida, sin datos al respecto. 
 

@@ -6,12 +6,12 @@ title: Edades
 Para la caracterización por edades de los individuos representados utilizaremos la siguiente escala, con siete niveles: 
 
 1. No aplica = si es imposible asignar alguna edad por las condiciones de conservación del retrato. 
-2. < 3 años, bebé o niño/a pequeño/a. 
-3. 3-14 años, niño/a. 
-4. 15-20 años, adolescente. 
-5. 21-35 años, joven. 
-6. 36-50 años, adulto/a. 
-7. > 50 años, anciano/a. 
+2. Menores de 3 años = bebé o niño/a pequeño/a. 
+3. 3-14 años = niño/a. 
+4. 15-20 años = adolescente. 
+5. 21-35 años = joven. 
+6. 36-50 años = adulto/a. 
+7. Mayores de 50 años = anciano/a. 
 
 Con algún muy leve retoque (referente al paso de la niñez a la adolescencia, cuando se empezaba a pagar el impuesto de capitación), esta clasificación se toma de Buikstra y Ubelaker (1994, p. 9); la fase "adolescente" también coincide con Dominic Montserrat (1993, p. 217). 
 
