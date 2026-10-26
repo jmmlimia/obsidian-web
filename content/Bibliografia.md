@@ -74,7 +74,7 @@ En muchísimos textos escritos por verdaderas autoridades en la materia, las ref
 67. Dubois, Y., Fuchs, M. E., & Meylan Krause, M.-F. (2011). Pots de peinture et pains de couleur à l’usage des peintres romains. *Archéologie Suisse*, *34*(1), 18-27. ^4bc210
 68. Dunand, F. (1979). *Religion populaire en Égypte romaine: Les terres cuites isiaques du Musée du Caire*. Brill. ^51db9e
 69. Dunand, F., & Lichtenberg, R. (1995). Pratiques et croyances funéraires en Egypte romaine. En *Aufstieg und Niedergang der romischen Welt (ANRW)* (Vols. 18-5, pp. 3216-3315). De Gruyter.
-70. Dunham, D. (1958). *The Egyptian Department and its Excavations*. Museum of Fine Arts Boston.
+70. Dunham, D. (1958). *The Egyptian Department and its Excavations*. Museum of Fine Arts Boston. ^8d835a
 71. Eastaugh, N., Walsh, V., Champlin, T., & Siddall, R. (2004). *Pigment Compendium: A Dictionary and Optical Microscopy of Historical Pigments*. Elsevier.
 72. Einstein, L. D. (1968). *A Diplomat Looks Back*. Yale University Press.
 73. Eladany, A. H. (2011). *A study of a selected group of third intermediate period mummies in the British Museum* [Tesis doctoral, University of Manchester]. The University of Manchester Research Explorer. ^de66e6
@@ -97,11 +97,11 @@ En muchísimos textos escritos por verdaderas autoridades en la materia, las ref
 90. Griffith, F. L. (1898). *A collection of hieroglyphs: A contribution to the history of Egyptian writing*. Egypt Exploration Fund. ^79ddde
 91. Griffiths, J. G. (1982). Eight Funerary Paintings with Judgement Scenes in the Swansea Wellcome Museum. *The Journal of Egyptian Archaeology*, *68*, 228-252 y lám. XXIII-XXVI.
 92. *Gunther Schmidt*. (2026, junio 14). Wikipedia. [https://en.wikipedia.org/wiki/Gunther_Schmidt](https://en.wikipedia.org/wiki/Gunther_Schmidt) ^b1f96c
-93. Hagen, F., & Ryholt, K. (2016). *The Antiquities Trade in Eypt I880-1930: The H.O. Lange Papers*. Det Kongelige Danske Videnskabernes Selskab.
-94. Hagen, F. N., & Ryholt, K. (2017). The antiquities trade in Egypt during the time of Rudolf Mose. En J. Helmbold-Doyé- & T. L. Gertzen (Eds.), *Mosse im Museum: Die Stiftungstätigkeit des Berliner Verlegers Rudolf Mosse (1843−1920) für das Ägyptische Museum Berlin* (pp. 59-74). Staatlichen Museen zu Berlin.
+93. Hagen, F., & Ryholt, K. (2016). *The Antiquities Trade in Eypt I880-1930: The H.O. Lange Papers*. Det Kongelige Danske Videnskabernes Selskab. ^329d10
+94. Hagen, F. N., & Ryholt, K. (2017). The antiquities trade in Egypt during the time of Rudolf Mose. En J. Helmbold-Doyé- & T. L. Gertzen (Eds.), *Mosse im Museum: Die Stiftungstätigkeit des Berliner Verlegers Rudolf Mosse (1843−1920) für das Ägyptische Museum Berlin* (pp. 59-74). Staatlichen Museen zu Berlin. ^511ed8
 95. Halm-Tisserant, M. (2013). Floridi vs austeri au livre XXXV de l’Histoire naturelle. *Ktèma*, *38*, 305-321. ^c82132
 96. Handoussa, T. (1981). Le collier ousekh. *Studien zur Altägyptischen Kultur*, _9_, 143-150. ^36457f
-97. Harvard Art Museums. (2022). *Funerary Portraits from Roman Egypt: Facing Forward*.
+97. Harvard Art Museums. (2022). *Funerary Portraits from Roman Egypt: Facing Forward*. ^4c3686
 98. *Heinz Herzer*. (2025, julio 19). Wikipedia. [https://de.wikipedia.org/wiki/Heinz_Herzer](https://de.wikipedia.org/wiki/Heinz_Herzer) ^095654
 99. Higginbotham, J. (s. f.). *Portrait of a youth wearing a gilded wreath*. Bowdoin College Museum of Art. Antiquity & America. ^4fb9a2
 100. Hjalgrim, H., Lynnerup, N., Liversage, M., & Rosenklint, A. (1995). Stereolithography: Potential Applications in Anthropological  Studies. *American Journal of Physical Anthropology*, *97*, 329-333. ^bcd8b9
@@ -160,7 +160,7 @@ En muchísimos textos escritos por verdaderas autoridades en la materia, las ref
 153. Rondot, V. (2015). Graeco-Roman Fayum pantheons as documented by 2nd century painted wooden panels. En *Von cler Pharaanenzeit his zur Spatantike: Kulturelle Vielfalt im Fayum* (pp. 145-162). Harrassowitz Verlag. ^b8ab98
 154. Rothe, A. (1982). Conservation Report on the Mummy Portrait of Isidora. *The J. Paul Getty Museum Journal*, *10*, 195-196. ^9be0f3
 155. Sattar, S. (2024). Lake Pigments and Thin-Layer Chromatography of Natural Dyes: Paired Experiments for Nonmajors. *Journal of Chemical Education*, *101*(11), 4983-4988. ^c4d7a2
-Schweitzer, A. (1998). L’évolution stylistique et iconographique des parures de cartonnage d’Akhmîm du début de l’époque ptolémaïque à l’époque romaine. *Bulletin de l’Institut Français d’Archéologie Orientale*, _98_, 325-352. ^d4f86d
+156. Schweitzer, A. (1998). L’évolution stylistique et iconographique des parures de cartonnage d’Akhmîm du début de l’époque ptolémaïque à l’époque romaine. *Bulletin de l’Institut Français d’Archéologie Orientale*, _98_, 325-352. ^d4f86d
 157. Scott, P. (1997). A Portrait Mummy in Blackburn. En M. L. Bierbrier (Ed.), *Portraits and Masks: Burial Customs in Roman Egypt* (pp. 55-58 y lám. 6, núm. 1 y 2). The British Museum Press.
 158. Shugar, A. N., & Mass, J. L. (2012). Introduction. En A. N. Shugar & J. L. Mass (Eds.), *Handheld XRF for Art and Archaeology* (pp. 17-36). Leuven University Press. ^4f6cc3
 159. Smith, C. (1889). The pictures. En W. M. F. Petrie, *Hawara, Biahmu, and Arsinoe* (pp. 37-46). Field & Tuer.
