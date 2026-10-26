@@ -15,8 +15,8 @@ Fue usado por hombres, mujeres, dioses, diosas, símbolos divinos y difuntos a l
 
 **Bibliografía** 
 
-1. Gardiner, A. (1957). *Egyptian grammar: Being an introduction to the study of hieroglyphs* (3a ed., rev.). Oxford University Press. (Obra original publicada en 1927)
+[[Bibliografia#^5c7237|Gardiner, 1957]] 
 
-2. Handoussa, T. (1981). Le collier ousekh. *Studien zur Altägyptischen Kultur*, _9_, 143-150.
+[[Bibliografia#^36457f|Handoussa, 1981]] 
 
-3. Schweitzer, A. (1998). L’évolution stylistique et iconographique des parures de cartonnage d’Akhmîm du début de l’époque ptolémaïque à l’époque romaine. *Bulletin de l’Institut Français d’Archéologie Orientale*, _98_, 325-352.
+[[Bibliografia#^d4f86d|Schweitzer, 1998]] 

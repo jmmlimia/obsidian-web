@@ -83,7 +83,7 @@ En muchísimos textos escritos por verdaderas autoridades en la materia, las ref
 76. Evangelista, S. (2013). Greek Textual Archaeology and Erotic Epigraphy in Simeon Solomon and Michael Field. *Cahiers victoriens et édouardiens*, *78*. [https://doi.org/10.4000/cve.909](https://doi.org/10.4000/cve.909) 
 77. Fiorelli, G. (1873). *Gli scavi di Pompei dal 1861 al 1872*. Tipografia Italiana nel liceo V. Emanuele. ^cbb682
 78. Fournier, F., Viguerie, L. de, Balme, S., Janot, J.-M., Walter, P., & Jaber, M. (2016). Physico-chemical characterization of lake pigments based on montmorillonite and carminic acid. *Applied Clay Science*, *130*, 12-17. ^c13a99
-79. Gardiner, A. (1957). *Egyptian grammar: Being an introduction to the study of hieroglyphs* (3a ed., rev.). Oxford University Press. (Obra original publicada en 1927)
+79. Gardiner, A. (1957). *Egyptian grammar: Being an introduction to the study of hieroglyphs* (3a ed., rev.). Oxford University Press. (Obra original publicada en 1927) ^5c7237
 80. García Valdés, M. (1998). Traducción y notas. En *Plantas y remedios naturales (De Materia Medica). Libros IV-V*. Gredos.
 81. Garzón Rodríguez, J. (2013). Museo Kom Aushim. *Djeser*, *6*, 66-69.
 82. Gates, G., Wu, Y., Burns, J., Watkins, J., & Butt, D. P. (2021). Microstructural and chemical characterization of a purple pigment from a Faiyum mummy portrait. *International Journal of Ceramic Engineering & Science*, *3*(1), 4-17.
@@ -94,13 +94,13 @@ En muchísimos textos escritos por verdaderas autoridades en la materia, las ref
 87. Graf, T. (1889). *Catalogue of Theodor Graf’s gallery of antique portraits from the Hellenistic times*. Otto v. Holten.
 88. Grand-Clément, A. (2016). Du blanc, du noir et de la bigarrure: Le jeu des couleurs dans les représentations d’isiaques. En V. Gasparini & R. Veymiers (Eds.), *Individuals and Materials in the Greco-Roman Cults of Isis: Agents, Images, and Practices* (pp. 340-365). Brill.
 89. Grenfell, B. P., & Hunt, A. S. (1900). Graeco-Roman Branch: Excavations in the Fayûm. *Archaeological Report (Egypt Exploration Fund)*, 4-7. ^1412cf
-90. Griffith, F. L. (1898). *A collection of hieroglyphs: A contribution to the history of Egyptian writing*. Egypt Exploration Fund.
+90. Griffith, F. L. (1898). *A collection of hieroglyphs: A contribution to the history of Egyptian writing*. Egypt Exploration Fund. ^79ddde
 91. Griffiths, J. G. (1982). Eight Funerary Paintings with Judgement Scenes in the Swansea Wellcome Museum. *The Journal of Egyptian Archaeology*, *68*, 228-252 y lám. XXIII-XXVI.
 92. *Gunther Schmidt*. (2026, junio 14). Wikipedia. [https://en.wikipedia.org/wiki/Gunther_Schmidt](https://en.wikipedia.org/wiki/Gunther_Schmidt) ^b1f96c
 93. Hagen, F., & Ryholt, K. (2016). *The Antiquities Trade in Eypt I880-1930: The H.O. Lange Papers*. Det Kongelige Danske Videnskabernes Selskab.
 94. Hagen, F. N., & Ryholt, K. (2017). The antiquities trade in Egypt during the time of Rudolf Mose. En J. Helmbold-Doyé- & T. L. Gertzen (Eds.), *Mosse im Museum: Die Stiftungstätigkeit des Berliner Verlegers Rudolf Mosse (1843−1920) für das Ägyptische Museum Berlin* (pp. 59-74). Staatlichen Museen zu Berlin.
 95. Halm-Tisserant, M. (2013). Floridi vs austeri au livre XXXV de l’Histoire naturelle. *Ktèma*, *38*, 305-321. ^c82132
-96. Handoussa, T. (1981). Le collier ousekh. *Studien zur Altägyptischen Kultur*, _9_, 143-150.
+96. Handoussa, T. (1981). Le collier ousekh. *Studien zur Altägyptischen Kultur*, _9_, 143-150. ^36457f
 97. Harvard Art Museums. (2022). *Funerary Portraits from Roman Egypt: Facing Forward*.
 98. *Heinz Herzer*. (2025, julio 19). Wikipedia. [https://de.wikipedia.org/wiki/Heinz_Herzer](https://de.wikipedia.org/wiki/Heinz_Herzer) ^095654
 99. Higginbotham, J. (s. f.). *Portrait of a youth wearing a gilded wreath*. Bowdoin College Museum of Art. Antiquity & America. ^4fb9a2
@@ -111,7 +111,7 @@ En muchísimos textos escritos por verdaderas autoridades en la materia, las ref
 104. Kroustallis, S. K. (2008). *Diccionario de Materias y Técnicas (I. Materias)*. Ministerio de Cultura. ^e92539
 105. Kroustallis, S. K. (2015). *Diccionario de Materias y Técnicas (II. Técnicas)*. Ministerio de Cultura.
 106. *Lewis Einstein*. (2026, junio 27). Wikipedia. https://en.wikipedia.org/wiki/Lewis_Einstein 
-107. Liddell, H. G., Scott, R., & Jones, H. S. (1940). *A Greek-English Lexicon*. Clarendon Press.
+107. Liddell, H. G., Scott, R., & Jones, H. S. (1940). *A Greek-English Lexicon*. Clarendon Press. ^15ca04
 108. Livius Drusus. (2016). Restituted Egyptian mummy portraits for sale. *The History Blog*. ^3ee430
 109. Lynnerup, N. (2007). Mummies. *American Journal of Physical Anthropology*, *134*(S45), 162-190. ^7ef89c
 110. Lynnerup, N., & Rühli, F. (2015). Short Review: The Use of Conventional X‐rays in Mummy Studies. *The Anatomical Record*, *298*(6), 1085-1087.  ^68e03e
@@ -160,7 +160,7 @@ En muchísimos textos escritos por verdaderas autoridades en la materia, las ref
 153. Rondot, V. (2015). Graeco-Roman Fayum pantheons as documented by 2nd century painted wooden panels. En *Von cler Pharaanenzeit his zur Spatantike: Kulturelle Vielfalt im Fayum* (pp. 145-162). Harrassowitz Verlag. ^b8ab98
 154. Rothe, A. (1982). Conservation Report on the Mummy Portrait of Isidora. *The J. Paul Getty Museum Journal*, *10*, 195-196. ^9be0f3
 155. Sattar, S. (2024). Lake Pigments and Thin-Layer Chromatography of Natural Dyes: Paired Experiments for Nonmajors. *Journal of Chemical Education*, *101*(11), 4983-4988. ^c4d7a2
-156. Schweitzer, A. (1998). L’évolution stylistique et iconographique des parures de cartonnage d’Akhmîm du début de l’époque ptolémaïque à l’époque romaine. *Bulletin de l’Institut Français d’Archéologie Orientale*, _98_, 325-352.
+Schweitzer, A. (1998). L’évolution stylistique et iconographique des parures de cartonnage d’Akhmîm du début de l’époque ptolémaïque à l’époque romaine. *Bulletin de l’Institut Français d’Archéologie Orientale*, _98_, 325-352. ^d4f86d
 157. Scott, P. (1997). A Portrait Mummy in Blackburn. En M. L. Bierbrier (Ed.), *Portraits and Masks: Burial Customs in Roman Egypt* (pp. 55-58 y lám. 6, núm. 1 y 2). The British Museum Press.
 158. Shugar, A. N., & Mass, J. L. (2012). Introduction. En A. N. Shugar & J. L. Mass (Eds.), *Handheld XRF for Art and Archaeology* (pp. 17-36). Leuven University Press. ^4f6cc3
 159. Smith, C. (1889). The pictures. En W. M. F. Petrie, *Hawara, Biahmu, and Arsinoe* (pp. 37-46). Field & Tuer.

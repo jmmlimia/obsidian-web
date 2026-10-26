@@ -12,6 +12,9 @@ Palabra griega ψχεντ, *pschent* = «palabra egipcia para un tocado real»
 Corona del Alto y Bajo Egipto, unión, por tanto, de la corona blanca del Alto Egipto, *hedjet*, y la corona roja del Bajo Egipto, *deshret*. El número y las formas de representación en dos y tres dimensiones de esta corona es casi infinito y, aunque nunca se ha encontrado ningún resto arqueológico de ella, nos es conocida desde la I Dinastía.
 
 **Bibliografía** 
-1. Gardiner, A. (1957). *Egyptian grammar: Being an introduction to the study of hieroglyphs* (3a ed., rev.). Oxford University Press. (Obra original publicada en 1927)
-2. Griffith, F. L. (1898). *A collection of hieroglyphs: A contribution to the history of Egyptian writing*. Egypt Exploration Fund.
-3. Liddell, H. G., Scott, R., & Jones, H. S. (1940). *A Greek-English Lexicon*. Clarendon Press.
+
+[[Bibliografia#^5c7237|Gardiner, 1957]] 
+
+[[Bibliografia#^79ddde|Griffith, 1898]] 
+
+[[Bibliografia#^15ca04|Liddell et al., 1940]]  
