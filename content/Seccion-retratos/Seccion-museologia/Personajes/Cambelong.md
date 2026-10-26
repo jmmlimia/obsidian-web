@@ -14,6 +14,7 @@ Así aparece en varias subastas de [[Christies|Christie's]]  ya en el siglo XXI,
 «Es la joya oculta de todo marchante de arte canadiense, una colección privada suiza vagamente datada en la década de 1970 para evitar infringir la Convención de la UNESCO sobre las Medidas que Deben Adoptarse para Prohibir e Impedir la Importación, la Exportación y la Transferencia de Propiedad Ilícitas de Bienes Culturales» (Livius Drusus, 2016).
 
 **Relacionado con el (1) retrato:** 
+
 [[Pad001]] 
 
 **Bibliografía** 
