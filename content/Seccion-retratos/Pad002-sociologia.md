@@ -6,9 +6,11 @@ title: Pad002 - Sociología
 # Sociología
 
 ### Datación 
-Según MR, del siglo II, que lo ocupa casi en su totalidad la [[Dinastías romanas|dinastía antonina]].
+Según MR, del siglo II, que lo ocupa casi en su totalidad la [[Dinastias-romanas|dinastía antonina]].
 
-### Procedencia ([[Procedencia|véase]])
+### Procedencia 
+([[Procedencia|Sobre procedencias]])
+
 Desconocida, sin datos al respecto. 
 
 ### Personaje 

@@ -44,8 +44,8 @@ En muchísimos textos escritos por verdaderas autoridades en la materia, las ref
 37. Bricault, L. (2016). Les prêtres isiaques du monde romain. En V. Gasparini & R. Veymiers (Eds.), *Individuals and Materials in the Greco-Roman Cults of Isis: Agents, Images, and Practices* (pp. 155-197). Brill.
 38. Brøns, C., & Sargent, M. L. (2018). Pigments and Dyes: The use of colourants for the depiction of garments on Egyptian mummy portraits in the Ny Carlsberg Glyptotek. En M. S. Busana, M. Gleba, F. Meo, & A. R. Tricomi (Eds.), *Textiles and Dyes in the Mediterranean Economy and Society* (pp. 481-490 + lám. XIII-XIV). Libros Pórtico. ^e570ad
 39. Bruyère, B. (1953). *Rapport sur les fouilles de Deir El Médineh (Années 1948 à 1951)*. Institut Français d’Archéologie Orientale.
-40. Buikstra, J. E., & Ubelaker, D. H. (Eds.). (1994). *Standards for data collection from human skeletal remains*. Arkansas Archeological Survey.
-41. Calzada Echevarría, A. (2003). *Diccionario clásico de arquitectura y bellas artes*. Ediciones del Serbal.
+40. Buikstra, J. E., & Ubelaker, D. H. (Eds.). (1994). *Standards for data collection from human skeletal remains*. Arkansas Archeological Survey. ^d30026
+41. Calzada Echevarría, A. (2003). *Diccionario clásico de arquitectura y bellas artes*. Ediciones del Serbal. ^bd3c3e
 42. Cardon, D., Granger-Taylor, H., & Nowik, W. (2011). What did the look like? Fragments of clothing found at Didymoi: Case studies. En H. Cuvigny (Ed.), *Didymoi: Une garnison romeine dans le désert Oriental d’Égypte. I - Les fouilles et le matériel* (pp. 273-362). Institut Français d’Archéologie Orientale.
 43. Cardon, D., Nowik, W., Granger-Taylor, H., Marcinowska, R., Kusyk, K., & Trojanowicz, M. (2011). Who could wear true purple in Roman Egypt? Technical and social considerations on some new identifications of purple from marine molluscs in archaeological textiles. En C. Alfaro Giner, J.-P. Brun, P. Borgard, & R. Pierobon Benoit (Eds.), *Textiles y tintes en la ciudad antigua* (pp. 197-214). Universidad de Valencia.
 44. Carreras, O. (2015). La mirada incandescente. *Tendencias del mercado del arte*, _84_, 40-42.
@@ -120,7 +120,7 @@ En muchísimos textos escritos por verdaderas autoridades en la materia, las ref
 113. Matḥaf al-Uqṣur lil-Fann al-Miṣrī al-Qadīm. (1978). *The Luxor Museum of Ancient Egyptian Art: Guidebook*. Egyptian Antiquities Organization.
 114. Mininberg, D. T. (2001). The Museum’s Mummies: An Inside View. *Neurosurgery*, *49*(1), 192-199.
 115. Miriello, D., Bloise, A., Crisci, G., De Luca, R., De Nigris, B., Martellone, A., Osanna, M., Pace, R., Pecci, A., & Ruggieri, N. (2018). Non-Destructive Multi-Analytical Approach to Study the Pigments of Wall Painting Fragments Reused in Mortars from the Archaeological Site of Pompeii (Italy). *Minerals*, *8*(4), 1-15. ^93b0d5
-116. Montserrat, D. (1993). The Representation of Young Males in «Fayum Portraits». *The Journal of Egyptian Archaeology*, *79*, 215-225 y lám. XXII-XXIII.
+116. Montserrat, D. (1993). The Representation of Young Males in «Fayum Portraits». *The Journal of Egyptian Archaeology*, *79*, 215-225 y lám. XXII-XXIII. ^810bf2
 117. Montserrat, D. (1994). The Dating of Fayum Mummy Portraits: A Papyrological Perspective. En A. Bülow-Jacobsen (Ed.), *Proceedings of the 20th International Congress of Papyrologists* (pp. 578-581). Museum Tusculanum Press. ^b9204e
 118. Morrow Archival. (s. f.). _The pigments of Pompeii_. ^064a14
 119. *Multidetector Computed Tomography*. (2025). ScienceDirect. ^b4e6e0
@@ -143,7 +143,7 @@ En muchísimos textos escritos por verdaderas autoridades en la materia, las ref
 136. Picton, J., Quirke, S., & Roberts, P. C. (Eds.). (2007). *Living Images: Egyptian Funerary Portraits in the Petrie Museum*. University College London.
 137. Pierre Bergé & associés. (2009). *Archéologie: Fayez Barakat, lundi 14 décembre 2009*. Pierre Bergé & associés.
 138. Pierre Bergé & associés. (2013). *Vente aux enchéres: Archéologie, mardi 26 novembre 2013*. Pierre Bergé & associés.
-139. Plaza Escudero, L. de la (Ed.). (2012). *Diccionario visual de términos arquitectónicos* (2a ed., amp.). Cátedra.
+139. Plaza Escudero, L. de la (Ed.). (2012). *Diccionario visual de términos arquitectónicos* (2a ed., amp.). Cátedra. ^0ff5d8
 140. Plin. _HN_ = Plinio el Viejo. (1952). *Pliny. Natural History: Books 33-35* (H. Rackham, Ed.). Harvard University Press. (Obra original publicada en ca. 77 dC) ^c52628
 141. Plin. _HN_ 1972 = Plinio el Viejo. (1972). *Historia Natural de Gaio Plinio Secundo* (R. Fortea Pérez, Ed.) [Tesis doctoral, Universidad de Sevilla]. idUS. Depósito de Investigación de la Universidad de Sevilla. (Obra original publicada en ca. 77 dC).
 142. Potter, D. M. (with Maitland, M.). (2020). *Ancient Egyptian Collections in Scottish Museums*. National Museums Scotland.
@@ -185,7 +185,7 @@ En muchísimos textos escritos por verdaderas autoridades en la materia, las ref
 178. Svoboda, M. (2016). Technology Unlocks the Secrets of Ancient Egyptian Funerary Portraits. *Getty - News & Stories*. ^1784f8
 179. Swarney, P. R. (1970). *The Ptolemaic and Roman idios logos*. A. M. Hakkert. ^2d5067
 180. Tallet, G. (2016). Mourir en isiaque? Réflexions sur les portraits de momie de l’Égypte romaine. En V. Gasparini & R. Veymiers (Eds.), *Individuals and Materials in the Greco-Roman Cults of Isis: Agents, Images, and Practices* (pp. 413-447). Brill.
-181. Tassie, G. J. (2009). The hairstyles represented on the Salakhana Stelae. En T. DuQuesne (Ed.), *The Salakhana Trove: Votive Stelae and Other Objects from Asyut* (pp. 459-536). Darengo Publications.
+181. Tassie, G. J. (2009). The hairstyles represented on the Salakhana Stelae. En T. DuQuesne (Ed.), *The Salakhana Trove: Votive Stelae and Other Objects from Asyut* (pp. 459-536). Darengo Publications. ^93c92d
 182. The J. Paul Getty Museum. (2002). *Handbook of the Antiquities Collection*. J. Paul Getty Trust.
 183. Thphr. *Lap.* = Teofrasto. (1956). *Theophrastus. On Stones* (E. R. Caley & J. F. C. Richards, Eds.). The Ohio State University. (Obra original publicada en siglo IV aC)
 184. Trope, B. T. (with Quirke, S., & Lacovara, P.). (2005). *Excavating Egypt: Great discoveries from the Petrie Museum of Egyptian Archaeology, University College, London*. Michael C. Carlos Museum, Emory University.

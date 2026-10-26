@@ -14,6 +14,6 @@ Modelo *melonfrisur* = 'peinado de melón'.
 Largo cabello negro con las conocidas bandas tipo melón; en este caso enriquecido con pequeños rizos acaracolados cayendo sobre la frente, y lo que pueden ser dos largas trenzas cayendo por detrás a lo largo de su cuello. El pintor se ha tomado la licencia de tapar la oreja izquierda que, dado el giro de la cabeza, sería la más visible, y dejar destapada la derecha, que apenas se ve.
 
 ### Pendientes 
-[[Tipo discoidal]]. 
+[[Tipo-discoidal|Tipo discoidal]]. 
 
 Se les ha añadido una gala de color verde esmeralda en su centro. 

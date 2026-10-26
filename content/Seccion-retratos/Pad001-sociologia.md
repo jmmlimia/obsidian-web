@@ -6,9 +6,11 @@ title: Pad001 - Sociología
 # Sociología
 
 ### Datación 
-Según Christie's (2006), entre los años 55 y 70, final de la [[Dinastías romanas|dinastía Julio-Claudia]] y principios de la [[Dinastías romanas|Flavia]].
+Según Christie's (2006), entre los años 55 y 70, final de la [[Dinastiasromanas|dinastía Julio-Claudia]] y principios de la [[Dinastias-romanas|Flavia]].
 
-### Procedencia ([[Procedencia|véase]]) 
+### Procedencia 
+([[Procedencia|Sobre procedencia]]) 
+
 Desconocida, sin datos al respecto, aunque Christie's (2006) lo supone de Hawara sin explicar por qué.
 
 ### Personaje 
