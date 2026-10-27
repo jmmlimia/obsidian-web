@@ -25,4 +25,4 @@ Un segundo grupo de retratos (conocido como colección Graf II) que comprende al
 
 [[Bibliografia#^511ed8|Hagen & Ryholt, 2017]] 
 
-[[Bibliografia#^4c3686|Harvard Art Museums, 2022]] 
+[[Bibliografia#harvard2022|Harvard Art Museums, 2022]] 

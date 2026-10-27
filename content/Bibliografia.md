@@ -103,7 +103,7 @@ En muchísimos textos escritos por verdaderas autoridades en la materia, las ref
 96. Hagen, F. N., & Ryholt, K. (2017). The antiquities trade in Egypt during the time of Rudolf Mose. En J. Helmbold-Doyé- & T. L. Gertzen (Eds.), *Mosse im Museum: Die Stiftungstätigkeit des Berliner Verlegers Rudolf Mosse (1843−1920) für das Ägyptische Museum Berlin* (pp. 59-74). Staatlichen Museen zu Berlin. ^511ed8
 97. Halm-Tisserant, M. (2013). Floridi vs austeri au livre XXXV de l’Histoire naturelle. *Ktèma*, *38*, 305-321. ^c82132
 98. Handoussa, T. (1981). Le collier ousekh. *Studien zur Altägyptischen Kultur*, _9_, 143-150. ^36457f
-99. Harvard Art Museums. (2022). *Funerary Portraits from Roman Egypt: Facing Forward*. ^4c3686
+99. <span id="harvard2022"></span>Harvard Art Museums. (2022). *Funerary Portraits from Roman Egypt: Facing Forward*. ^4c3686
 100. *Heinz Herzer*. (2025, julio 19). Wikipedia. [https://de.wikipedia.org/wiki/Heinz_Herzer](https://de.wikipedia.org/wiki/Heinz_Herzer) ^095654
 101. Higginbotham, J. (s. f.). *Portrait of a youth wearing a gilded wreath*. Bowdoin College Museum of Art. Antiquity & America. ^4fb9a2
 102. Hjalgrim, H., Lynnerup, N., Liversage, M., & Rosenklint, A. (1995). Stereolithography: Potential Applications in Anthropological  Studies. *American Journal of Physical Anthropology*, *97*, 329-333. ^bcd8b9

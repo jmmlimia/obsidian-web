@@ -16,4 +16,4 @@ En 1930, adquirió más de 200 retratos de la [[Graf|colección Graf II]], haci
 
 **Bibliografía** 
 
-[[Bibliografia#^4c3686|Harvard Art Museums, 2022]] 
+[[Bibliografia#harvard2022|Harvard Art Museums, 2022]] 
