@@ -16,7 +16,7 @@ En muchísimos textos escritos por verdaderas autoridades en la materia, las ref
 9. Alegre García, S. (2017). *Dioses, mitos y rituales en el antiguo Egipto*. Dilema.
 10. Allen, R. (2012). *Three portions of mummy portraits from the Fayoum Egypt: Add. 9455vol2_p573/3*. Rethinking Pitt-Rivers. 
 11. Alpass, P. (2010). The Basileion of Isis and the religious art of nabataean Petra. _Syria_, _87_, 93-113.
-12. Aravantinos, V. (2010). *Τhe Archaeological Museum of Thebes*. John S. Latsis Public Benefit Foundation.
+12. <span id="aravantinos2010"></span>Aravantinos, V. (2010). *Τhe Archaeological Museum of Thebes*. John S. Latsis Public Benefit Foundation.
 13. Arnhold, M. (2015). Das Mumienporträt eines jungen Mädchens aus dem Fayum. En N. Schröder-Griebel (Ed.), *«Ein lehrreicher Überblick»: Georg Loeschcke und das Akademische Kunstmuseum*. Akademisches Kunstmuseum.
 14. Asensi Amorós, M. V. (2000). _La madera en el Antiguo Egipto: Identificación, usos y comercio_ [Tesis doctoral, Universidad de Alicante]. RUA. Repositorio Universidad de Alicante.
 15. Aubert, M.-F. (2008a). Cercueils et étiquettes de momies. En M.-F. Aubert, R. Cortopassi, G. Nachtergael, M. V. Asensi Amorós, P. Détienne, S. Pagès-Camagna, & A.-S. Le Hô (Eds.), *Portraits funéraires de l’Égypte romaine: Cartonnages, linceuls et bois* (Vol. 2, pp. 73-88). Musée du Louvre.
@@ -40,7 +40,7 @@ En muchísimos textos escritos por verdaderas autoridades en la materia, las ref
 33. Bierbrier, M. L., Cartwright, C. R., Filer, J., Humphrey, S., Middleton, A., & Walker, S. E. C. (1997). New Light on Ancient Faces. *British Museum Magazine*, *27*, 36-39.
 34. Bonnassie, P. (1983). _Vocabulario básico de la historia medieval_. Crítica. ^596238
 35. Bowdoin College Museum of Art. (2016, enero 26). New Acquisitions at Bowdoin College Museum of Art: Egyptian Portraits. *e-bulletin newsletter*. ^60c173
-36. Brecoulaki, H. (2014). “Precious colours” in Ancient Greek polychromy and painting: Material aspects and symbolic values. *Revue archéologique*, *57*(1), 3-35. 
+36. <span id="brecoulaki2014"></span>Brecoulaki, H. (2014). “Precious colours” in Ancient Greek polychromy and painting: Material aspects and symbolic values. *Revue archéologique*, *57*(1), 3-35. 
 37. Bresciani, E. (1983). Giuseppe Acerbi e il ritratto di Dioskorous. En N. Bonacasa & A. Di Vita (Eds.), *Alessandria e il mondo ellenistico-romano: Studi in onore di Achille Adriani* (pp. 203-208). L’Erma di Bretschneider.
 38. Bricault, L. (2016). Les prêtres isiaques du monde romain. En V. Gasparini & R. Veymiers (Eds.), *Individuals and Materials in the Greco-Roman Cults of Isis: Agents, Images, and Practices* (pp. 155-197). Brill.
 39. Brøns, C., & Sargent, M. L. (2018). Pigments and Dyes: The use of colourants for the depiction of garments on Egyptian mummy portraits in the Ny Carlsberg Glyptotek. En M. S. Busana, M. Gleba, F. Meo, & A. R. Tricomi (Eds.), *Textiles and Dyes in the Mediterranean Economy and Society* (pp. 481-490 + lám. XIII-XIV). Libros Pórtico. ^e570ad
@@ -82,7 +82,7 @@ En muchísimos textos escritos por verdaderas autoridades en la materia, las ref
 75. Eladany, A. H. (2011). *A study of a selected group of third intermediate period mummies in the British Museum* [Tesis doctoral, University of Manchester]. The University of Manchester Research Explorer. ^de66e6
 76. *Etim.* = San Isidoro de Sevilla. (2004). _Etimologías_. Biblioteca de Autores Cristianos. (Obra original publicada en ca. 630)
 77. Eudel, P. (1882). *L'Hotel Drouot et la curiosité en 1881*. G.Charpentier.
-78. Evangelista, S. (2013). Greek Textual Archaeology and Erotic Epigraphy in Simeon Solomon and Michael Field. *Cahiers victoriens et édouardiens*, *78*. [https://doi.org/10.4000/cve.909](https://doi.org/10.4000/cve.909) 
+78. <span id="evangelista2013"></span>Evangelista, S. (2013). Greek Textual Archaeology and Erotic Epigraphy in Simeon Solomon and Michael Field. *Cahiers victoriens et édouardiens*, *78*. [https://doi.org/10.4000/cve.909](https://doi.org/10.4000/cve.909) 
 79. Fiorelli, G. (1873). *Gli scavi di Pompei dal 1861 al 1872*. Tipografia Italiana nel liceo V. Emanuele. ^cbb682
 80. Fournier, F., Viguerie, L. de, Balme, S., Janot, J.-M., Walter, P., & Jaber, M. (2016). Physico-chemical characterization of lake pigments based on montmorillonite and carminic acid. *Applied Clay Science*, *130*, 12-17. ^c13a99
 81. Gardiner, A. (1957). *Egyptian grammar: Being an introduction to the study of hieroglyphs* (3a ed., rev.). Oxford University Press. (Obra original publicada en 1927) ^5c7237
