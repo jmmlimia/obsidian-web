@@ -11,7 +11,7 @@ En muchísimos textos escritos por verdaderas autoridades en la materia, las ref
 4. Acerbi, G. (1833). _Lettere a Ippolito Rosellini: 1 Agosto 1833_ [Carta]. Biblioteca Universitaria de Pisa. Lettere a Ippolito Rosellini. 
 5. Aceto, M. (2021). Pigments—The palette of organic colourants in wall paintings. *Archaeological and Anthropological Sciences*, *13*(10), 1-23.  ^6b8411
 6. Adams, B. (1975). Petrie’s Manuscript Notes on the Koptos Foundation Deposits of Tuthmosis III. *The Journal of Egyptian Archaeology*, *61*, 102-113.
-7. Adams, B., & Walker, S. E. C. (2007). Catalogue of the Panel Portraits in The Petrie Museum. En J. Picton, S. Quirke, & P. C. Roberts (Eds.), *Living Images: Egyptian Funerary Portraits in the Petrie Museum* (pp. 161-269). University College London.
+7. Adams, B., & Walker, S. E. C. (2007). Catalogue of the Panel Portraits in The Petrie Museum. En J. Picton, S. Quirke, & P. C. Roberts (Eds.), *Living Images: Egyptian Funerary Portraits in the Petrie Museum* (pp. 161-269). University College London. ^0d703a
 8. Albertson, L. (2022, septiembre 7). 5+1+9+1= 16 plundered Egyptian artefacts restituted to their rightful owners in New York. *ARCAblog*. 
 9. Alegre García, S. (2017). *Dioses, mitos y rituales en el antiguo Egipto*. Dilema.
 10. Allen, R. (2012). *Three portions of mummy portraits from the Fayoum Egypt: Add. 9455vol2_p573/3*. Rethinking Pitt-Rivers. 
@@ -31,7 +31,7 @@ En muchísimos textos escritos por verdaderas autoridades en la materia, las ref
 24. Béarat, H. (1996). Chemical and Mineralogical Analyses of Gallo-Roman Wall Painting from Dietikon, Switzerland. *Archaeometry*, *38*(1), 81-95. ^c72d31
 25. Beaurin, L. (2016). L’apparence des isiaques: La réalité des stéréotypes littéraires. En V. Gasparini & R. Veymiers (Eds.), *Individuals and Materials in the Greco-Roman Cults of Isis: Agents, Images, and Practices* (pp. 283-321). Brill.
 26. Bender Jørgensen, L. (2011). Clavi and non-clavi: Definitions of various bands on Roman textiles. En C. Alfaro Giner, J.-P. Brun, P. Borgard, & R. Pierobon Benoit (Eds.), *Textiles y tintes en la ciudad antigua* (pp. 75-81). Universidad de Valencia. ^adc348
-27. Bercken, B. van den, & Kaper, O. E. (Eds.). (2023). *Face to face: The people behind mummy portraits*. Wbooks.
+27. Bercken, B. van den, & Kaper, O. E. (Eds.). (2023). *Face to face: The people behind mummy portraits*. Wbooks. ^42df5d
 28. Berger, E. (1904). *Die Maltechnik des Altertums*. Georg D.W. Callwey.
 29. Berger, J.-É. (1999). Los retratos de El Fayum. En K. Parlasca, J.-É. Berger, & R. Pintaudi (Eds.), *El Fayum* (pp. 21-60). Franco Maria Ricci.
 30. Bezur, A., Lee, L., Loubser, M., & Trentelman, K. (2020). *Handheld XRF In Cultural Heritage: A Practical Workbook for Conservators*. J. Paul Getty Trust. ^6a1077
@@ -50,7 +50,7 @@ En muchísimos textos escritos por verdaderas autoridades en la materia, las ref
 43. Cardon, D., Granger-Taylor, H., & Nowik, W. (2011). What did the look like? Fragments of clothing found at Didymoi: Case studies. En H. Cuvigny (Ed.), *Didymoi: Une garnison romeine dans le désert Oriental d’Égypte. I - Les fouilles et le matériel* (pp. 273-362). Institut Français d’Archéologie Orientale.
 44. Cardon, D., Nowik, W., Granger-Taylor, H., Marcinowska, R., Kusyk, K., & Trojanowicz, M. (2011). Who could wear true purple in Roman Egypt? Technical and social considerations on some new identifications of purple from marine molluscs in archaeological textiles. En C. Alfaro Giner, J.-P. Brun, P. Borgard, & R. Pierobon Benoit (Eds.), *Textiles y tintes en la ciudad antigua* (pp. 197-214). Universidad de Valencia.
 45. Carreras, O. (2015). La mirada incandescente. *Tendencias del mercado del arte*, _84_, 40-42. ^9c56bd
-46. Cartwright, C. R. (1997). Egyptian Mummy Portraits: Examining the Woodworkers’ Craft. En M. L. Bierbrier (Ed.), *Portraits and masks: Burial customs in Roman Egypt* (pp. 106-111). The British Museum Press.
+46. Cartwright, C. R. (1997). Egyptian Mummy Portraits: Examining the Woodworkers’ Craft. En M. L. Bierbrier (Ed.), *Portraits and masks: Burial customs in Roman Egypt* (pp. 106-111). The British Museum Press. ^b8de80
 47. Cerrato Moreno, E. J. (2021). *Estudio arqueométrico de la pintura mural romana en Córdoba* [Tesis doctoral, Universidad de Córdoba]. Helvia: Repositorio Institucional de la Universidad de Córdoba. ^a29d3a
 48. Christie’s Corporate Entities. (2026). _About Christie’s_ [Web corporativa]. Christie’s. ^aba2de
 49. Christie’s London. (1997). *A Romano-Egyptian painted wooden «Fayum portrait» of a young boy*. 
@@ -142,7 +142,7 @@ En muchísimos textos escritos por verdaderas autoridades en la materia, las ref
 135. Parlasca, K., & Frenz, H. G. (2003). *Repertorio d’Arte dell’Egitto Greco-Romano. Serie B: IV* (IV). L’Erma di Bretschneider. ^caca01
 136. Petrie, W. M. F. (1911). *Roman Portraits and Memphis (IV)*. British School of Archaeology in Egypt.
 137. Phoenix Ancient Art. (2014). *Crystal 5*. Phoenix Ancient Art. ^22e6ce
-138. Picton, J. (2013). The Petrie Museum of Egyptian Archaeology, UCL. *Archaeology International*, *16*(1), 31-37.
+138. Picton, J. (2013). The Petrie Museum of Egyptian Archaeology, UCL. *Archaeology International*, *16*(1), 31-37. ^49cfa9
 139. Picton, J., Quirke, S., & Roberts, P. C. (Eds.). (2007). *Living Images: Egyptian Funerary Portraits in the Petrie Museum*. University College London. ^225a1b
 140. Pierre Bergé & associés. (2009). *Archéologie: Fayez Barakat, lundi 14 décembre 2009*. Pierre Bergé & associés.
 141. Pierre Bergé & associés. (2013). *Vente aux enchéres: Archéologie, mardi 26 novembre 2013*. Pierre Bergé & associés. ^f8a5d5
@@ -165,7 +165,7 @@ En muchísimos textos escritos por verdaderas autoridades en la materia, las ref
 158. Schweitzer, A. (1998). L’évolution stylistique et iconographique des parures de cartonnage d’Akhmîm du début de l’époque ptolémaïque à l’époque romaine. _Bulletin de l’Institut Français d’Archéologie Orientale_, _98_, 325-352. ^d4f86d
 159. Scott, P. (1997). A Portrait Mummy in Blackburn. En M. L. Bierbrier (Ed.), *Portraits and Masks: Burial Customs in Roman Egypt* (pp. 55-58 y lám. 6, núm. 1 y 2). The British Museum Press.
 160. Shugar, A. N., & Mass, J. L. (2012). Introduction. En A. N. Shugar & J. L. Mass (Eds.), *Handheld XRF for Art and Archaeology* (pp. 17-36). Leuven University Press. ^4f6cc3
-161. Smith, C. (1889). The pictures. En W. M. F. Petrie, *Hawara, Biahmu, and Arsinoe* (pp. 37-46). Field & Tuer.
+161. Smith, C. (1889). The pictures. En W. M. F. Petrie, *Hawara, Biahmu, and Arsinoe* (pp. 37-46). Field & Tuer. ^420cc5
 162. Smithsonian Institution. (1958). *Report on the National Gallery of Art for the Year Ended June 30, 1957* (pp. 172-184).
 163. Sotheby’s New York. (2005). *A Tempera Mummy Portrait of a Girl , Roman Period, circa mid 4th Century A.D.* 
 164. Sotheby’s New York. (2005). *An Encaustic Mummy Portrait of a Girl , Roman Period, probably Flavian, circa late 1st Century A.D.* 
