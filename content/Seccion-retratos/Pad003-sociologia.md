@@ -5,7 +5,7 @@ title: Pad003 — Sociología
 # Sociología
 
 ### Datación 
-Según Phoenix Ancient Art (2014), de principios del siglo II, bajo la [[Dinastias-romanas|dinastía antonina]], y por su peinado quizás en época de Trajano (Pierre Bergé & associés, 2013).
+Según Phoenix Ancient Art (2014), de principios del siglo II, bajo la [[Dinastias-romanas|dinastía Antonina]], y por su peinado quizás en época de Trajano (Pierre Bergé & associés, 2013).
 
 ### Procedencia 
 ([[Sobre-procedencias|Sobre procedencias]])

@@ -98,13 +98,13 @@ En muchísimos textos escritos por verdaderas autoridades en la materia, las ref
 91. Grenfell, B. P., & Hunt, A. S. (1900). Graeco-Roman Branch: Excavations in the Fayûm. *Archaeological Report (Egypt Exploration Fund)*, 4-7. ^1412cf
 92. Griffith, F. L. (1898). *A collection of hieroglyphs: A contribution to the history of Egyptian writing*. Egypt Exploration Fund. ^79ddde
 93. Griffiths, J. G. (1982). Eight Funerary Paintings with Judgement Scenes in the Swansea Wellcome Museum. *The Journal of Egyptian Archaeology*, *68*, 228-252 y lám. XXIII-XXVI.
-94. *Gunther Schmidt*. (2026, junio 14). Wikipedia. [https://en.wikipedia.org/wiki/Gunther_Schmidt](https://en.wikipedia.org/wiki/Gunther_Schmidt) ^b1f96c
+94. <span id="gunter2026"></span>*Gunther Schmidt*. (2026, junio 14). Wikipedia. [https://en.wikipedia.org/wiki/Gunther_Schmidt](https://en.wikipedia.org/wiki/Gunther_Schmidt) ^b1f96c
 95. Hagen, F., & Ryholt, K. (2016). *The Antiquities Trade in Eypt I880-1930: The H.O. Lange Papers*. Det Kongelige Danske Videnskabernes Selskab. ^329d10
 96. Hagen, F. N., & Ryholt, K. (2017). The antiquities trade in Egypt during the time of Rudolf Mose. En J. Helmbold-Doyé- & T. L. Gertzen (Eds.), *Mosse im Museum: Die Stiftungstätigkeit des Berliner Verlegers Rudolf Mosse (1843−1920) für das Ägyptische Museum Berlin* (pp. 59-74). Staatlichen Museen zu Berlin. ^511ed8
 97. Halm-Tisserant, M. (2013). Floridi vs austeri au livre XXXV de l’Histoire naturelle. *Ktèma*, *38*, 305-321. ^c82132
 98. Handoussa, T. (1981). Le collier ousekh. *Studien zur Altägyptischen Kultur*, _9_, 143-150. ^36457f
 99. <span id="harvard2022"></span>Harvard Art Museums. (2022). *Funerary Portraits from Roman Egypt: Facing Forward*. ^4c3686
-100. *Heinz Herzer*. (2025, julio 19). Wikipedia. [https://de.wikipedia.org/wiki/Heinz_Herzer](https://de.wikipedia.org/wiki/Heinz_Herzer) ^095654
+100. <span id="heinz2025"></span>*Heinz Herzer*. (2025, julio 19). Wikipedia. [https://de.wikipedia.org/wiki/Heinz_Herzer](https://de.wikipedia.org/wiki/Heinz_Herzer) ^095654
 101. Higginbotham, J. (s. f.). *Portrait of a youth wearing a gilded wreath*. Bowdoin College Museum of Art. Antiquity & America. ^4fb9a2
 102. Hjalgrim, H., Lynnerup, N., Liversage, M., & Rosenklint, A. (1995). Stereolithography: Potential Applications in Anthropological  Studies. *American Journal of Physical Anthropology*, *97*, 329-333. ^bcd8b9
 103. *Hôtel Drouot*. (2020, mayo 6). Wikipedia. https://es.wikipedia.org/wiki/H%C3%B4tel_Drouot 
@@ -191,7 +191,7 @@ En muchísimos textos escritos por verdaderas autoridades en la materia, las ref
 184. Tassie, G. J. (2009). The hairstyles represented on the Salakhana Stelae. En T. DuQuesne (Ed.), *The Salakhana Trove: Votive Stelae and Other Objects from Asyut* (pp. 459-536). Darengo Publications. ^93c92d
 185. The J. Paul Getty Museum. (2002). *Handbook of the Antiquities Collection*. J. Paul Getty Trust.
 186. Thphr. *Lap.* = Teofrasto. (1956). *Theophrastus. On Stones* (E. R. Caley & J. F. C. Richards, Eds.). The Ohio State University. (Obra original publicada en siglo IV aC)
-187. Trope, B. T. (with Quirke, S., & Lacovara, P.). (2005). *Excavating Egypt: Great discoveries from the Petrie Museum of Egyptian Archaeology, University College, London*. Michael C. Carlos Museum, Emory University.
+187. Trope, B. T. (with Quirke, S., & Lacovara, P.). (2005). *Excavating Egypt: Great discoveries from the Petrie Museum of Egyptian Archaeology, University College, London*. Michael C. Carlos Museum, Emory University. ^846b11
 188. Tuffreau-Libre, M. (1999). Les pots à couleur de Pompéi: Premiers résultats. *Rivista di Studi Pompeiani*, *10*, 63-70. ^eb8497
 189. Varone, A., & Béarat, H. (1997). Pittori Romani al lavoro. Materiali, strumenti, techniche: Evidenze archeologiche e dati analitici di un recente scavo pompeiano lungo via dell’Abbondanza (Reg. IX. Ins. 12). En H. Béarat, M. E. Fuchs, M. Maggetti, & D. Paunier (Eds.), *Roman Wall Painting: Materials, Techniques, Analysis and Conservation* (pp. 199-214). University of Fribourg. ^b572f9
 190. Veiga, P. (2012). Studying Mummies and Human Remains: Some Current Developments and Issues. *Journal of the Washington Academy of Sciences*, *98*(2), 1-21. ^c9b300
