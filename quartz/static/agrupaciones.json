@@ -1,0 +1,920 @@
+[
+  {
+    "id": "AGBU",
+    "nombre": "AGRUPACIÓN BUSTOS",
+    "codigos": [
+      {
+        "codigo": "BU01",
+        "descripcion": "Busto desplazado hacia la izquierda desbordando el marco"
+      },
+      {
+        "codigo": "BU02",
+        "descripcion": "Busto desplazado hacia la izquierda sin desbordar el marco"
+      },
+      {
+        "codigo": "BU03",
+        "descripcion": "Busto desplazado hacia la derecha desbordando el marco"
+      },
+      {
+        "codigo": "BU04",
+        "descripcion": "Busto desplazado hacia la derecha sin desbordar el marco"
+      },
+      {
+        "codigo": "BU05",
+        "descripcion": "Busto centrado"
+      },
+      {
+        "codigo": "BU10",
+        "descripcion": "Busto vestido"
+      },
+      {
+        "codigo": "BU11",
+        "descripcion": "Busto desnudo"
+      }
+    ]
+  },
+  {
+    "id": "AGCO",
+    "nombre": "AGRUPACIÓN COLLARES",
+    "codigos": [
+      {
+        "codigo": "COA",
+        "descripcion": "Con un collar"
+      },
+      {
+        "codigo": "COB",
+        "descripcion": "Con dos collares"
+      },
+      {
+        "codigo": "COC",
+        "descripcion": "Con tres o más collares"
+      },
+      {
+        "codigo": "CO01",
+        "descripcion": "Collar-gargantilla de sarta de cuentas"
+      },
+      {
+        "codigo": "CO02",
+        "descripcion": "Collar-gargantilla de eslabones orbiculares"
+      },
+      {
+        "codigo": "CO03",
+        "descripcion": "Torques"
+      },
+      {
+        "codigo": "CO05",
+        "descripcion": "Collar-gargantilla de materia orgánica"
+      },
+      {
+        "codigo": "CO06",
+        "descripcion": "Collar-gargantilla de alambre trenzado"
+      },
+      {
+        "codigo": "CO09",
+        "descripcion": "Collar-gargantilla de \"patrón trigo\""
+      },
+      {
+        "codigo": "CO25",
+        "descripcion": "Dije unido a cuello y cintura"
+      },
+      {
+        "codigo": "CO50",
+        "descripcion": "Collar recubierto con pan de oro"
+      }
+    ]
+  },
+  {
+    "id": "AGCR",
+    "nombre": "AGRUPACIÓN CORONAS",
+    "codigos": [
+      {
+        "codigo": "CR00",
+        "descripcion": "Corona indeterminada"
+      },
+      {
+        "codigo": "CR01",
+        "descripcion": "Corona de pan de oro formando rombos y ángulo agudo en el centro"
+      },
+      {
+        "codigo": "CR02",
+        "descripcion": "Corona de pan de oro formando rombos adaptada al contorno de la cabeza"
+      },
+      {
+        "codigo": "CR03",
+        "descripcion": "Corona de hojas de vid o hiedra"
+      },
+      {
+        "codigo": "CR10",
+        "descripcion": "Pasador central, perpendicular a la frente"
+      },
+      {
+        "codigo": "CR20",
+        "descripcion": "Adorno central estrellado"
+      }
+    ]
+  },
+  {
+    "id": "AGCU",
+    "nombre": "AGRUPACIÓN CUELLOS",
+    "codigos": [
+      {
+        "codigo": "CU01",
+        "descripcion": "Cuello tipo ánfora"
+      },
+      {
+        "codigo": "CU02",
+        "descripcion": "Cuello tipo de cisne"
+      },
+      {
+        "codigo": "CU03",
+        "descripcion": "Cuello tipo toro"
+      },
+      {
+        "codigo": "CU04",
+        "descripcion": "Cuello tipo troncocónio"
+      },
+      {
+        "codigo": "CU05",
+        "descripcion": "Cuello tipo tubular"
+      }
+    ]
+  },
+  {
+    "id": "AGED",
+    "nombre": "AGRUPACIÓN EDADES",
+    "codigos": [
+      {
+        "codigo": "ED01",
+        "descripcion": "<3 años, bebé"
+      },
+      {
+        "codigo": "ED02",
+        "descripcion": "<3 años, niño pequeño"
+      },
+      {
+        "codigo": "ED03",
+        "descripcion": "<3 años, niña pequeña"
+      },
+      {
+        "codigo": "ED04",
+        "descripcion": "3-14 años, niño"
+      },
+      {
+        "codigo": "ED05",
+        "descripcion": "3-14 años, niña"
+      },
+      {
+        "codigo": "ED06",
+        "descripcion": "14-20 años, chico adolescente"
+      },
+      {
+        "codigo": "ED07",
+        "descripcion": "14-20 años, chica adolescente"
+      },
+      {
+        "codigo": "ED08",
+        "descripcion": "20-35 años, hombre joven"
+      },
+      {
+        "codigo": "ED09",
+        "descripcion": "20-35 años, mujer joven"
+      },
+      {
+        "codigo": "ED10",
+        "descripcion": "35-50 años, hombre adulto"
+      },
+      {
+        "codigo": "ED11",
+        "descripcion": "35-50 años, mujer adulta"
+      },
+      {
+        "codigo": "ED12",
+        "descripcion": ">50 años, anciano"
+      },
+      {
+        "codigo": "ED13",
+        "descripcion": ">50 años, anciana"
+      }
+    ]
+  },
+  {
+    "id": "AGEG",
+    "nombre": "AGRUPACIÓN ESTADO GENERAL DEL RETRATO",
+    "codigos": [
+      {
+        "codigo": "EG01",
+        "descripcion": "Estado pésimo (-3)"
+      },
+      {
+        "codigo": "EG02",
+        "descripcion": "Estado precario (-2)"
+      },
+      {
+        "codigo": "EG03",
+        "descripcion": "Estado deficiente (-1)"
+      },
+      {
+        "codigo": "EG04",
+        "descripcion": "Estado mediocre (-0)"
+      },
+      {
+        "codigo": "EG05",
+        "descripcion": "Estado razonable (+0)"
+      },
+      {
+        "codigo": "EG06",
+        "descripcion": "Estado bueno (+1)"
+      },
+      {
+        "codigo": "EG07",
+        "descripcion": "Estado muy bueno (+2)"
+      },
+      {
+        "codigo": "EG08",
+        "descripcion": "Estado excelente (+3)"
+      }
+    ]
+  },
+  {
+    "id": "AGES",
+    "nombre": "AGRUPACIÓN ESPECIAL",
+    "codigos": [
+      {
+        "codigo": "ES01",
+        "descripcion": "Retrato con inscripción"
+      },
+      {
+        "codigo": "ES02",
+        "descripcion": "Retrato con nombre propio"
+      },
+      {
+        "codigo": "ES02a",
+        "descripcion": "Retrato con nombre impropio"
+      },
+      {
+        "codigo": "ES03",
+        "descripcion": "Retrato con edad del fallecido"
+      },
+      {
+        "codigo": "ES10",
+        "descripcion": "Retrato con partes del cuerpo doradas"
+      },
+      {
+        "codigo": "ES20",
+        "descripcion": "Retrato con reconstrucción facial"
+      },
+      {
+        "codigo": "ES30",
+        "descripcion": "Rretrato recompuesto"
+      },
+      {
+        "codigo": "ES40",
+        "descripcion": "Panel pintado por ambos lados"
+      }
+    ]
+  },
+  {
+    "id": "AGFO",
+    "nombre": "AGRUPACIÓN FONDOS",
+    "codigos": [
+      {
+        "codigo": "FO01",
+        "descripcion": "Fondo completamente cubierto de dorado"
+      },
+      {
+        "codigo": "FO02",
+        "descripcion": "Fondo de color uniforme"
+      },
+      {
+        "codigo": "FO03",
+        "descripcion": "Fondo con diferencia tonal: oscuro-pasado / claro-presente"
+      },
+      {
+        "codigo": "FO04",
+        "descripcion": "Fondo con diferencia tonal: claro-pasado / oscuro-presente"
+      }
+    ]
+  },
+  {
+    "id": "AGGR",
+    "nombre": "AGRUPACIÓN GRUPOS",
+    "codigos": [
+      {
+        "codigo": "GR01",
+        "descripcion": "Grupo de militares"
+      },
+      {
+        "codigo": "GR02",
+        "descripcion": "Grupo de bustos desnudos"
+      },
+      {
+        "codigo": "GR03",
+        "descripcion": "Grupo de sacerdotes-tisas"
+      },
+      {
+        "codigo": "GR04",
+        "descripcion": "Grupo de empresarios"
+      }
+    ]
+  },
+  {
+    "id": "AGFR",
+    "nombre": "AGRUPACIÓN FRENTES",
+    "codigos": [
+      {
+        "codigo": "FR01",
+        "descripcion": "Frente tipo arco carpanel"
+      },
+      {
+        "codigo": "FR02",
+        "descripcion": "Frente tipo arco conopial"
+      },
+      {
+        "codigo": "FR03",
+        "descripcion": "Frente tipo arco deprimido"
+      },
+      {
+        "codigo": "FR04",
+        "descripcion": "Frente tipo arco de medio punto"
+      },
+      {
+        "codigo": "FR05",
+        "descripcion": "Frente tipo arco en mitra"
+      },
+      {
+        "codigo": "FR06",
+        "descripcion": "Frente tipo arco poligonal"
+      },
+      {
+        "codigo": "FR07",
+        "descripcion": "Frente tipo arco tumido"
+      },
+      {
+        "codigo": "FR08",
+        "descripcion": "Frente tipo arco geminado"
+      },
+      {
+        "codigo": "FR09",
+        "descripcion": "Frente tipo arco trilobulado"
+      },
+      {
+        "codigo": "FR20",
+        "descripcion": "Frente tipo desacorde"
+      },
+      {
+        "codigo": "FR21",
+        "descripcion": "Frente tipo pechina"
+      }
+    ]
+  },
+  {
+    "id": "AGIC",
+    "nombre": "AGRUPACIÓN ICONOGRAFÍA",
+    "codigos": [
+      {
+        "codigo": "IC01",
+        "descripcion": "Sudario tipo Ossiris"
+      },
+      {
+        "codigo": "IC02",
+        "descripcion": "Sudario tipo psicopompo"
+      },
+      {
+        "codigo": "IC03",
+        "descripcion": "Enfardado rojo procesal"
+      },
+      {
+        "codigo": "IC15",
+        "descripcion": "Hombres hormiga"
+      },
+      {
+        "codigo": "IC16",
+        "descripcion": "Decoración de rombos dorados en el marco del retrato"
+      },
+      {
+        "codigo": "IC50",
+        "descripcion": "Diosa alada con brazos en cruz (grupo de dioses/as)"
+      },
+      {
+        "codigo": "IC55",
+        "descripcion": "Osiris momificado con cayado-mayal y corona atef"
+      },
+      {
+        "codigo": "IC75",
+        "descripcion": "Ojo uadyet (grupo de símbolos animados)"
+      },
+      {
+        "codigo": "IC76",
+        "descripcion": "ureo erecta con disco solar sobre su cabeza"
+      },
+      {
+        "codigo": "IC90",
+        "descripcion": "Collar usejet (grupo de símbolos inanimados)"
+      },
+      {
+        "codigo": "IC91",
+        "descripcion": "Gammadion"
+      }
+    ]
+  },
+  {
+    "id": "AGMI",
+    "nombre": "AGRUPACIÓN MIRADAS",
+    "codigos": [
+      {
+        "codigo": "MI01",
+        "descripcion": "mirada de las 2000 yardas"
+      },
+      {
+        "codigo": "MI02",
+        "descripcion": "mirada de frente al espectador"
+      },
+      {
+        "codigo": "MI03",
+        "descripcion": "mirada al infinito"
+      }
+    ]
+  },
+  {
+    "id": "AGMO",
+    "nombre": "AGRUPACIÓN MOMIAS",
+    "codigos": [
+      {
+        "codigo": "MO01",
+        "descripcion": "Momia con sudario rojo"
+      },
+      {
+        "codigo": "MO03",
+        "descripcion": "Momia con enfardado romboidal, de diamante o de panal"
+      },
+      {
+        "codigo": "MO04",
+        "descripcion": "Momia con inscripción"
+      },
+      {
+        "codigo": "MO05",
+        "descripcion": "Momia con nombre propio"
+      },
+      {
+        "codigo": "MO06",
+        "descripcion": "Momia con decoración estucada"
+      }
+    ]
+  },
+  {
+    "id": "AGPE",
+    "nombre": "AGRUPACIÓN PEINADOS",
+    "codigos": [
+      {
+        "codigo": "PE03",
+        "descripcion": "Peinado de solo rizos sobre la frente"
+      },
+      {
+        "codigo": "PE05",
+        "descripcion": "Peinado corto, liso y hacia la frente con corte recto"
+      },
+      {
+        "codigo": "PE06",
+        "descripcion": "Peinado recogido en una trenza delantera paralela y pegada a la frente, alcanzando las sienes"
+      },
+      {
+        "codigo": "PE08",
+        "descripcion": "Peinado ondulado o de rizos desordenados"
+      },
+      {
+        "codigo": "PE09",
+        "descripcion": "Pelo suelto con raya al centro"
+      },
+      {
+        "codigo": "PE10",
+        "descripcion": "Pelo liso sin trato aparente"
+      },
+      {
+        "codigo": "PE20",
+        "descripcion": "acus crinalis"
+      },
+      {
+        "codigo": "PEE01",
+        "descripcion": "Peinado con \"mechón de juventud\""
+      },
+      {
+        "codigo": "PEE01a",
+        "descripcion": "Peinado con \"mechón de juventud\" en el lado derecho de la cabeza"
+      },
+      {
+        "codigo": "PEE01b",
+        "descripcion": "Peinado con \"mechón de juventud\" en el lado izquierdo de la cabeza"
+      },
+      {
+        "codigo": "PEE01c",
+        "descripcion": "Peinado con \"mechón de juventud\" en ambos lados de la cabeza"
+      },
+      {
+        "codigo": "PEFA01",
+        "descripcion": "Peinado \"a melón\""
+      },
+      {
+        "codigo": "PEFA07a",
+        "descripcion": "Peinado modelo diosa liso"
+      },
+      {
+        "codigo": "PEFA07b",
+        "descripcion": "Peinado modelo diosa rizado"
+      },
+      {
+        "codigo": "PEFB01",
+        "descripcion": "Leinado modelo nodus femenino"
+      },
+      {
+        "codigo": "PEFB02a",
+        "descripcion": "Peinado modelo toupet"
+      },
+      {
+        "codigo": "PEFB03a",
+        "descripcion": "Peinado modelo Tréveris"
+      },
+      {
+        "codigo": "PEM05",
+        "descripcion": "peinado modelo Serapis"
+      },
+      {
+        "codigo": "PEM20",
+        "descripcion": "Peinado modelo rizado sin paralelos"
+      }
+    ]
+  },
+  {
+    "id": "AGPG",
+    "nombre": "AGRUPACIÓN PIGMENTOS",
+    "codigos": [
+      {
+        "codigo": "PGAMA1",
+        "descripcion": "Amarillo de plomo"
+      },
+      {
+        "codigo": "PGAMA2",
+        "descripcion": "Jarosita"
+      },
+      {
+        "codigo": "PGAMA3",
+        "descripcion": "Litargirio"
+      },
+      {
+        "codigo": "PGAMA4",
+        "descripcion": "Oropimente"
+      },
+      {
+        "codigo": "PGAMA5",
+        "descripcion": "Tierra u ocre goetita"
+      },
+      {
+        "codigo": "PGAMA6",
+        "descripcion": "Tierra u ocre limonita"
+      },
+      {
+        "codigo": "PGAZU1",
+        "descripcion": "Azul egipcio"
+      },
+      {
+        "codigo": "PGAZU2",
+        "descripcion": "Azurita"
+      },
+      {
+        "codigo": "PGAZU3",
+        "descripcion": "Indigo"
+      },
+      {
+        "codigo": "PGAZU4",
+        "descripcion": "Lapislázuli (azul de ultramar)"
+      },
+      {
+        "codigo": "PGBLA1",
+        "descripcion": "Alunita"
+      },
+      {
+        "codigo": "PGBLA2",
+        "descripcion": "Basanita"
+      },
+      {
+        "codigo": "PGBLA3",
+        "descripcion": "Blanco de plomo (cerusita, cerussa, hidrocerusita)"
+      },
+      {
+        "codigo": "PGBLA4",
+        "descripcion": "Creta"
+      },
+      {
+        "codigo": "PGBLA5",
+        "descripcion": "Yeso"
+      },
+      {
+        "codigo": "PGNEG1",
+        "descripcion": "Negro de carbón"
+      },
+      {
+        "codigo": "PGNEG2",
+        "descripcion": "Negro de hueso"
+      },
+      {
+        "codigo": "PGPUR1",
+        "descripcion": "Granza"
+      },
+      {
+        "codigo": "PGPUR2",
+        "descripcion": "Púrpura tirio"
+      },
+      {
+        "codigo": "PGROJ1",
+        "descripcion": "Bermellón"
+      },
+      {
+        "codigo": "PGROJ2",
+        "descripcion": "Granza"
+      },
+      {
+        "codigo": "PGROJ3",
+        "descripcion": "Kermes"
+      },
+      {
+        "codigo": "PGROJ4",
+        "descripcion": "Minio (rojo de plomo)"
+      },
+      {
+        "codigo": "PGROJ4a",
+        "descripcion": "Minio de Riotinto"
+      },
+      {
+        "codigo": "PGROJ5",
+        "descripcion": "Rejalgar (sandaraca)"
+      },
+      {
+        "codigo": "PGROJ6",
+        "descripcion": "Tierra u ocre hematita"
+      },
+      {
+        "codigo": "PGROS1",
+        "descripcion": "Rubia (cordifolia, peregrina, tinctorum)"
+      },
+      {
+        "codigo": "PGVER1",
+        "descripcion": "Crisocola"
+      },
+      {
+        "codigo": "PGVER2",
+        "descripcion": "Malaquita"
+      },
+      {
+        "codigo": "PGVER3",
+        "descripcion": "Tierra u ocre celadonita"
+      },
+      {
+        "codigo": "PGVER4",
+        "descripcion": "Tierra u ocre glauconita"
+      }
+    ]
+  },
+  {
+    "id": "AGPI",
+    "nombre": "AGRUPACIÓN PINTORES",
+    "codigos": [
+      {
+        "codigo": "PI01",
+        "descripcion": "Pintor de Montreal"
+      },
+      {
+        "codigo": "PI02",
+        "descripcion": "Pintor de Malibú"
+      },
+      {
+        "codigo": "PI03",
+        "descripcion": "Pintor de Brooklyn"
+      },
+      {
+        "codigo": "PI04",
+        "descripcion": "Maestro de Isidora"
+      },
+      {
+        "codigo": "PI05",
+        "descripcion": "Pintor de San Luis"
+      }
+    ]
+  },
+  {
+    "id": "AGPN",
+    "nombre": "AGRUPACIÓN PENDIENTES",
+    "codigos": [
+      {
+        "codigo": "PN01",
+        "descripcion": "Pendientes tipo globular"
+      },
+      {
+        "codigo": "PN01a",
+        "descripcion": "Pendientes tipo perla"
+      },
+      {
+        "codigo": "PN02",
+        "descripcion": "Pendientes tipo crotalia"
+      },
+      {
+        "codigo": "PN03",
+        "descripcion": "Pendientes tipo estribo"
+      },
+      {
+        "codigo": "PN04",
+        "descripcion": "Pendientes tipo patrón S"
+      },
+      {
+        "codigo": "PN05",
+        "descripcion": "Pendientes tipo sanguijuela"
+      },
+      {
+        "codigo": "PN06",
+        "descripcion": "Pendientes tipo alambre y colgante"
+      },
+      {
+        "codigo": "PN07",
+        "descripcion": "Pendientes tipo a grapolo"
+      },
+      {
+        "codigo": "PN09",
+        "descripcion": "Pendientes tipo discoidal"
+      },
+      {
+        "codigo": "PN100",
+        "descripcion": "Pendientes dudosos o irreconocibles"
+      }
+    ]
+  },
+  {
+    "id": "AGPR",
+    "nombre": "AGRUPACIÓN PROCEDENCIA",
+    "codigos": [
+      {
+        "codigo": "PR01",
+        "descripcion": "Procede de excavación arqueológica"
+      },
+      {
+        "codigo": "PR02",
+        "descripcion": "No procede de excavación arqueológica"
+      }
+    ]
+  },
+  {
+    "id": "AGRF",
+    "nombre": "AGRUPACIÓN RASGOS FACIALES",
+    "codigos": [
+      {
+        "codigo": "RF01",
+        "descripcion": "Collar de Venus"
+      },
+      {
+        "codigo": "RF10",
+        "descripcion": "Rostro redondeado"
+      },
+      {
+        "codigo": "RF11",
+        "descripcion": "Rostro cuadrado"
+      },
+      {
+        "codigo": "RF12",
+        "descripcion": "Rostro ovalado"
+      },
+      {
+        "codigo": "RF13",
+        "descripcion": "Rostro rectangular"
+      },
+      {
+        "codigo": "RF14",
+        "descripcion": "Rostro triangular"
+      },
+      {
+        "codigo": "RF15",
+        "descripcion": "Rostro adiamantado"
+      }
+    ]
+  },
+  {
+    "id": "AGRE",
+    "nombre": "AGRUPACIÓN REPRESENTACIÓN",
+    "codigos": [
+      {
+        "codigo": "RE01",
+        "descripcion": "Solo busto"
+      },
+      {
+        "codigo": "RE10",
+        "descripcion": "Busto y manos"
+      },
+      {
+        "codigo": "RE11",
+        "descripcion": "Busto, manos y pies"
+      },
+      {
+        "codigo": "RE20",
+        "descripcion": "Busto y pies"
+      }
+    ]
+  },
+  {
+    "id": "AGVE",
+    "nombre": "AGRUPACIÓN VESTIMENTA",
+    "codigos": [
+      {
+        "codigo": "VE01",
+        "descripcion": "Chitón blanco"
+      },
+      {
+        "codigo": "VE02",
+        "descripcion": "Chitón púrpura"
+      },
+      {
+        "codigo": "VE03",
+        "descripcion": "Chitón rojo oscuro"
+      },
+      {
+        "codigo": "VE04",
+        "descripcion": "Chitón rosa"
+      },
+      {
+        "codigo": "VE05",
+        "descripcion": "Chitón violeta oscuro"
+      },
+      {
+        "codigo": "VE09",
+        "descripcion": "Chitón de otro color"
+      },
+      {
+        "codigo": "VE10",
+        "descripcion": "clavus-i negro"
+      },
+      {
+        "codigo": "VE11",
+        "descripcion": "clavus-i rojo oscuro"
+      },
+      {
+        "codigo": "VE12",
+        "descripcion": "clavus-i"
+      },
+      {
+        "codigo": "VE13",
+        "descripcion": "clavus-i"
+      },
+      {
+        "codigo": "VE20",
+        "descripcion": "Escote en pico"
+      },
+      {
+        "codigo": "VE21",
+        "descripcion": "Escote redondo"
+      },
+      {
+        "codigo": "VE22",
+        "descripcion": "Escote tipo barco"
+      },
+      {
+        "codigo": "VE23",
+        "descripcion": "Escote cuadrado"
+      },
+      {
+        "codigo": "VE30",
+        "descripcion": "Cuello sin filete"
+      },
+      {
+        "codigo": "VE31",
+        "descripcion": "Cuello con filete"
+      },
+      {
+        "codigo": "VE40",
+        "descripcion": "Costura ornamental"
+      },
+      {
+        "codigo": "VE50",
+        "descripcion": "pallium / palla del mismo color que chitón"
+      },
+      {
+        "codigo": "VE51",
+        "descripcion": "pallium / palla de color diferente al chitón"
+      },
+      {
+        "codigo": "VE60",
+        "descripcion": "pallium / palla sobre hombro izquierdo"
+      },
+      {
+        "codigo": "VE61",
+        "descripcion": "pallium / palla sobre hombro derecho"
+      },
+      {
+        "codigo": "VE62",
+        "descripcion": "pallium / palla sobre ambos hombros"
+      },
+      {
+        "codigo": "VE65",
+        "descripcion": "pallium / palla cruzando diagonalmente el pecho"
+      },
+      {
+        "codigo": "VE70",
+        "descripcion": "Camiseta blanca"
+      }
+    ]
+  }
+]

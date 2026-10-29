@@ -18,5 +18,6 @@ title: Welcome to RdelF
 
 <a href="/Bibliografia/" class="boton-papiro">Bibliografía</a>
 
-</div>
+<a href="/Busquedas/" class="boton-papiro">Búsquedas</a>
 
+</div>
