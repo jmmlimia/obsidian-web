@@ -70,6 +70,8 @@ Porph. *Abst.* = Porfirio, *Sobre la abstinencia*
 
 Ptol. *Geog.* = Claudio Ptolomeo, *Geographia* 
 
+Quint. *Inst.* = Quintiliano, *Instituciones oratorias*
+
 Str. = Estrabón. *Geografía* 
 
 Tac. *Ann.* = Tácito, *Anales* 

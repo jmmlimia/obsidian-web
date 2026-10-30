@@ -21,7 +21,7 @@ A continuación se listan todos estos conceptos, agrupados por categorías, susc
 
 <u>Procedencia original</u> = Procedencia original (arqueológica) del retrato. Campo desplegable.
 
-#### Características físicas
+#### Características del retrato
 <u>¿En su momia?</u> = ¿El retrato acompaña actualmente a su momia? Campo de selección.
 
 <u>Género</u> = Sexo del, o de la, retratado/a. Campo desplegable.
@@ -39,7 +39,7 @@ A continuación se listan todos estos conceptos, agrupados por categorías, susc
 
 <u>Anchura</u> = Anchura del retrato. Entrada libre. 
 
-#### Efigiado
+#### Características de los individuos
 <u>Orientación del cuerpo</u> = Desde el punto de vista del sujeto. Campo desplegable.
 
 <u>Barba</u> = ¿Está barbado? Campo de selección.
