@@ -8,6 +8,8 @@ title: Autores clásicos
 
 Autores Clásicos, de acuerdo al Diccionario Griego-Español = DGE ([http://dge.cchs.csic.es/lst/lst1.htm](http://dge.cchs.csic.es/lst/lst1.htm)) o, en su defecto, al Thesaurus Linguae Latinae = TLL ([https://thesaurus.badw.de/en/tll-digital/index](https://thesaurus.badw.de/en/tll-digital/index)). 
 
+*** 
+
 Ael. *NA* = Claudio Eliano, *Historia de los animales* 
 
 Arist. *Metaph.* = Aristóteles, *Metafísica* 

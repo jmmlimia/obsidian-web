@@ -176,8 +176,8 @@ async function iniciarBusquedaAvanzada() {
   const anchoMin = crearNumero(grupoDimensiones, "ancho-min", "Anchura mínima")
   const anchoMax = crearNumero(grupoDimensiones, "ancho-max", "Anchura máxima")
 
-  // CARACTERÍSTICAS DE LOS INDIVIDUOS.
-  const grupoIndividuos = crearGrupo("Características de los individuos", 3)
+  // CARACTERÍSTICAS DE LOS EFIGIADOS.
+  const grupoIndividuos = crearGrupo("Características de los efigiados", 3)
 
   const orientacionCuerpo = crearSelector(
     grupoIndividuos, "busqueda-orientacion", "Orientación del cuerpo", [

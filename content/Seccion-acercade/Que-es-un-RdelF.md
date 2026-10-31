@@ -1,12 +1,12 @@
 ---
 
-title: Qué es un RdelF
+title: ¿Qué es un retrato de el-Fayum?
 
 ---
 
 
 
-Sin explicar lo que es para nosotros un retrato de el-Fayum (**RdelF**) no podemos iniciar ningún camino.
+Sin explicar lo que es para nosotros un retrato de el-Fayum no podemos iniciar ningún camino.
 
 
 

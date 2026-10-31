@@ -99,13 +99,17 @@ Cardon, D., Granger-Taylor, H., & Nowik, W. (2011). What did the look like? Frag
 
 Cardon, D., Nowik, W., Granger-Taylor, H., Marcinowska, R., Kusyk, K., & Trojanowicz, M. (2011). Who could wear true purple in Roman Egypt? Technical and social considerations on some new identifications of purple from marine molluscs in archaeological textiles. En C. Alfaro Giner, J.-P. Brun, P. Borgard, & R. Pierobon Benoit (Eds.), *Textiles y tintes en la ciudad antigua* (pp. 197-214). Universidad de Valencia.
 
-45. Carreras, O. (2015). La mirada incandescente. *Tendencias del mercado del arte*, _84_, 40-42. ^9c56bd
-46. Cartwright, C. R. (1997). Egyptian Mummy Portraits: Examining the Woodworkers’ Craft. En M. L. Bierbrier (Ed.), *Portraits and masks: Burial customs in Roman Egypt* (pp. 106-111). The British Museum Press. ^b8de80
-47. Cerrato Moreno, E. J. (2021). *Estudio arqueométrico de la pintura mural romana en Córdoba* [Tesis doctoral, Universidad de Córdoba]. Helvia: Repositorio Institucional de la Universidad de Córdoba. ^a29d3a
-48. Christie’s Corporate Entities. (2026). _About Christie’s_ [Web corporativa]. Christie’s. ^aba2de
-49. Christie’s London. (1997). *A Romano-Egyptian painted wooden «Fayum portrait» of a young boy*. 
+Carreras, O. (2015). La mirada incandescente. *Tendencias del mercado del arte*, _84_, 40-42. ^9c56bd
 
-50. Christie’s London. (2015). *An Egyptian painted wood mummy portrait of a man*. ^528392
+Cartwright, C. R. (1997). Egyptian Mummy Portraits: Examining the Woodworkers’ Craft. En M. L. Bierbrier (Ed.), *Portraits and masks: Burial customs in Roman Egypt* (pp. 106-111). The British Museum Press. ^b8de80
+
+Cerrato Moreno, E. J. (2021). *Estudio arqueométrico de la pintura mural romana en Córdoba* [Tesis doctoral, Universidad de Córdoba]. Helvia: Repositorio Institucional de la Universidad de Córdoba. ^a29d3a
+
+Christie’s Corporate Entities. (2026). _About Christie’s_ [Web corporativa]. Christie’s. ^aba2de
+
+Christie’s London. (1997). *A Romano-Egyptian painted wooden «Fayum portrait» of a young boy*. 
+
+Christie’s London. (2015). *An Egyptian painted wood mummy portrait of a man*. ^528392
 
 Christie’s New York. (2006). *A Painted Wood Mummy Portrait of a Woman*. ^ffc796
 
@@ -127,15 +131,23 @@ Danny, D. D. (2006.). *Harry De Forest Smith Residence, Old Brunswick Road*. Edw
 
 David, R. (Ed.). (1979). *Manchester Museum Mummy Project: Multidisciplinary Research on Ancient Egyptian Mummified Remains*. Manchester Museum.
 
-61. Davoli, P. (1997). El-Rubayyat e i «ritratti del Fayum». *Aegyptus*, *77*(1-2), 61-70. ^afef0f
-62. Davy, H. (1815). Some experiments and observations on the colours used in painting by the ancients. *Philosophical  Transactions of the Royal Society*, *105*, 97-124. ^37fc7e
-63. Del Barrio Sanz, E., García Arribas, I., Moure Casas, A. M., Hernández Miguel, A., & Arribas Hernández, M. L. (2003). Traducción y notas. En *Historia Natural: Libros VII-XI*. Gredos.
-64. Dorotheum GmbH & Co KG. (2026). *Dorotheum—Since 1707* [Web corporativa]. Dorotheum. 
-65. Dressman, F. (2025). *Alice Nelson Pratt Brown: Philanthropist and Patron of the Arts*. Texas State Historical Association.  ^aa7412
-66. Droux, X. (2021). *August 2021 Archaeology. A sublime encounter with Antiquity* [Documento electrónico]. Fondation Gandur Pour L’Art. ^ca04b4
-67. Dsc. = Dioscórides. (1998a). *Plantas y remedios naturales (De Materia Medica). Libros I-III* (M. García Valdés, Ed.). Gredos. (Obra original publicada en ca. 65 dC)
-68. Dsc. = Dioscórides. (1998b). *Plantas y remedios naturales (De Materia Medica). Libros IV-V* (M. García Valdés, Ed.). Gredos. (Obra original publicada en ca. 65 dC)
-69. Dubois, Y., Fuchs, M. E., & Meylan Krause, M.-F. (2011). Pots de peinture et pains de couleur à l’usage des peintres romains. *Archéologie Suisse*, *34*(1), 18-27. ^4bc210
+Davoli, P. (1997). El-Rubayyat e i «ritratti del Fayum». *Aegyptus*, *77*(1-2), 61-70. ^afef0f
+
+Davy, H. (1815). Some experiments and observations on the colours used in painting by the ancients. *Philosophical  Transactions of the Royal Society*, *105*, 97-124. ^37fc7e
+
+Del Barrio Sanz, E., García Arribas, I., Moure Casas, A. M., Hernández Miguel, A., & Arribas Hernández, M. L. (2003). Traducción y notas. En *Historia Natural: Libros VII-XI*. Gredos.
+
+Dorotheum GmbH & Co KG. (2026). *Dorotheum—Since 1707* [Web corporativa]. Dorotheum. 
+
+Dressman, F. (2025). *Alice Nelson Pratt Brown: Philanthropist and Patron of the Arts*. Texas State Historical Association.  ^aa7412
+
+Droux, X. (2021). *August 2021 Archaeology. A sublime encounter with Antiquity* [Documento electrónico]. Fondation Gandur Pour L’Art. ^ca04b4
+
+Dsc. = Dioscórides. (1998a). *Plantas y remedios naturales (De Materia Medica). Libros I-III* (M. García Valdés, Ed.). Gredos. (Obra original publicada en ca. 65 dC)
+
+Dsc. = Dioscórides. (1998b). *Plantas y remedios naturales (De Materia Medica). Libros IV-V* (M. García Valdés, Ed.). Gredos. (Obra original publicada en ca. 65 dC)
+
+Dubois, Y., Fuchs, M. E., & Meylan Krause, M.-F. (2011). Pots de peinture et pains de couleur à l’usage des peintres romains. *Archéologie Suisse*, *34*(1), 18-27. ^4bc210
 
 Dunand, F. (1979). *Religion populaire en Égypte romaine: Les terres cuites isiaques du Musée du Caire*. Brill. ^51db9e
 
@@ -179,15 +191,23 @@ Graf, T. (1889). *Catalogue of Theodor Graf’s gallery of antique portraits fro
 
 Grand-Clément, A. (2016). Du blanc, du noir et de la bigarrure: Le jeu des couleurs dans les représentations d’isiaques. En V. Gasparini & R. Veymiers (Eds.), *Individuals and Materials in the Greco-Roman Cults of Isis: Agents, Images, and Practices* (pp. 340-365). Brill.
 
-91. Grenfell, B. P., & Hunt, A. S. (1900). Graeco-Roman Branch: Excavations in the Fayûm. *Archaeological Report (Egypt Exploration Fund)*, 4-7. ^1412cf
-92. Griffith, F. L. (1898). *A collection of hieroglyphs: A contribution to the history of Egyptian writing*. Egypt Exploration Fund. ^79ddde
-93. Griffiths, J. G. (1982). Eight Funerary Paintings with Judgement Scenes in the Swansea Wellcome Museum. *The Journal of Egyptian Archaeology*, *68*, 228-252 y lám. XXIII-XXVI.
-94. <span id="gunter2026"></span>*Gunther Schmidt*. (2026, junio 14). Wikipedia. [https://en.wikipedia.org/wiki/Gunther_Schmidt](https://en.wikipedia.org/wiki/Gunther_Schmidt) ^b1f96c
-95. Hagen, F., & Ryholt, K. (2016). *The Antiquities Trade in Eypt I880-1930: The H.O. Lange Papers*. Det Kongelige Danske Videnskabernes Selskab. ^329d10
-96. Hagen, F. N., & Ryholt, K. (2017). The antiquities trade in Egypt during the time of Rudolf Mose. En J. Helmbold-Doyé- & T. L. Gertzen (Eds.), *Mosse im Museum: Die Stiftungstätigkeit des Berliner Verlegers Rudolf Mosse (1843−1920) für das Ägyptische Museum Berlin* (pp. 59-74). Staatlichen Museen zu Berlin. ^511ed8
-97. Halm-Tisserant, M. (2013). Floridi vs austeri au livre XXXV de l’Histoire naturelle. *Ktèma*, *38*, 305-321. ^c82132
-98. Handoussa, T. (1981). Le collier ousekh. *Studien zur Altägyptischen Kultur*, _9_, 143-150. ^36457f
-99. <span id="harvard2022"></span>Harvard Art Museums. (2022). *Funerary Portraits from Roman Egypt: Facing Forward*. ^4c3686
+Grenfell, B. P., & Hunt, A. S. (1900). Graeco-Roman Branch: Excavations in the Fayûm. *Archaeological Report (Egypt Exploration Fund)*, 4-7. ^1412cf
+
+Griffith, F. L. (1898). *A collection of hieroglyphs: A contribution to the history of Egyptian writing*. Egypt Exploration Fund. ^79ddde
+
+Griffiths, J. G. (1982). Eight Funerary Paintings with Judgement Scenes in the Swansea Wellcome Museum. *The Journal of Egyptian Archaeology*, *68*, 228-252 y lám. XXIII-XXVI.
+
+<span id="gunter2026"></span>*Gunther Schmidt*. (2026, junio 14). Wikipedia. [https://en.wikipedia.org/wiki/Gunther_Schmidt](https://en.wikipedia.org/wiki/Gunther_Schmidt) ^b1f96c
+
+Hagen, F., & Ryholt, K. (2016). *The Antiquities Trade in Eypt I880-1930: The H.O. Lange Papers*. Det Kongelige Danske Videnskabernes Selskab. ^329d10
+
+Hagen, F. N., & Ryholt, K. (2017). The antiquities trade in Egypt during the time of Rudolf Mose. En J. Helmbold-Doyé- & T. L. Gertzen (Eds.), *Mosse im Museum: Die Stiftungstätigkeit des Berliner Verlegers Rudolf Mosse (1843−1920) für das Ägyptische Museum Berlin* (pp. 59-74). Staatlichen Museen zu Berlin. ^511ed8
+
+Halm-Tisserant, M. (2013). Floridi vs austeri au livre XXXV de l’Histoire naturelle. *Ktèma*, *38*, 305-321. ^c82132
+
+Handoussa, T. (1981). Le collier ousekh. *Studien zur Altägyptischen Kultur*, _9_, 143-150. ^36457f
+
+<span id="harvard2022"></span>Harvard Art Museums. (2022). *Funerary Portraits from Roman Egypt: Facing Forward*. ^4c3686
 
 <span id="heinz2025"></span>*Heinz Herzer*. (2025, julio 19). Wikipedia. [https://de.wikipedia.org/wiki/Heinz_Herzer](https://de.wikipedia.org/wiki/Heinz_Herzer) ^095654
 
@@ -271,7 +291,7 @@ Picton, J. (2013). The Petrie Museum of Egyptian Archaeology, UCL. *Archaeology 
 
 Picton, J., Quirke, S., & Roberts, P. C. (Eds.). (2007). *Living Images: Egyptian Funerary Portraits in the Petrie Museum*. University College London. ^225a1b
 
-Pierre Bergé & associés. (2009). *Archéologie: Fayez Barakat, lundi 14 décembre 2009*. Pierre Bergé & associés.
+Pierre Bergé & associés. (2009). *Archéologie: Fayez Barakat, lundi 14 décembre 2009*. Pierre Bergé & associés. ^595f8a
 
 Pierre Bergé & associés. (2013). *Vente aux enchéres: Archéologie, mardi 26 novembre 2013*. Pierre Bergé & associés. ^f8a5d5
 
