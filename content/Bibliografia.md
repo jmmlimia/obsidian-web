@@ -3,7 +3,7 @@ title: Bibliografía
 ---
 
 
-En muchísimos textos escritos por verdaderas autoridades en la materia, las referencias bibliográficas brillan por su ausencia, o se reúnen en un breve compendio resumido. Aquí intentaremos ser escrupulosos atendiendo a dos razones esenciales: la confiabilidad científica, que requiere transparencia e identificación de fuentes, al tiempo que validez y actualización de los conocimientos; el profundo agradecimiento a cientos de personas y sus trabajos, sin los cuales una recopilación como esta sería imposible.
+En muchísimos textos escritos por verdaderas autoridades en la materia, las referencias bibliográficas brillan por su ausencia, o se reúnen en un breve compendio epitomar. Aquí intentaremos ser escrupulosos atendiendo a dos razones esenciales. En primer lugar, la confiabilidad científica, que requiere transparencia e identificación de fuentes, al tiempo que validez y actualización de los conocimientos. En segundo, el profundo agradecimiento a cientos de personas y sus trabajos, sin los cuales una recopilación como esta sería imposible.
 
 *** 
 

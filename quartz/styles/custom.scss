@@ -63,9 +63,8 @@
 }
 
 /* Celdas de la tabla de retratos */
-table td {
-  vertical-align: top;
-  padding: 1.25rem 1rem;
+table td:nth-child(2) {
+  vertical-align: middle;
 }
 
 table td:first-child {
@@ -76,6 +75,10 @@ table td:first-child img {
   margin: 0;
   border-radius: 6px;
   box-shadow: 0 1px 4px rgba(0, 0, 0, 0.2);
+  width: 100%;
+  height: 220px;
+  object-fit: cover;
+  object-position: top center;
 }
 
 /* Datos de cada retrato: etiqueta | valor */
@@ -83,7 +86,7 @@ table td:first-child img {
   display: grid;
   grid-template-columns: 11rem 1fr;
   align-items: stretch;
-  margin-top: 1.8rem;
+  margin-top: 0;
   line-height: 1.45;
 
   > span {

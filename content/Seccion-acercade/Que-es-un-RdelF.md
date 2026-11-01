@@ -12,7 +12,7 @@ Sin explicar lo que es para nosotros un retrato de el-Fayum no podemos iniciar n
 
 Como dijo Pierre Bonnassie al comenzar su *Vocabulario*, ya sabemos que las palabras son temibles. Por ello no hay nada mejor que aclararlas desde el principio. Si uno se toma la molestia de repasar las 202 láminas que contienen los cuatro volúmenes del Repertorio de Klaus Parlasca (más otras pocas en color numeradas aparte), verá retratos muy diferentes. La mayoría de los autores pasan de puntillas sobre esta pregunta (¿Qué es un retrato de el-Fayum?) y aceptan una hipotética respuesta que todo el mundo parece conocer. Pero es imprescindible explicitar el campo de referencia, aunque solo sea para que pueda ser criticado.
 
-Entenderemos que un Retrato de el-Fayum es:
+Entenderemos que un retrato de el-Fayum es:
 
 
 

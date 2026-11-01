@@ -6,7 +6,7 @@ title: Codificación
 
 
 
-El campo llamado "Código", que también podríamos denominar con todo sentido “nombre”, es el más importante de la base de datos (RdelF) y, junto con “Fotografía”, es el motivo esencial de su creación (v. [[acerca-de|Sobre esta página]]). Cada registro tiene un “nombre” único que lo identifica.
+El campo llamado "Código", que también podríamos denominar con todo sentido “nombre”, es el más importante de la base de datos (**RdelF**) y, junto con “Fotografía”, es el motivo esencial de su creación (v. [[acerca-de|Sobre esta página]]). Cada registro tiene un “nombre” único que lo identifica.
 
 
 
@@ -32,7 +32,7 @@ A continuación hay tres grupos de registros especiales que no empiezan por la l
 
 
 
-En primer lugar los que hemos considerado que no son retratos de el Fayum (aunque algunos estén incluidos en los 4 volúmenes de Parlasca; aquí está explicado [[Que-es-un-RdelF|Qué es un RdelF]]), pero que pueden ayudar a discernir o ejemplificar aspectos diversos de los retratos; estos se incluyen con la inicial **R**.
+En primer lugar los que hemos considerado que no son retratos de el Fayum, aunque algunos estén incluidos en los 4 volúmenes de Parlasca (aquí está explicado [[Que-es-un-RdelF|qué entendemos por un retrato de el-Fayum]]), pero que pueden ayudar a discernir o ejemplificar aspectos diversos de los retratos; estos se incluyen con la inicial **R**.
 
 
 
@@ -44,31 +44,7 @@ Por último, se han incluido las falsificaciones que aparecen en alguna parte de
 
 
 
-Este juego de grafemas persigue dos finalidades: presentar un orden lógico de los registros ─Pad - P - R - T - W─; y facilitar el conteo de los que son retratos de El Fayum y los que no lo son. Así sería suficiente buscar en el campo 'código' de la Búsqueda avanzada: 
-
-
-
-P = para conocer todos los retratos vivos del corpus; 
-
-
-
-PI = para informarte de los registros incluidos en el corpus de Parlasca; 
-
-
-
-Pad = para identificar los nuevos retratos que no existen en el corpus de Parlasca; 
-
-
-
-R = para descubrir las imágenes que aquí no consideramos retratos de el-Fayum; 
-
-
-
-T = para rastrear los retratos desaparecidos; y
-
-
-
-W = para averiguar las falsificaciones descubiertas.
+Con este juego de grafemas perseguimos diferenciar un orden lógico de los registros ─Pad - P - R - T - W─, sin omitir ninguna variable que facilite el conocimiento más profundo y certero de los retratos de El Fayum en su globalidad.
 
 
 
