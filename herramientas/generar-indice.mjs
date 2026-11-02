@@ -54,7 +54,7 @@ for (const archivo of buscarArchivos(carpetaContenido)) {
   const nombre = path.basename(archivo, ".md")
 
   // Reconocer las fichas Pad, PIV y Rad.
-  if (!/^(Pad|PIV|Rad)\d+$/i.test(nombre)) continue
+  if (!/^(Pad|PI+V?|Rad)\d+$/i.test(nombre)) continue
 
   const contenido = fs.readFileSync(archivo, "utf8")
   const coincidencia = contenido.match(/^---\s*\r?\n([\s\S]*?)\r?\n---(?:\r?\n|$)/)
