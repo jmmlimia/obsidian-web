@@ -29,6 +29,8 @@ Allen, R. (2012). *Three portions of mummy portraits from the Fayoum Egypt: Add.
 
 Alpass, P. (2010). The Basileion of Isis and the religious art of nabataean Petra. _Syria_, _87_, 93-113.
 
+Appenzeller, O., Stevens, J. M., Kruszynski, R., & Walker, S. E. C. (s. f.). Neurology in ancient faces. *Journal of Neurology Neurosurgery & Psychiatry*, *70*, 524-529. ^8a07ea
+
 <span id="aravantinos2010"></span>Aravantinos, V. (2010). *Τhe Archaeological Museum of Thebes*. John S. Latsis Public Benefit Foundation.
 
 Arnhold, M. (2015). Das Mumienporträt eines jungen Mädchens aus dem Fayum. En N. Schröder-Griebel (Ed.), *«Ein lehrreicher Überblick»: Georg Loeschcke und das Akademische Kunstmuseum*. Akademisches Kunstmuseum.
