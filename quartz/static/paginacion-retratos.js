@@ -37,8 +37,9 @@ if (!tabla) return;
         boton.disabled = desactivado;
 
         boton.addEventListener("click", () => {
-          mostrarPagina(destino);
-        });
+  	  mostrarPagina(destino);
+  	  tabla.scrollIntoView({ behavior: "instant", block: "start" });
+	});
 
         contenedor.appendChild(boton);
       }

@@ -507,6 +507,7 @@ function coincideAgrupacion(retrato) {
       ),
     )
 
+    guardarCriterios()
     resultados.replaceChildren()
     const hayBusqueda =
       selectores.some((selector) => selector.value !== "") ||
@@ -545,11 +546,60 @@ function coincideAgrupacion(retrato) {
     resultados.appendChild(lista)
   }
 
+  // Obtener todos los campos de la búsqueda.
+  const camposBusqueda = Array.from(
+  contenedor.querySelectorAll("select, input")
+)
+
+// Guardar los criterios de búsqueda en la dirección de la página.
+function guardarCriterios() {
+  const parametros = new URLSearchParams()
+
+  for (const campo of camposBusqueda) {
+    if (campo.value !== "") {
+      parametros.set(campo.id, campo.value)
+    }
+  }
+
+  const direccion = new URL(window.location.href)
+  direccion.search = parametros.toString()
+
+  window.history.replaceState(
+    window.history.state,
+    "",
+    direccion
+  )
+}
+
+// Recuperar los criterios guardados en la dirección.
+function recuperarCriterios() {
+  const parametros = new URLSearchParams(window.location.search)
+
+  for (const campo of camposBusqueda) {
+    if (campo === agrupacionCodigo) continue
+
+    const valor = parametros.get(campo.id)
+    if (valor !== null) {
+      campo.value = valor
+    }
+  }
+
+  // Actualizar los códigos de la agrupación recuperada.
+  agrupacionGrupo.dispatchEvent(new Event("change"))
+
+  const codigoGuardado = parametros.get(agrupacionCodigo.id)
+  if (codigoGuardado !== null) {
+    agrupacionCodigo.value = codigoGuardado
+  }
+}
+
     const selectores = [
     genero, tecnica, soporte, enMomia, legible, corteForma,
     orientacionCuerpo, barba, bigote, corona, pendientes, collares,
     localizacion, ciudad, pais, procedencia,
     agrupacionGrupo, agrupacionCodigo,  ]
+
+    recuperarCriterios()
 
   for (const selector of selectores) {
     selector.addEventListener("change", mostrarResultados)
