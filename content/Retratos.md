@@ -6,9 +6,9 @@ title: Retratos
 
 
 
-Estamos en la Base de Datos del sistema. En la página se lista una breve referencia de cada uno de los retratos que ya están incluidos en ella: fotografía, nombre, denominación, dónde se encuentra (con número de catálogo) y localización.
+En esta página se lista una breve referencia de cada uno de los ejemplares que ya están incluidos en el sistema: fotografía, nombre, y algunos datos básicos.
 
-Por medio de sus enlaces, accederán a una ficha completa de cada retrato, con información sobre museología, retratística, complementos, sociología, bibliografía y relaciones. Estos datos se irán completando progresivamente.
+Por medio de sus enlaces, accederán a una ficha de cada retrato, en la que siempre se hallará información completa de la colección que lo custodia, así como una valoración inicial somera de la obra. Muchos más datos adicionales sobre museología, retratística, complementos, sociología... se irán completando progresivamente.
 
 |Retrato|Datos|
 |-|-|
@@ -32,6 +32,7 @@ Por medio de sus enlaces, accederán a una ficha completa de cada retrato, con i
 |[![Pad018](images/Pad018.jpg)](Seccion-retratos/Pad018.md)|**[[Pad018\|Pad018]]** ─ **Joven de pelo rizado y largo cuello**<div class="retrato-datos"><span>Ubicación:</span><span>Colección privada</span><span>Género y procedencia:</span><span>Hombre de procedencia desconocida</span><span>Técnica y soporte:</span><span>Técnica mixta (encáustica/témpera) sobre madera</span></div>|
 |[![PIV0748](images/PIV0748.jpg)](Seccion-retratos/PIV0748.md)|**[[PIV0748\|PIV0748]]** ─ **Retrato en su momia pintado sobre papiro**<div class="retrato-datos"><span>Ubicación:</span><span>Kom Aushim Museum</span><span>Género y procedencia:</span><span>Hombre procedente de Deir el-Banat</span><span>Técnica y soporte:</span><span>Témpera sobre papiro</span></div>|
 |[![Rad001](images/Rad001.jpg)](Seccion-retratos/Rad001.md)|**[[Rad001\|Rad001]]** ─ **Retrato sobre estela en piedra**<div class="retrato-datos"><span>Ubicación:</span><span>Archaeological Museum of Thebes</span><span>Género y procedencia:</span><span>Hombre procedente de Tebas (Beocia, Grecia)</span><span>Técnica y soporte:</span><span>Indeterminada sobre piedra</span></div>|
+|[![Rad002](images/Rad002.jpg)](Seccion-retratos/Rad002.md)|**[[Rad002\|Rad002]]** ─ **Cleopatra, no individualizada sobre lino**<div class="retrato-datos"><span>Ubicación:</span><span>British Museum</span><span>Género y procedencia:</span><span>Mujer procedente de Tebas</span><span>Técnica y soporte:</span><span>Indeterminada sobre lino</span></div>|
 
 <div id="paginacion-retratos"></div>
 
