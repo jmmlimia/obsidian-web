@@ -9,6 +9,6 @@ Utilice el icono de búsqueda en la cabecera izquierda de la página. Permite lo
 
 ### Avanzadas
 
-[[Busqueda-avanzada|Consulte aquí una explicación completa a este apartado]]. Desde el menú de opciones inferior, se pueden localizar retratos mediante conceptos específicos de catalogación y análisis que podrán combinarse para delimitar los resultados. El sistema mostrará el número de coincidencias encontradas y enlaces a dichas coincidencias.
+[[Busqueda-avanzada|Explicación completa a esta sección crucial]]. Seleccione uno o varios conceptos de búsqueda. Bajo el formulario se mostrará el número de coincidencias encontradas con sus enlaces. Desde cada enlace visitado, podrá volver a la búsqueda lanzada.
 
 <div id="busqueda-avanzada"></div>

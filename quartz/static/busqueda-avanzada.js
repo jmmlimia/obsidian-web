@@ -569,6 +569,11 @@ function guardarCriterios() {
     "",
     direccion
   )
+
+// Recordar la última búsqueda para poder volver a ella desde una ficha.
+  try {
+    sessionStorage.setItem("ultimaBusqueda", direccion.href)
+  } catch (e) {}
 }
 
 // Recuperar los criterios guardados en la dirección.

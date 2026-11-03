@@ -102,6 +102,10 @@ export default (() => {
 		  defer
 		  src={`${ctx.argv.serve ? "" : url.pathname.replace(/\/$/, "")}/static/busqueda-avanzada.js`}
 	></script>
+	<script
+		  defer
+		  src={`${ctx.argv.serve ? "" : url.pathname.replace(/\/$/, "")}/static/volver-busqueda.js`}
+	></script>
         <meta name="description" content={description} />
         <meta name="generator" content="Quartz" />
 
