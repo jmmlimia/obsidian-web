@@ -333,7 +333,7 @@ Sattar, S. (2024). Lake Pigments and Thin-Layer Chromatography of Natural Dyes: 
 
 Schweitzer, A. (1998). L’évolution stylistique et iconographique des parures de cartonnage d’Akhmîm du début de l’époque ptolémaïque à l’époque romaine. _Bulletin de l’Institut Français d’Archéologie Orientale_, _98_, 325-352. ^d4f86d
 
-Scott, P. (1997). A Portrait Mummy in Blackburn. En M. L. Bierbrier (Ed.), *Portraits and Masks: Burial Customs in Roman Egypt* (pp. 55-58 y lám. 6, núm. 1 y 2). The British Museum Press.
+Scott, P. (1997). A Portrait Mummy in Blackburn. En M. L. Bierbrier (Ed.), *Portraits and Masks: Burial Customs in Roman Egypt* (pp. 55-58 y lám. 6, núm. 1 y 2). The British Museum Press. ^8227ff
 
 Shugar, A. N., & Mass, J. L. (2012). Introduction. En A. N. Shugar & J. L. Mass (Eds.), *Handheld XRF for Art and Archaeology* (pp. 17-36). Leuven University Press. ^4f6cc3
 
@@ -359,13 +359,13 @@ Stevens’s Auction Rooms, Ltd. (1931). *Catalogue of Sale by Auction at Above R
 
 Stevens’ auction rooms. (2026, julio 17). Wikipedia. https://en.wikipedia.org/wiki/Stevens%27_auction_rooms 
 
-Stevenson, A., Baines, J., Libonati, E., Glover, S., McNamara, L., & Williams, A. (2026). *British School of Archaeology in Egypt (BSAE), 1905–1954*. Artefacts of Excavation: British Excavations in Egypt 1880-1980.
+Stevenson, A., Baines, J., Libonati, E., Glover, S., McNamara, L., & Williams, A. (2026). *British School of Archaeology in Egypt (BSAE), 1905–1954*. Artefacts of Excavation: British Excavations in Egypt 1880-1980. ^033998
 
 Stevenson, A., Baines, J., Libonati, E., Glover, S., McNamara, L., & Williams, A. (2026). *Egypt Exploration Fund (EEF)*. Artefacts of Excavation: British Excavations in Egypt 1880-1980.  ^0d2f9d
 
-Stevenson, A., Baines, J., Libonati, E., Glover, S., McNamara, L., & Williams, A. (2026). *Henry Martyn Kennard*. Artefacts of Excavation: British Excavations in Egypt 1880-1980. 
+Stevenson, A., Baines, J., Libonati, E., Glover, S., McNamara, L., & Williams, A. (2026). *Henry Martyn Kennard*. Artefacts of Excavation: British Excavations in Egypt 1880-1980.  ^6ea5ab 
 
-Stevenson, A., Baines, J., Libonati, E., Glover, S., McNamara, L., & Williams, A. (2026). *Jesse Haworth*. Artefacts of Excavation: British Excavations in Egypt 1880-1980. 
+Stevenson, A., Baines, J., Libonati, E., Glover, S., McNamara, L., & Williams, A. (2026). *Jesse Haworth*. Artefacts of Excavation: British Excavations in Egypt 1880-1980.  ^2722cd 
 
 Stevenson, A., Baines, J., Libonati, E., Glover, S., McNamara, L., & Williams, A. (2026). *W. M. Flinders Petrie*. Artefacts of Excavation: British Excavations in Egypt 1880-1980.  ^ce7f20 
 

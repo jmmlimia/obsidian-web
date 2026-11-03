@@ -13,4 +13,5 @@ Fue un generoso patrón de arqueólogos y con [[Haworth|Jesse Haworth]] sufrag
 
 
 **Bibliografía**
-1. Stevenson, A., Baines, J., Libonati, E., Glover, S., McNamara, L., & Williams, A. (2026). *Henry Martyn Kennard*. Artefacts of Excavation: British Excavations in Egypt 1880-1980. https://egyptartefacts.griffith.ox.ac.uk/people/henry-martyn-kennard 
+
+[[Bibliografia#^6ea5ab|Stevenson, <i>et al.</i>, 2026]]

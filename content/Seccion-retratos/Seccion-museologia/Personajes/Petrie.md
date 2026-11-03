@@ -32,3 +32,5 @@ Es importante destacar que, para nuestro propósito, el arqueólogo registró su
 [[Bibliografia#^ce7f20|Stevenson, <i>et al.</i>, 2026]]
 
 [[Bibliografia#^3bce51|Stevenson & Challis, 2015]]
+
+[[Bibliografia#^846b11|Trope, 2005]]

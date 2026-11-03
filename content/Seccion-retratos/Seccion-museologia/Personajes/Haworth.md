@@ -13,5 +13,7 @@ Fabricante textil. Su interés por la arqueología despertó en 1880 haciendo un
 
 
 **Bibliografía** 
-1. Stevenson, A., Baines, J., Libonati, E., Glover, S., McNamara, L., & Williams, A. (2026). *Jesse Haworth*. Artefacts of Excavation: British Excavations in Egypt 1880-1980. https://egyptartefacts.griffith.ox.ac.uk/people/jesse-haworth 
-2. Scott, P. (1997). A Portrait Mummy in Blackburn. En M. L. Bierbrier (Ed.), *Portraits and Masks: Burial Customs in Roman Egypt* (pp. 55-58 y lám. 6, núm. 1 y 2). The British Museum Press.
+
+[[Bibliografia#^8227ff|Scott, 1997]]
+
+[[Bibliografia#^2722cd|Stevenson, <i>et al.</i>, 2026]]

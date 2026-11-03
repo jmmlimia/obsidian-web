@@ -13,4 +13,4 @@ Probablemente adquirido en Egipto por [[Graf|Otto Theodor Graf]]; vendido por �
 Dunham (1958, p. 19), habla de un solo retrato adquirido en 1893 con fondos directos de la administración (lo cual era la primera vez que sucedía).
 
 ### Fotografías 
-<u>Reproducidas</u> = Propiedad del [Museum of Fine Arts](https://www.mfa.org/) de Boston (MA). [[Permisos-de-fotografias|Permisos de fotografías]], Fair Use Permitted.
+<u>Reproducidas</u> = Propiedad de [Museum of Fine Arts](https://www.mfa.org/) de Boston (MA). [[Permisos-de-fotografias|Permisos de fotografías]], Fair Use Permitted.

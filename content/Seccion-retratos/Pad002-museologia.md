@@ -33,4 +33,4 @@ II) Ha participado en las siguientes exposiciones:
 2022-2023, 31MAR-05FEB, *Antiquity & America: The Ancient Mediterranean in the United States*. Brunswick: Bowdoin College Museum of Art.
 
 ### Fotografías 
-<u>Reproducidas</u> = Propiedad del [Bowdoin College Museum of Art](https://www.bowdoin.edu/art-museum/) de Brunswick (ME). [[Permisos-de-fotografias|Permisos de fotografías]], CC.
+<u>Reproducidas</u> = Propiedad de [Bowdoin College Museum of Art](https://www.bowdoin.edu/art-museum/) de Brunswick (ME). [[Permisos-de-fotografias|Permisos de fotografías]], CC.

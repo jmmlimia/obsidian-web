@@ -6,6 +6,7 @@ title: Pad003 — Museología
 
 ### Historia 
 Actualmente se encuentra en [Fondation Gandur pour l'Art](https://www.fg-art.org/) (Ginebra, Suiza), cat. = FGA-ARCH-EG-0593.
+
 La primera referencia es al anticuario egipcio [[Tawadros]]; vendido en 1936 a [[Behrens]]; en 1986 estaba en la colección de Mr. [[D-s|D. S.]] de Bremen, Alemania; vendido el 26NOV2013, lote 139, por la casa de subastas [[Berge|Pierre Bergé & Associés]] en 443.540 EUR; vendido el 26SEP2014 por [[Phoenix|Phoenix Ancient Art]] de Ginebra, Suiza, a la Fondation Gandur pour l'Art (Droux, 2021, p. 2).
 
 ### Conservación 
