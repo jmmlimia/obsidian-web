@@ -29,6 +29,6 @@ Es importante destacar que, para nuestro propósito, el arqueólogo registró su
 
 [[Bibliografia#^112858|Roberts, 2007]]
 
-[[Bibliografia#^ce7f20|Stevenson, *et al.*, 2026]]
+[[Bibliografia#^ce7f20|Stevenson, <i>et al.</i>, 2026]]
 
 [[Bibliografia#^3bce51|Stevenson & Challis, 2015]]

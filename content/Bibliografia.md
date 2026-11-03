@@ -17,7 +17,7 @@ Acerbi, G. (1833). _Lettere a Ippolito Rosellini: 1 Agosto 1833_ [Carta]. Biblio
 
 Aceto, M. (2021). Pigments—The palette of organic colourants in wall paintings. *Archaeological and Anthropological Sciences*, *13*(10), 1-23.  ^6b8411
 
-Adams, B. (1975). Petrie’s Manuscript Notes on the Koptos Foundation Deposits of Tuthmosis III. *The Journal of Egyptian Archaeology*, *61*, 102-113.
+Adams, B. (1975). Petrie’s Manuscript Notes on the Koptos Foundation Deposits of Tuthmosis III. *The Journal of Egyptian Archaeology*, *61*, 102-113. ^4f3cbc
 
 Adams, B., & Walker, S. E. C. (2007). Catalogue of the Panel Portraits in The Petrie Museum. En J. Picton, S. Quirke, & P. C. Roberts (Eds.), *Living Images: Egyptian Funerary Portraits in the Petrie Museum* (pp. 161-269). University College London. ^0d703a
 
@@ -303,7 +303,7 @@ Plin. _HN_ = Plinio el Viejo. (1952). *Pliny. Natural History: Books 33-35* (H. 
 
 Plin. _HN_ 1972 = Plinio el Viejo. (1972). *Historia Natural de Gaio Plinio Secundo* (R. Fortea Pérez, Ed.) [Tesis doctoral, Universidad de Sevilla]. idUS. Depósito de Investigación de la Universidad de Sevilla. (Obra original publicada en ca. 77 dC).
 
-Potter, D. M. (with Maitland, M.). (2020). *Ancient Egyptian Collections in Scottish Museums*. National Museums Scotland.
+Potter, D. M. (with Maitland, M.). (2020). *Ancient Egyptian Collections in Scottish Museums*. National Museums Scotland. ^e70ddf
 
 Powell, N. (2002). Bidding on a Comeback. *France Magazine*, *62*.
 
@@ -361,15 +361,15 @@ Stevens’ auction rooms. (2026, julio 17). Wikipedia. https://en.wikipedia.org/
 
 Stevenson, A., Baines, J., Libonati, E., Glover, S., McNamara, L., & Williams, A. (2026). *British School of Archaeology in Egypt (BSAE), 1905–1954*. Artefacts of Excavation: British Excavations in Egypt 1880-1980.
 
-Stevenson, A., Baines, J., Libonati, E., Glover, S., McNamara, L., & Williams, A. (2026). *Egypt Exploration Fund (EEF)*. Artefacts of Excavation: British Excavations in Egypt 1880-1980. 
+Stevenson, A., Baines, J., Libonati, E., Glover, S., McNamara, L., & Williams, A. (2026). *Egypt Exploration Fund (EEF)*. Artefacts of Excavation: British Excavations in Egypt 1880-1980.  ^0d2f9d
 
 Stevenson, A., Baines, J., Libonati, E., Glover, S., McNamara, L., & Williams, A. (2026). *Henry Martyn Kennard*. Artefacts of Excavation: British Excavations in Egypt 1880-1980. 
 
 Stevenson, A., Baines, J., Libonati, E., Glover, S., McNamara, L., & Williams, A. (2026). *Jesse Haworth*. Artefacts of Excavation: British Excavations in Egypt 1880-1980. 
 
-Stevenson, A., Baines, J., Libonati, E., Glover, S., McNamara, L., & Williams, A. (2026). *W. M. Flinders Petrie*. Artefacts of Excavation: British Excavations in Egypt 1880-1980. 
+Stevenson, A., Baines, J., Libonati, E., Glover, S., McNamara, L., & Williams, A. (2026). *W. M. Flinders Petrie*. Artefacts of Excavation: British Excavations in Egypt 1880-1980.  ^ce7f20 
 
-Stevenson, A., & Challis, D. (2015). Introduction: A modest little museum. En A. Stevenson (Ed.), *Petrie Museum of Egyptian Archaeology: Characters and Collections* (pp. 11-25). UCL Press. 
+Stevenson, A., & Challis, D. (2015). Introduction: A modest little museum. En A. Stevenson (Ed.), *Petrie Museum of Egyptian Archaeology: Characters and Collections* (pp. 11-25). UCL Press.  ^3bce51 
 
 Str. = Estrabón. (1992). _Geografía: Libros III-IV_ (M. J. Meana & F. Piñero, Eds.). Gredos. (Obra original publicada en ca. 23 dC)
 
