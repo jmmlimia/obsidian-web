@@ -263,6 +263,8 @@ Museum of Fine Arts Boston. (2020, agosto 19). *Mordant*. Cameo. ^18204a
 
 Museum of Fine Arts Boston. (2025, junio 30). *Binder*. Cameo. ^0cdf26
 
+National Gallery. (1920). *Catalogue of the Pictures at Trafalgar Square*. Majesty’s Stationnery Office. ^0bda92
+
 Nerlich, A. (2019). Die Mumie Mit Dem Porträt. Ergebnisse Der CT-Untersuchung Einer Römerzeitlichen Kindermumie. *Maat*, *13*, 33-36.
 
 Nevins, A. (1958). *James  Truslow  Adams: Historian of the  American Dream*. Scientific Book Agency.
@@ -386,6 +388,8 @@ Tallet, G. (2016). Mourir en isiaque? Réflexions sur les portraits de momie de 
 Tassie, G. J. (2009). The hairstyles represented on the Salakhana Stelae. En T. DuQuesne (Ed.), *The Salakhana Trove: Votive Stelae and Other Objects from Asyut* (pp. 459-536). Darengo Publications. ^93c92d
 
 The J. Paul Getty Museum. (2002). *Handbook of the Antiquities Collection*. J. Paul Getty Trust.
+
+The National Gallery. (s. f.). _Search the Archive Catalogue_. The National Gallery Library and Archive. Recuperado 2 de noviembre de 2026, de [https://www.nationalgallery.org.uk/research/research-centre/archive/search](https://www.nationalgallery.org.uk/research/research-centre/archive/search)  ^c6b2cd
 
 Thphr. *Lap.* = Teofrasto. (1956). *Theophrastus. On Stones* (E. R. Caley & J. F. C. Richards, Eds.). The Ohio State University. (Obra original publicada en siglo IV aC)
 

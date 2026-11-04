@@ -9,7 +9,7 @@ title: Pad001 - Sociología
 Según Christie's (2006), entre los años 55 y 70, final de la [[Dinastias-romanas|dinastía Julio-Claudia]] y principios de la [[Dinastias-romanas|Flavia]].
 
 ### Procedencia 
-([[Sobre-procedencias|Sobre procedencia]]) 
+([[Sobre-procedencias|Sobre procedencias]]) 
 
 Desconocida, sin datos al respecto, aunque Christie's (2006) lo supone de Hawara sin explicar por qué.
 

@@ -19,7 +19,7 @@ Es importante destacar que, para nuestro propósito, el arqueólogo registró su
 
 **Relacionado con los (8) retratos:**
 
-[[Pad009]] | [[Pad010]] | [[Pad011]] | [[Pad012]] | [[Pad013]] | [[Pad014]] | [[Pad016]] | [[Pad017]]
+[[Pad009]] | [[Pad010]] | [[Pad011]] | [[Pad012]] | [[Pad013]] | [[Pad014]] | [[Pad016]] | [[Pad017]] | [[PI0194]]
 
 **Bibliografía**
 
