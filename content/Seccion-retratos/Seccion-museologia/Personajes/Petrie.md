@@ -17,9 +17,9 @@ Petrie comenzó su propia colección desde 1881, comprando a los comerciantes y 
 
 Es importante destacar que, para nuestro propósito, el arqueólogo registró su trabajo con varios tipos de documentos vitales en las actuales investigaciones: cuadernos de notas, listas de distribución de los objetos encontrados, tarjetas de tumbas individuales, cartas escritas desde Egipto a su familia y colegas, y un breve pero muy útil diario.
 
-**Relacionado con los (8) retratos:**
+**Relacionado con los (10) retratos:**
 
-[[Pad009]] | [[Pad010]] | [[Pad011]] | [[Pad012]] | [[Pad013]] | [[Pad014]] | [[Pad016]] | [[Pad017]] | [[PI0194]]
+[[Pad009]] | [[Pad010]] | [[Pad011]] | [[Pad012]] | [[Pad013]] | [[Pad014]] | [[Pad016]] | [[Pad017]] | [[PI0162]] | [[PI0194]]
 
 **Bibliografía**
 

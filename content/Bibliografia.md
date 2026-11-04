@@ -285,6 +285,8 @@ Parlasca, K. (1977). *Repertorio d’Arte dell’Egitto Greco-Romano. Serie B: I
 
 Parlasca, K. (1980). *Repertorio d’Arte dell’Egitto Greco-Romano. Serie B: III* (IV). L’Erma di Bretschneider. ^660dc0
 
+Parlasca, K. (1999). Introducción y otas. En K. Parlasca, J.-É. Berger, & R. Pintaudi (Eds.), *El Fayum*. Franco Maria Ricci. ^5bb448
+
 Parlasca, K., & Frenz, H. G. (2003). *Repertorio d’Arte dell’Egitto Greco-Romano. Serie B: IV* (IV). L’Erma di Bretschneider. ^caca01
 
 Petrie, W. M. F. (1911). *Roman Portraits and Memphis (IV)*. British School of Archaeology in Egypt.
@@ -389,7 +391,7 @@ Tassie, G. J. (2009). The hairstyles represented on the Salakhana Stelae. En T. 
 
 The J. Paul Getty Museum. (2002). *Handbook of the Antiquities Collection*. J. Paul Getty Trust.
 
-The National Gallery. (s. f.). _Search the Archive Catalogue_. The National Gallery Library and Archive. Recuperado 2 de noviembre de 2026, de [https://www.nationalgallery.org.uk/research/research-centre/archive/search](https://www.nationalgallery.org.uk/research/research-centre/archive/search)  ^c6b2cd
+The National Gallery. (s. f.). *Search the Archive Catalogue*. The National Gallery Library and Archive. Recuperado 2 de noviembre de 2026, de [e/e](https://www.nationalgallery.org.uk/research/research-centre/archive/search) ^c6b2cd
 
 Thphr. *Lap.* = Teofrasto. (1956). *Theophrastus. On Stones* (E. R. Caley & J. F. C. Richards, Eds.). The Ohio State University. (Obra original publicada en siglo IV aC)
 
