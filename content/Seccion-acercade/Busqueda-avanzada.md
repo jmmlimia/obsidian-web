@@ -55,14 +55,10 @@ A continuación se listan todos estos conceptos, agrupados por categorías, susc
 #### Agrupaciones 
 <u>Agrupaciones</u> = Desplegable en cascada.
 
-***
-
 Usted podrá preguntar por conceptos individuales (para todos los retratos con coronas, seleccione "Coronas" = Sí), o por varios simultáneamente (para todos los retratos femeninos que se encuentren en Estados Unidos, seleccione "País" = EE. UU. y "Género" = Femenino). Bajo el formulario aparecerá el número de retratos que cumplen la/s característica/s requerida/s, con sus enlaces y, desde estos, podrá volver a la búsqueda. 
 
 En la categoría de "Dimensiones", puede preguntar por una concreta (misma cifra en "Altura mínima" y "Altura máxima") o por un rango de ellas.
 
-El campo "Agrupaciones", permite relacionar todos los retratos mediante un doble desplegable en cascada con infinidad de conexiones. El primer desplegable contiene 21 agrupaciones de trabajo. Eligiendo una de ellas, el segundo desplegable mostrará las varias opciones disponibles. Con este sistema es posible conocer los retratos que usaron malaquita como pigmento, los que son de militares, los que llevan pendientes tipo *crotalia*... El sistema no solo facilita identificar cualquier retrato, por escasos que sean los datos iniciales de que se disponga, sino que permite establecer una enorme cantidad de conexiones, inaccesibles hasta este momento. 
-
-***
+El campo "Agrupaciones", permite relacionar todos los retratos mediante un doble desplegable en cascada con infinidad de conexiones ([[Agrupaciones|consulte aquí todas las actuales]]). El primer desplegable contiene 21 agrupaciones de trabajo. Eligiendo una de ellas, el segundo desplegable mostrará las varias opciones disponibles. Con este sistema es posible conocer los retratos que usaron malaquita como pigmento, los que son de militares, los que llevan pendientes tipo *crotalia*... El sistema no solo facilita identificar cualquier retrato, por escasos que sean los datos iniciales de que se disponga, sino que permite establecer una enorme cantidad de conexiones, inaccesibles hasta este momento. 
 
 Es fundamental tener en cuenta que algunos conceptos, en ocasiones, pueden ser bastante aleatorios. Hay veces, por ejemplo, en las que un corte de madera, o la orientación del cuerpo, están en el límite entre dos opciones; la "legibilidad" de un retrato es, en ocasiones, muy subjetiva. Pero estos son problemas inevitables en cualquier clasificación.

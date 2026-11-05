@@ -65,7 +65,7 @@ Bender Jørgensen, L. (2011). Clavi and non-clavi: Definitions of various bands 
 
 Bercken, B. van den, & Kaper, O. E. (Eds.). (2023). *Face to face: The people behind mummy portraits*. Wbooks. ^42df5d
 
-Berger, E. (1904). *Die Maltechnik des Altertums*. Georg D.W. Callwey.
+Berger, E. (1904). *Die Maltechnik des Altertums*. Georg D.W. Callwey. ^597732 
 
 Berger, J.-É. (1999). Los retratos de El Fayum. En K. Parlasca, J.-É. Berger, & R. Pintaudi (Eds.), *El Fayum* (pp. 21-60). Franco Maria Ricci.
 
@@ -169,7 +169,11 @@ Eudel, P. (1882). *L'Hotel Drouot et la curiosité en 1881*. G.Charpentier.
 
 <span id="evangelista2013"></span>Evangelista, S. (2013). Greek Textual Archaeology and Erotic Epigraphy in Simeon Solomon and Michael Field. *Cahiers victoriens et édouardiens*, *78*. [https://doi.org/10.4000/cve.909](https://doi.org/10.4000/cve.909) 
 
+Filer, J. (2012). Artemidorus: An ancient murder mystery? *Joyce Filler Egiptologist*. [https://joycefiler.wordpress.com/2012/06/21/artemidorus-an-ancient-murder-mystery/](https://joycefiler.wordpress.com/2012/06/21/artemidorus-an-ancient-murder-mystery/) ^26d311
+
 Fiorelli, G. (1873). *Gli scavi di Pompei dal 1861 al 1872*. Tipografia Italiana nel liceo V. Emanuele. ^cbb682
+
+Forbes-Robertson, J. (1889). Graeco-Roman Portraiture in Egypt. A Recovered Portraiture in the History of Painting. *The Magazine of Art*, 177-180. ^7ee6d6
 
 Fournier, F., Viguerie, L. de, Balme, S., Janot, J.-M., Walter, P., & Jaber, M. (2016). Physico-chemical characterization of lake pigments based on montmorillonite and carminic acid. *Applied Clay Science*, *130*, 12-17. ^c13a99
 

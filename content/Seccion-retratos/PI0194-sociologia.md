@@ -7,13 +7,13 @@ title: PI0194 — Sociología
 ### Datación 
 El retrato ha sido datado desde mediados del siglo I a mediados del siglo III, aunque las fechas más repetidas se sitúan entre [[Dinastias-romanas|época flavia y Antonino Pío]].
 
-40-250. A todos los retratos que estuvieron en la National Gallery se les dio una datación amplia (National Gallery, 1920, p. 121).
+Cecil Smith, en la primera datación que conocemos, lo considera “tardío”, lo que para Petrie quería decir entre el año 200 y el 250 (Smith, 1889, p. 45-46).
 
-70-120. El estilo de la barba puede ser un signo de fecha temprana, quizás Flavio o de época Trajanea (MR).
+A todos los retratos que estuvieron en la National Gallery se les dio una datación amplia: 40-250 (National Gallery, 1920, p. 121).
 
-117-150. Parlasca sitúa el peinado en una moda de Adriano o primeros años de Antonino Pío (Parlasca, 1969, p. 79). 
+Parlasca (1969, p. 79), sitúa el peinado en una moda de Adriano o primeros años de Antonino Pío, es decir, ca. 117-150. 
 
-200-250. Cecil Smith, en la primera datación que conocemos, lo considera “tardío”, lo que para Petrie quería decir entre el año 200 y el 250 (Smith, 1889, p. 45-46).
+El estilo de la barba puede ser un signo de fecha temprana, quizás Flavio o de época Trajanea: 70-120 (MR).
 
 ### Procedencia 
 ([[Sobre-procedencias|Sobre procedencias]])
