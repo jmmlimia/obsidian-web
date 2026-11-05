@@ -7,7 +7,7 @@ Como hemos dicho, esta variable dota a la base de datos de enormes posibilidades
 
 Aquí tienen desglosadas y actualizadas todas las agrupaciones posibles.
 
-AGRUPACIONES 
+*** 
 
 | **1-AGBU**  | **AGRUPACIÓN BUSTOS**                                                                         |
 | :---------: | :-------------------------------------------------------------------------------------------- |
@@ -44,7 +44,7 @@ AGRUPACIONES 
 |    CU01     | Cuello tipo ánfora                                                                            |
 |    CU02     | Cuello tipo de cisne                                                                          |
 |    CU03     | Cuello tipo toro                                                                              |
-|    CU04     | Cuello tipo troncocónico                                                                       |
+|    CU04     | Cuello tipo troncocónico                                                                      |
 |    CU05     | Cuello tipo tubular                                                                           |
 |             |                                                                                               |
 | **5-AGED**  | **AGRUPACIÓN EDADES**                                                                         |
@@ -79,7 +79,7 @@ AGRUPACIONES 
 |    ES03     | Retrato con edad del fallecido                                                                |
 |    ES10     | Retrato con partes del cuerpo doradas                                                         |
 |    ES20     | Retrato con reconstrucción facial                                                             |
-|    ES30     | Retrato recompuesto                                                                          |
+|    ES30     | Retrato recompuesto                                                                           |
 |    ES40     | Panel pintado por ambos lados                                                                 |
 |             |                                                                                               |
 | **8-AGFO**  | **AGRUPACIÓN FONDOS**                                                                         |
@@ -108,14 +108,13 @@ AGRUPACIONES 
 |    FR21     | Frente tipo pechina                                                                           |
 |             |                                                                                               |
 | **11-AGIC** | **AGRUPACIÓN ICONOGRAFÍA**                                                                    |
-|    IC01     | Sudario tipo Osiris                                                                          |
+|    IC01     | Sudario tipo Osiris                                                                           |
 |    IC02     | Sudario tipo psicopompo                                                                       |
 |    IC03     | Enfardado rojo procesal                                                                       |
 |    IC15     | Hombres hormiga                                                                               |
 |    IC16     | Decoración de rombos dorados en el marco del retrato                                          |
 |    IC50     | Diosa alada con brazos en cruz (grupo de dioses/as)                                           |
 |    IC55     | Osiris momificado con cayado-mayal y corona atef                                              |
-|             |                                                                                               |
 |    IC75     | Ojo uadyet (grupo de símbolos animados)                                                       |
 |    IC76     | ureo erecta con disco solar sobre su cabeza                                                   |
 |    IC90     | Collar usejet (grupo de símbolos inanimados)                                                  |
@@ -128,7 +127,6 @@ AGRUPACIONES 
 |             |                                                                                               |
 | **13-AGMO** | **AGRUPACIÓN MOMIAS**                                                                         |
 |    MO01     | Momia con sudario rojo                                                                        |
-|             |                                                                                               |
 |    MO03     | Momia con enfardado romboidal, de diamante o de panal                                         |
 |    MO04     | Momia con inscripción                                                                         |
 |    MO05     | Momia con nombre propio                                                                       |

@@ -11,7 +11,7 @@ A. Sancho, J. A., & Jofre, G. (2020). *Robert Hay*. Amigos de la Egiptología.
 
 Abdel-Maksoud, G., & El-Amin, A.-R. (2011). A Review on the Materials Used During the Mummification Processes in Ancient Egypt. *Mediterranean Archaeology and Archaeometry*, *11*(2), 129-150.
 
-Abdulfattah, I. R. (2020). A Forgotten Man. Maurice Nahman, an Antiquarian-Tastemaker. En J. Kamrin, M. Bárta, S. Ikram, M. Lehner, & M. Megahed (Eds.), *Guardian of Ancient Egypt: Studies in Honor of Zahi Hawass* (Vol. 1, pp. 105-123). Charles University.
+Abdulfattah, I. R. (2020). A Forgotten Man. Maurice Nahman, an Antiquarian-Tastemaker. En J. Kamrin, M. Bárta, S. Ikram, M. Lehner, & M. Megahed (Eds.), *Guardian of Ancient Egypt: Studies in Honor of Zahi Hawass* (Vol. 1, pp. 105-123). Charles University. ^eb2aaa
 
 Acerbi, G. (1833). _Lettere a Ippolito Rosellini: 1 Agosto 1833_ [Carta]. Biblioteca Universitaria de Pisa. Lettere a Ippolito Rosellini. 
 
@@ -165,11 +165,11 @@ Eladany, A. H. (2011). *A study of a selected group of third intermediate period
 
 *Etim.* = San Isidoro de Sevilla. (2004). _Etimologías_. Biblioteca de Autores Cristianos. (Obra original publicada en ca. 630)
 
-Eudel, P. (1882). *L'Hotel Drouot et la curiosité en 1881*. G.Charpentier.
+Eudel, P. (1882). *L'Hotel Drouot et la curiosité en 1881*. G.Charpentier. ^fabf6e
 
-<span id="evangelista2013"></span>Evangelista, S. (2013). Greek Textual Archaeology and Erotic Epigraphy in Simeon Solomon and Michael Field. *Cahiers victoriens et édouardiens*, *78*. [https://doi.org/10.4000/cve.909](https://doi.org/10.4000/cve.909) 
+<span id="evangelista2013"></span>Evangelista, S. (2013). Greek Textual Archaeology and Erotic Epigraphy in Simeon Solomon and Michael Field. *Cahiers victoriens et édouardiens*, *78*.
 
-Filer, J. (2012). Artemidorus: An ancient murder mystery? *Joyce Filler Egiptologist*. [https://joycefiler.wordpress.com/2012/06/21/artemidorus-an-ancient-murder-mystery/](https://joycefiler.wordpress.com/2012/06/21/artemidorus-an-ancient-murder-mystery/) ^26d311
+Filer, J. (2012). Artemidorus: An ancient murder mystery? *Joyce Filler Egiptologist*. ^26d311
 
 Fiorelli, G. (1873). *Gli scavi di Pompei dal 1861 al 1872*. Tipografia Italiana nel liceo V. Emanuele. ^cbb682
 
@@ -221,7 +221,7 @@ Higginbotham, J. (s. f.). *Portrait of a youth wearing a gilded wreath*. Bowdoi
 
 Hjalgrim, H., Lynnerup, N., Liversage, M., & Rosenklint, A. (1995). Stereolithography: Potential Applications in Anthropological  Studies. *American Journal of Physical Anthropology*, *97*, 329-333. ^bcd8b9
 
-*Hôtel Drouot*. (2020, mayo 6). Wikipedia. https://es.wikipedia.org/wiki/H%C3%B4tel_Drouot 
+<span id="drouot2020"></span>*Hôtel Drouot*. (2020, mayo 6). Wikipedia. https://es.wikipedia.org/wiki/H%C3%B4tel_Drouot 
 
 Jørgensen, M. (2001). *Catalogue Egypt III*. Ny Carlsberg Glyptotek.
 
@@ -313,7 +313,7 @@ Plin. _HN_ 1972 = Plinio el Viejo. (1972). *Historia Natural de Gaio Plinio Secu
 
 Potter, D. M. (with Maitland, M.). (2020). *Ancient Egyptian Collections in Scottish Museums*. National Museums Scotland. ^e70ddf
 
-Powell, N. (2002). Bidding on a Comeback. *France Magazine*, *62*.
+Powell, N. (2002). Bidding on a Comeback. *France Magazine*, *62*. ^539c88
 
 Quack, J. F. (2016). What is a Priest of Ēse, of Wusa, and of Isis in the Egyptian and Nubian World? En V. Gasparini & R. Veymiers (Eds.), *Individuals and Materials in the Greco-Roman Cults of Isis: Agents, Images, and Practices* (pp. 108-126). Brill.
 
