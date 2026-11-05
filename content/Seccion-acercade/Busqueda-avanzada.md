@@ -39,7 +39,7 @@ A continuación se listan todos estos conceptos, agrupados por categorías, susc
 
 <u>Anchura</u> = Anchura del retrato. Entrada libre. 
 
-#### Características de los individuos
+#### Características de los efigiados
 <u>Orientación del cuerpo</u> = Desde el punto de vista del sujeto. Campo desplegable.
 
 <u>Barba</u> = ¿Está barbado? Campo de selección.

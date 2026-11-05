@@ -51,6 +51,8 @@ Aubert, M.-F., Cortopassi, R., Nachtergael, G., Asensi Amorós, M. V., Détienne
 
 Aufderheide, A. C. (2003). *The scientific Study of Mummies*. Cambridge University Press. ^cd9eba
 
+Bakker, M., Bakkers, A., & Worp, K. A. (2007). Back to Oegstgeest The von Scherling Papyrus Collection Some von Scherling Texts in Minnesota. *The Bulletin of the American Society of Papyrologists*, *44*, 41-73. ^40a852
+
 Barakat Gallery. (2026). _Funerary Shroud of an Elite Matron_.
 
 Barakat Gallery. (2026). *Roman Period Egyptian Mummy Portrait*. 
@@ -420,5 +422,7 @@ Walker, S. E. C. (1997b). Mummy portraits in their Roman Context. En M. L. Bierb
 Weisbrode, K. (2016). Roosevelt’s Man in Europe. *The Journal of the Gilded Age and Progressive Era*, *15*(1), 45-59.
 
 Wijngaarden, W. D. van. (1938). *Meesterwerken der egyptische Kunst te Leiden*. Sijthoff.
+
+Worp, K. A., & Dekker, R. (2016). New von Scherling Papyri in Uppsala. *The Bulletin of the American Society of Papyrologists*, *53*, 61-78. ^89df73
 
 Yatsishina, E. B., Kovalchuk, M. V., Loshak, M. D., Vasilyev, S. V., Vasilieva, O. A., Dyuzheva, O. P., Pojidaev, V. M., & Ushakov, V. L. (2018). Interdisciplinary Study of Egyptian Mummies from the Pushkin State  Museum of Fine Arts Collection at the National Research Centre  “Kurchatov Institute”. *Crystallography Reports*, *63*(3), 518-529.

@@ -4,6 +4,7 @@ title: Uzan
 
 
 Joseph Uzan: Túnez, 1944 – ?
+
 Sabrina Uzan Kaminski: JUN1978 – ?
 
 Se trata de los propietarios de la *[Galerie Samarcande](https://galerie-samarcande.fr/contactez-nous)* (13 rue de Saints-Pères, 75006, París). Especializada, entre otras cosas, en Arte Egipcio.

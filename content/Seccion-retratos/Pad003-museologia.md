@@ -19,7 +19,13 @@ IV) Ni en el soporte —cuyo corte y laterales nos resultan invisibles—, ni el
 V) Tampoco tenemos noticias de algún procedimiento de restauración o conservación.
 
 ### Comentarios museológicos 
-I) Ha participado en las siguientes exposiciones:
+I) Fundada en 2010 por el empresario y coleccionista de arte Jean Claude Gandur, quien, nacido en Grasse (Francia) en 1949, cursó estudios de Derecho y Ciencias Políticas en la Universidad de Lausana, así como de Historia en la Universidad Panthéon-Sorbonne de París. La Fondation Gandur pour l’Art (FGA) es una organización sin ánimo de lucro dedicada a promover el patrimonio cultural y la educación, facilitando el acceso público a sus colecciones, de relevancia internacional.
+
+Con sede en Ginebra (Suiza), la Fundación se compromete a preservar, ampliar y dar a conocer sus colecciones, cediendo obras a museos e instituciones culturales, tanto en Suiza como en el extranjero, a través de numerosos préstamos, exposiciones y colaboraciones; destacan, entre ellas, las establecidas con el Museo Nacional Centro de Arte Reina Sofía (España).
+
+n mayo de 2024, Jean Claude Gandur anunció el proyecto de construir un museo en Caen (Normandía) —cuya apertura está prevista para 2030— destinado a albergar de forma permanente las colecciones de la Fundación.
+
+II) Ha participado en las siguientes exposiciones:
 
 2015, 24JUN-16NOV, *Migrations divines*. Marsella: Musée des Civilisations de l'Europe et de la Méditerranée (Musem).
 
