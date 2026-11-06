@@ -17,4 +17,4 @@ Corona del Alto y Bajo Egipto, unión, por tanto, de la corona blanca del Alto E
 
 [[Bibliografia#^79ddde|Griffith, 1898]] 
 
-[[Bibliografia#^15ca04|Liddell et al., 1940]]  
+[[Bibliografia#^15ca04|Liddell <i>et al.</i>, 1940]]  

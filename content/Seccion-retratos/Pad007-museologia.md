@@ -21,7 +21,9 @@ IV) En general, por tanto, tal como podemos verla hoy (la madera parece en excel
 V) Las dos fotografía que incluimos demuestran al menos dos evidentísimas intervenciones de restauración en el retrato, pero no disponemos de ningún dato al respecto.
 
 ### Comentarios museológicos 
-MR (parca en información) es la única fuente bibliográfica que conocemos de este retrato.
+I) «El Museo Nacional de Antigüedades de los Países Bajos fue fundado en 1818, originalmente como el «gabinete arqueológico» de la Universidad de Leiden. Su primer director fue Caspar Reuvens, un pionero en el campo de la arqueología. Durante el siglo XIX, se incorporaron a la colección numerosos objetos procedentes de la Antigüedad clásica y del antiguo Egipto. Hasta la Segunda Guerra Mundial, el museo fue la única institución oficial neerlandesa que llevó a cabo excavaciones arqueológicas. El 1 de julio de 1995, el museo se convirtió en una organización independiente sin ánimo de lucro, encargada de gestionar el componente arqueológico de la colección nacional neerlandesa. Su misión consiste en hacer que estos objetos sean ampliamente accesibles al público general» ([Rijksmuseum ─ historia](https://www.rmo.nl/en/organisation/who-are-we/)).
+
+II) MR (parca en información) es la única fuente bibliográfica que conocemos de este retrato.
 
 ### Fotografías 
 <u>Reproducidas</u> = Propiedad de [Rijksmuseum van Oudheden](https://www.rmo.nl/) de Leiden. [[Permisos-de-fotografias|Permisos de fotografías]], CC BY.

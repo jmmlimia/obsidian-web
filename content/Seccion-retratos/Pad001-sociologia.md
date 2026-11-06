@@ -6,7 +6,7 @@ title: Pad001 - Sociología
 # Sociología
 
 ### Datación 
-Según Christie's (2006), entre los años 55 y 70, final de la [[Dinastias-romanas|dinastía Julio-Claudia]] y principios de la [[Dinastias-romanas|Flavia]].
+Según Christie's (2006), entre los años 55 y 70, [[Dinastias-romanas|final de la dinastía Julio-Claudia y principios de la Flavia]].
 
 ### Procedencia 
 ([[Sobre-procedencias|Sobre procedencias]]) 

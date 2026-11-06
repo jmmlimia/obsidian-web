@@ -16,23 +16,23 @@ Un asunto especial es el de los retratos de las colecciones Graf, cuyas piezas e
 
 Hasta el momento se cuenta con las siguientes procedencias seguras:
 
-Abusir el-Meleq (1) 
+Abusir el-Meleq
 
-Akmim (1) 
+Akmim
 
-Antinoópolis (6) 
+Antinoópolis
 
-el-Hibeh (2) 
+el-Hibeh
 
-er-Rubayat (dudosas) (28) 
+er-Rubayat
 
-Filadelfia (7) 
+Filadelfia
 
-Hawara (37) 
+Hawara
 
-Tebas (1) 
+Tebas
 
-Tebtunis (11) 
+Tebtunis
 
 **Bibliografía** 
 

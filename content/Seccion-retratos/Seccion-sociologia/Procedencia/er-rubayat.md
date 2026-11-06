@@ -15,4 +15,4 @@ Después se ha comprobado, ya Grenfell y Hunt (1901) advirtieron, que la ciudad 
 
 [[Bibliografia#^afef0f|Davoli, 1997]] 
 
-[[Bibliografia#^35691c|Gehad et al., 2022]] 
+[[Bibliografia#^35691c|Gehad <i>et al.</i>, 2022]] 

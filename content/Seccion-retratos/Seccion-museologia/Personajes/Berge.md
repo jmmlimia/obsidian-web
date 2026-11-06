@@ -13,6 +13,6 @@ Pierre Bergé (Oléron, Francia, 14NOV1930 - Saint-Rémy-de-Provence, Francia; 0
 
 Puede consultarse su página web: [https://www.pba-auctions.com](https://www.pba-auctions.com/).
 
-**Relacionada con los (4) retratos:**
+**Relacionada con el (1) retrato:**
 
-[[Pad003]] | PIV0675 | PIV0722 | PIV0892 
+[[Pad003]]

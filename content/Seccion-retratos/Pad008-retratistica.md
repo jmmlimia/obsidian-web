@@ -4,4 +4,5 @@ title: Pad008 — Retratística
 
 # Retratística
 
-Pendiente de incorporar.
+### Técnica, materiales y procedimientos
+I) Técnica. Indeterminada sobre madera desconocida de 36.0 x 20.0 cm.

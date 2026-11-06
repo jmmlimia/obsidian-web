@@ -21,7 +21,11 @@ IV) En general, se han perdido bastantes matices de color, e incluso partes ente
 V) Es evidente al menos algún procedimiento de restauración-conservación, pero no tenemos noticias de ello.
 
 ### Comentarios museológicos 
-Se encuentra expuesta en el edificio Audrey Jones Beck, 200 Jamail Atrium.
+I) El MFAH tuvo un curioso nacimiento: un grupo de señoras decidió llevar reproducciones artísticas a las escuelas de Houston, de ahí se pasó al interés por coleccionar originales, a reunir dinero para conseguirlo y a la apertura en 1928 de un espacio con 60 obras en cuya entrada se leía en mayúsculas: «ERECTED BY THE PEOPLE FOR THE USE OF THE PEOPLE».
+
+Desde aquella inauguración, el MFAH se ha convertido en un espacio que refleja la diversidad internacional y el dinamismo de la ciudad de Houston. Como dato curioso, en su página web tiene unos datos demográficos sobre la población del condado (dividida en asiáticos, negros, hispanos y blancos no hispanos), de los visitantes y de sus trabajadores.
+
+En la actualidad, el museo cuenta con tres edificios destinados a la exhibición de arte: el Caroline Wiess Law Building (renombrado en 1998), el Audrey Jones Beck Building (inaugurado en 2000, donde se encuentra nuestro retrato) y el Nancy and Rich Kinder Building (inaugurado en 2020). Además, en 2025 se adquirieron terrenos adyacentes con vistas a futuras ampliaciones.
 
 ### Fotografías 
 <u>Reproducidas</u> = Propiedad del [The Museum of Fine Arts](https://www.mfah.org/) de Houston (TX). [[Permisos-de-fotografias|Permisos de fotografías]], Public Domain.
