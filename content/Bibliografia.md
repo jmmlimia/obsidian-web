@@ -399,6 +399,8 @@ The J. Paul Getty Museum. (2002). *Handbook of the Antiquities Collection*. J. P
 
 The National Gallery. (s. f.). *Search the Archive Catalogue*. The National Gallery Library and Archive. Recuperado 2 de noviembre de 2026, de [e/e](https://www.nationalgallery.org.uk/research/research-centre/archive/search) ^c6b2cd
 
+The New York Historical. (2011, septiembre 19). Egypt on Broadway. *From the Stacks*. ^8950d6
+
 Thphr. *Lap.* = Teofrasto. (1956). *Theophrastus. On Stones* (E. R. Caley & J. F. C. Richards, Eds.). The Ohio State University. (Obra original publicada en siglo IV aC)
 
 Trope, B. T. (with Quirke, S., & Lacovara, P.). (2005). *Excavating Egypt: Great discoveries from the Petrie Museum of Egyptian Archaeology, University College, London*. Michael C. Carlos Museum, Emory University. ^846b11

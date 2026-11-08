@@ -11,6 +11,7 @@ Fabricante textil. Su interés por la arqueología despertó en 1880 haciendo un
 
 **Relacionado con los (1) retratos:** 
 
+[[Pad010]] 
 
 **Bibliografía** 
 

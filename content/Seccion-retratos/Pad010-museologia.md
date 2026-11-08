@@ -23,8 +23,9 @@ IV) En general, por tanto, tal como podemos verla hoy (la madera aparece en cond
 V) Adams & Walker (2007, p. 256), reseñan un trabajo de conservación en 2004 que, por las fotografías, le dio su aspecto actual.
 
 ### Comentarios museológicos
-I) El Petrie Museum of Egyptian Archaeology tiene un interés muy especial para nosotros: «Posee la mayor colección de retratos funerarios de época romana fuera del Museo de El Cairo» (Picton, 2013, p. 31), y todos ellos se encuentran online con acceso público y gratuito bajo licencia Creative Commons. Tecleando «Petrie» en la [[búsqueda avanzada]] (campo 2, "localización"), pueden comprobar ustedes exactamente cuántos. Además, su repertorio completo procede de excavaciones arqueológicas documentadas (en este caso del arqueólogo sir William Matthew Flinders Petrie, que le da nombre al museo), una llamativa característica que lo hace único.
+I) El Petrie Museum of Egyptian Archaeology tiene un interés muy especial para nosotros: «Posee la mayor colección de retratos funerarios de época romana fuera del Museo de El Cairo» (Picton, 2013, p. 31), y todos ellos se encuentran online con acceso público y gratuito bajo licencia Creative Commons. Tecleando «Petrie» en la [[busquedas|búsqueda avanzada]] (campo 2, "localización"), pueden comprobar ustedes exactamente cuántos. Además, su repertorio completo procede de excavaciones arqueológicas documentadas (en este caso del arqueólogo sir William Matthew Flinders Petrie, que le da nombre al museo), una llamativa característica que lo hace único.
 
 ### Fotografías
 <u>Reproducidas</u> = Propiedad del [Petrie Museum of Egyptian Archaeology](https://www.ucl.ac.uk/culture/petrie-museum) de Londres. [[Permisos-de-fotografias|Permisos de fotografías]], CC BY-NC-SA.
+
 <u>Recientes de calidad</u> =  Trope, 2005, p. 101; Adams & Walker, 2007, p. 257.
