@@ -7,7 +7,7 @@ title: Pad010 — Museología
 ### Historia
 Actualmente se encuentra en [Petrie Museum of Egyptian Archaeology](https://www.ucl.ac.uk/culture/petrie-museum) (Londres, Reino Unido), cat. = LDUCE-UC79360.
 
-Excavado por [[Petrie|sir William Matthew Flinders Petrie]] en 1888, tarde del 23 de marzo (numeración de Petrie = UU, anotado en el reverso del retrato) (Roberts, 2007, p. 64; Picton *et al.*, 2007, p. 299).
+Excavado por [[Petrie|sir William Matthew Flinders Petrie]] en 1888, tarde del 23 de marzo (numeración de Petrie = UU, anotado en el reverso del retrato) (Roberts, 2007, p. 64; Picton *et al.*, 2007, p. 299), en Hawara.
 
 Originalmente perteneciente a [[Haworth|Jesse Haworth]] en el reparto de los frutos de las excavaciones de esa temporada. Haworth los donó inicialmente al Victoria & Albert Museum (17 de julio de 1888), desde donde se transfirió al Museo Petrie en 2004.
 

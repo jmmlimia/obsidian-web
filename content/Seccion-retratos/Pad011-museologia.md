@@ -7,7 +7,7 @@ title: Pad011 — Museología
 ### Historia
 Actualmente se encuentra en [Petrie Museum of Egyptian Archaeology](https://www.ucl.ac.uk/culture/petrie-museum) (Londres, Reino Unido), cat. = LDUCE-UC330082.
 
-Excavado por [[Petrie|sir William Matthew Flinders Petrie]] en 1911 (numeración de Petrie = 49) (Roberts, 2007, p. 71; Picton *et al.*, 2007, p. 304).
+Excavado por [[Petrie|sir William Matthew Flinders Petrie]] en 1911 (numeración de Petrie = 49) (Roberts, 2007, p. 71; Picton *et al.*, 2007, p. 304) en Hawara.
 
 ### Conservación
 

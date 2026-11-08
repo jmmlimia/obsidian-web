@@ -7,7 +7,7 @@ title: Pad014 — Museología
 **Historia** 
 Actualmente se encuentra en [Petrie Museum of Egyptian Archaeology](https://www.ucl.ac.uk/culture/petrie-museum) (Londres, Reino Unido), cat. = LDUCE-UC45002.
 
-Excavado por [[Petrie|sir William Matthew Flinders Petrie]] en 1911 (numeración de Petrie = 7, anotado en el reverso del retrato junto con el comentario: «sin cabeza») (Roberts, 2007, p. 68; Picton *et al.*, 2007, p. 301).
+Excavado por [[Petrie|sir William Matthew Flinders Petrie]] en 1911 (numeración de Petrie = 7, anotado en el reverso del retrato junto con el comentario: «sin cabeza») (Roberts, 2007, p. 68; Picton *et al.*, 2007, p. 301) en Hawara.
 
 **Conservación** 
 
