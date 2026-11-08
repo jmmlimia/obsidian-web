@@ -246,3 +246,11 @@ table td:first-child img {
   margin: 14px 0;
   opacity: 0.7;
 }
+
+/* 1. Ampliar el espacio vertical de la cabecera para que quepa el logo */
+.page-header, 
+header {
+  min-height: 85px !important;
+  display: flex !important;
+  align-items: center !important;
+}
