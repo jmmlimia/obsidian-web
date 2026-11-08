@@ -4,8 +4,6 @@ title: Pad007 — Sociología
 
 # Sociología
 
-# Sociología
-
 ### Datación 
 MR, lo data en el último cuarto del siglo II, [[Dinastias-romanas|final de la dinastía Antonina y principios de la Severa]].
 

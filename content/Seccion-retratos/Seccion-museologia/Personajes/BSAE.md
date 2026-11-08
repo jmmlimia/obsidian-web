@@ -25,4 +25,4 @@ Hasta 1925, la BSAE realizó excavaciones en más de 20 yacimientos en todo Egip
 
 [[Bibliografia#^e70ddf|Potter, 2020]]
 
-[[Bibliografia#^033998|Stevenson, <i>et al.</i>, 2026]]
+[Stevenson, *et al.*, 2026](Bibliografia.md#^033998)

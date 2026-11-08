@@ -17,6 +17,6 @@ En el viajes que realizó a Egipto compró materiales a muchas personas, visitó
 
 **Bibliografía** 
 
-[[Bibliografia#^40a852|Bakker, <i>et al.</i>, 2007]]
+[Bakker, *et al.*, 2007](Bibliografia.md#^40a852)
 
 [[Bibliografia#^89df73|Worp, & Dekker, 2016]]

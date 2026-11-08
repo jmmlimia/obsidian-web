@@ -20,4 +20,4 @@ Puede consultarse su [página web](https://www.ees.ac.uk/)
 
 [[Bibliografia#^e70ddf|Potter, 2020]]
 
-[[Bibliografia#^0d2f9d|Stevenson, *et al.*, 2026]]
+[Stevenson, *et al.*, 2026](Bibliografia.md#^0d2f9d)

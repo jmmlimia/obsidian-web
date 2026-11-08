@@ -16,4 +16,4 @@ Fabricante textil. Su interés por la arqueología despertó en 1880 haciendo un
 
 [[Bibliografia#^8227ff|Scott, 1997]]
 
-[[Bibliografia#^2722cd|Stevenson, <i>et al.</i>, 2026]]
+[Stevenson, *et al.*, 2026](Bibliografia.md#^2722cd)

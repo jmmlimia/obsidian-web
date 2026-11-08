@@ -15,4 +15,4 @@ Fue un generoso patrón de arqueólogos y con [[Haworth|Jesse Haworth]] sufrag
 
 **Bibliografía**
 
-[[Bibliografia#^6ea5ab|Stevenson, <i>et al.</i>, 2026]]
+[Stevenson, *et al.*, 2026](Bibliografia.md#^6ea5ab)
