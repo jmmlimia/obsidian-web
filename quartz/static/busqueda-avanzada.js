@@ -92,7 +92,7 @@ async function iniciarBusquedaAvanzada() {
     ["__sin_datos__", "Sin datos"],
     ["Encáustica", "Encáustica"],
     ["Témpera", "Témpera"],
-    ["Técnica mixta (encáustica/témpera)", "Técnica mixta (encáustica/témpera)"],
+    ["Técnica mixta", "Técnica mixta (cera/témpera)"],
     ["Indeterminada", "Indeterminada"],
     ["Desconocida", "Desconocida"],
   ])
