@@ -7,7 +7,7 @@ title: PIV0748 — Museología
 ### Historia 
 Actualmente se encuentra en Kom Aushim Museum (Karanis, Egipto), cat. = 432.
 
-Excavado por la *Egyptian Antiquities Organization* en 1982.
+Excavado por la [[Antiquities|Egyptian Antiquities Organization]] en 1982.
 
 ### Comentarios museológicos 
 I) El Museo de Kom Aushim se encuentra a la entrada de la ciudad grecorromana de Karanis, al norte de el-Fayum. Fue construido en 1974 con una superficie de 280 × 160 metros y ampliado en 1993 hasta los 850 × 350 metros. Posteriormente, permaneció cerrado desde 2006 hasta 2017 por obras de remodelación.

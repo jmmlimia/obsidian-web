@@ -321,6 +321,8 @@ Quack, J. F. (2016). What is a Priest of Ēse, of Wusa, and of Isis in the Egypt
 
 Quint. _Inst._ = Quintiliano. (1887). *Instituciones Oratorias* (I. Rodríguez & P. Sandier, Eds.). Viuda de Hernando. (Obra original publicada en ca. 95 dC) ^5df3c7
 
+Quirke, S. (2007). The Day Diaries from Petrie’s Seasons at Hawara, 1888 and 1910-11. En J. Picton, S. Quirke, & P. C. Roberts (Eds.), *Living Images: Egyptian Funerary Portraits in the Petrie Museum* (pp. 105-110). University College London. ^9a8bfb
+
 Rackham, H. (1952). Translation. En *Pliny. Natural History: Books 33-35*. Harvard University Press.
 
 Radpour, R., Gates, G. A., Kakoulli, I., & Delaney, J. K. (2022). Identification and mapping of ancient pigments in a Roman Egyptian funerary portrait by application of reflectance and luminescence imaging spectroscopy. *Heritage Science*, *10*(1).
@@ -386,6 +388,8 @@ Str. = Estrabón. (1992). _Geografía: Libros III-IV_ (M. J. Meana & F. Piñero,
 Str. = Estrabón. (2015). _Geografía: Libros XV-XVII_ (J. L. García Alonso, M. P. de Hoz García-Bellido, & S. Torallas Tovar, Eds.). Gredos. (Obra original publicada en ca. 23 dC) ^fe4e7b
 
 Summer, G. (2012). Painting a Reconstruction of the Deir el-Medineh Portrait on a Painted Shroud and Other Soldiers from Roman Egypt. En M.-L. Nosch (Ed.), *Wearing the Cloak: Dressing the Soldier in Roman Times* (pp. 117-127). Oxbow Books.
+
+<span id="supreme2026"></span>*Supreme Council of Antiquities*. (2026). Wikipedia. [https://en.wikipedia.org/wiki/Supreme_Council_of_Antiquities](https://en.wikipedia.org/wiki/Supreme_Council_of_Antiquities) 
 
 Svoboda, M. (2016). Technology Unlocks the Secrets of Ancient Egyptian Funerary Portraits. *Getty - News & Stories*. ^1784f8
 

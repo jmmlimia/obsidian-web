@@ -254,3 +254,22 @@ header {
   display: flex !important;
   align-items: center !important;
 }
+
+/* Logotipo RdelF en lugar del título de la web */
+.page-title a {
+  display: block;
+  width: 180px;
+  height: 134px;
+  margin: 0 auto;
+  background-image: url("/static/logo-rdelf.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+
+  font-size: 0;
+}
+
+/* Ruta del logotipo en GitHub Pages */
+body[data-basepath="/obsidian-web"] .page-title a {
+  background-image: url("/obsidian-web/static/logo-rdelf.png");
+}

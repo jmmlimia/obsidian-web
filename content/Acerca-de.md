@@ -41,11 +41,11 @@ En resumen, presentamos **RdelF** a todas aquellas personas interesadas en est
 
 **Bibliografía** 
 
-[[Bibliografia#^dae8cc|Corcoran 1995]]
+[[Bibliografia#^dae8cc|Corcoran, 1995]]
 
-[[Bibliografia#^70b4f2|Marías 1966]] 
+[[Bibliografia#^70b4f2|Marías, 1966]] 
 
-[[Bibliografia#^b9204e|Montserrat 1994]] 
+[[Bibliografia#^b9204e|Montserrat, 1994]] 
 
 
 </div>
