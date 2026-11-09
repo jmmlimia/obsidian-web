@@ -15,6 +15,8 @@ title: Acerca de
 
 <a href="/Seccion-acercade/Que-es-un-RdelF/" class="boton-papiro">Qué es un RdelF</a>
 
+<a href="/Seccion-acercade/Aviso-legal-y-privacidad" class="boton-papiro">Aviso legal</a>
+
 </nav>
 
 <div class="acerca-texto">
