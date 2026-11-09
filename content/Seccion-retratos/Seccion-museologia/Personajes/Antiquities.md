@@ -7,7 +7,7 @@ Department of Antiquities, 1858 - 1971
 
 Egyptian Antiquities Organisation, 1971 - 1994
 
-Supreme Council of Antiquities (SCA), 1994 - Activo 
+Supreme Council of Antiquities (SCA), 1994 - en activo 
 
 Aunque el nombre de los organismos gubernamentales ha cambiado a lo largo de los años, su propósito y función se han mantenido constantes: la responsabilidad de conservar, proteger y regular todas las antigüedades y excavaciones arqueológicas en Egipto. En 2022, el SCA fue transferida al Ministerio de Antigüedades y Turismo.
 
