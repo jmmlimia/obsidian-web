@@ -14,12 +14,19 @@ I) Breve historia del museo. Incluir referencia a la Whitworth Art Gallery, en e
 [History of Whitworth Park and Gallery | Friends of Whitworth Park](https://friendsofwhitworthpark.org.uk/introduction/history/) 
 
 II) Ha participado en las siguientes exposiciones: 
+
 2012, 19JUL-25NOV, *Faces & Voices*. Manchester: The John Rylands Library.
+
 2020-2021, 06FEB-24ENE, *Golden Mummies of Egypt*. Buffalo (NY): Buffalo Museum of Science.
+
 2021, 06MAR-29JUL, *Golden Mummies of Egypt*. Raleigh (NC): North Carolina Museum of Art.
+
 2021, 15AGO-12DIC, *Golden Mummies of Egypt*. Beijing, China : World Art Museum.
+
 2021-2022, 28DIC-21ABR, *Golden Mummies of Egypt*. Shanghai, China: Meet you Museum.
+
 2022, 20MAY-26SEP, *Golden Mummies of Egypt*. China : Nanshan Museum.
+
 2023-2024, 17FEB-14ABR, *Golden Mummies of Egypt*. Manchester: Manchester Museum.
 
 ### Fotografías
