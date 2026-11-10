@@ -43,7 +43,7 @@ Aubert, M.-F. (2008b). Introduction. En M.-F. Aubert, R. Cortopassi, G. Nachterg
 
 Aubert, M.-F. (2008c). Portraits en cartonnage. En M.-F. Aubert, R. Cortopassi, G. Nachtergael, M. V. Asensi Amorós, P. Détienne, S. Pagès-Camagna, & A.-S. Le Hô (Eds.), *Portraits funéraires de l’Égypte romaine: Cartonnages, linceuls et bois* (Vol. 2, pp. 89-126). Musée du Louvre.
 
-Aubert, M.-F. (2008d). Portraits sur linceuls. En M.-F. Aubert, R. Cortopassi, G. Nachtergael, M. V. Asensi Amorós, P. Détienne, S. Pagès-Camagna, & A.-S. Le Hô (Eds.), *Portraits funéraires de l’Égypte romaine: Cartonnages, linceuls et bois* (Vol. 2, pp. 127-227). Musée du Louvre.
+Aubert, M.-F. (2008d). Portraits sur linceuls. En M.-F. Aubert, R. Cortopassi, G. Nachtergael, M. V. Asensi Amorós, P. Détienne, S. Pagès-Camagna, & A.-S. Le Hô (Eds.), *Portraits funéraires de l’Égypte romaine: Cartonnages, linceuls et bois* (Vol. 2, pp. 127-227). Musée du Louvre. ^26625d
 
 Aubert, M.-F., & Cortopassi, R. (1998). *Portraits de l’Egypte Romaine*. Réunion des Musées Nationaux.
 
@@ -53,9 +53,9 @@ Aufderheide, A. C. (2003). *The scientific Study of Mummies*. Cambridge Universi
 
 Bakker, M., Bakkers, A., & Worp, K. A. (2007). Back to Oegstgeest The von Scherling Papyrus Collection Some von Scherling Texts in Minnesota. *The Bulletin of the American Society of Papyrologists*, *44*, 41-73. ^40a852
 
-Barakat Gallery. (2026). _Funerary Shroud of an Elite Matron_.
+Barakat Gallery. (2026). *Funerary Shroud of an Elite Matron*. ^642af8
 
-Barakat Gallery. (2026). *Roman Period Egyptian Mummy Portrait*. 
+Barakat Gallery. (2026). *Roman Period Egyptian Mummy Portrait*. ^de9c75 
 
 Bartman, E. (2001). Hair and the Artifice of Roman Female Adornment. *American Journal of Archaeology*, *105*(1), 1-25. ^f6d53f
 
@@ -96,6 +96,8 @@ Brøns, C., & Sargent, M. L. (2018). Pigments and Dyes: The use of colourants fo
 Bruyère, B. (1953). *Rapport sur les fouilles de Deir El Médineh (Années 1948 à 1951)*. Institut Français d’Archéologie Orientale.
 
 Buikstra, J. E., & Ubelaker, D. H. (Eds.). (1994). *Standards for data collection from human skeletal remains*. Arkansas Archeological Survey. ^d30026
+
+Calament, F. (2011). _GAYET, Albert_ [INHA, Institut national d’histoire de l’art]. Diccionario crítico de historiadores del arte activos en Francia desde la Revolución hasta la Primera Guerra Mundial. ^ad8994
 
 Calzada Echevarría, A. (2003). *Diccionario clásico de arquitectura y bellas artes*. Ediciones del Serbal. ^bd3c3e
 
@@ -155,7 +157,7 @@ Dubois, Y., Fuchs, M. E., & Meylan Krause, M.-F. (2011). Pots de peinture et pai
 
 Dunand, F. (1979). *Religion populaire en Égypte romaine: Les terres cuites isiaques du Musée du Caire*. Brill. ^51db9e
 
-Dunand, F., & Lichtenberg, R. (1995). Pratiques et croyances funéraires en Egypte romaine. En *Aufstieg und Niedergang der romischen Welt (ANRW)* (Vols. 18-5, pp. 3216-3315). De Gruyter.
+Dunand, F., & Lichtenberg, R. (1995). Pratiques et croyances funéraires en Egypte romaine. En *Aufstieg und Niedergang der romischen Welt (ANRW)* (Vols. 18-5, pp. 3216-3315). De Gruyter. ^d2a494
 
 Dunham, D. (1958). *The Egyptian Department and its Excavations*. Museum of Fine Arts Boston. ^8d835a
 
@@ -268,6 +270,8 @@ Morrow Archival. (s. f.). _The pigments of Pompeii_. ^064a14
 Museum of Fine Arts Boston. (2020, agosto 19). *Mordant*. Cameo. ^18204a
 
 Museum of Fine Arts Boston. (2025, junio 30). *Binder*. Cameo. ^0cdf26
+
+Nachtergael, G. (2008). Inscriptions grecques et étiquettes bilingues. En M.-F. Aubert, R. Cortopassi, G. Nachtergael, M. V. Asensi Amorós, P. Détienne, S. Pagès-Camagna, & A.-S. Le Hô (Eds.), *Portraits funéraires de l’Égypte romaine: Cartonnages, linceuls et bois* (Vol. 2, pp. 55-72). Musée du Louvre. ^642328
 
 National Gallery. (1920). *Catalogue of the Pictures at Trafalgar Square*. Majesty’s Stationnery Office. ^0bda92
 

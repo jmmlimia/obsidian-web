@@ -17,9 +17,9 @@ Parlasca ofrece dos dataciones separadas casi por ese siglo: de los primeros añ
 Hawara, excavado en 1888 por W.M.F. Petrie, junto con PII0260 y PIV0982.
 
 ### Personaje 
-Artemidoros (Artemidore). Nombre propio escrito sobre el pecho del enfardado en una breve inscripción: ΑΡΤΕΜΙΔWΡΕ ΕΥΨΥΧΙ = "Artemidore eypsychi".
+Artemidoros (Artemidore). Nombre propio escrito sobre el pecho del enfardado en una breve inscripción: ΑΡΤΕΜΙΔWΡΕ ΕΥΨΥΧΙ = Artemidore eypsychi = Adiós Artemidoro.
 
 ### Comentarios sociológicos 
 Este retrato pertenece al grupo de sudarios rojos, así como a los grupos con inscripción y, por supuesto, al de nombres conocidos.
 
-La palabra ΕΥΨΥΧΙ = eypsychi, que podría traducirse por adiós (suerte, se valiente, ten coraje), se repite en varios retratos conocidos ([[PI0260]] | [[PII0273]] | [[PIV0982]]), induciendo a pensar que era una fórmula habitual de despedida. Tiene, por tanto, escasa consistencia la traducción libre: «¡Oh! Artemidoros el de alma valiente» y consecuente opinión de que el noble Artemidoros pudo haber sido un poeta (Forbes-Robertson, 1889, p. 179).
+La palabra ΕΥΨΥΧΙ = eypsychi, que podría traducirse por adiós (suerte, se valiente, ten coraje), se repite en varios retratos conocidos ([[PI0260]] | [[PII0273]] | [[PII0419]] | [[PIV0982]]), induciendo a pensar que era una fórmula habitual de despedida. Tiene, por tanto, escasa consistencia la traducción libre: «¡Oh! Artemidoros el de alma valiente» y consecuente opinión de que el noble Artemidoros pudo haber sido un poeta (Forbes-Robertson, 1889, p. 179).

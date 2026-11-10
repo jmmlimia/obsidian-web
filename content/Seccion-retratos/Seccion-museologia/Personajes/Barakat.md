@@ -11,4 +11,4 @@ Puede consultarse su página web: https://fayezbarakat.art/
 
 **Relacionado con los (2) retratos:** 
 
-[[Barakat Gallery]] | [[Rad003]] 
+[[Pad019]] | [[Pad020]] 
