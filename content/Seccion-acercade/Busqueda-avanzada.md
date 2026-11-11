@@ -11,7 +11,7 @@ Esta sección de búsqueda es uno de los recursos más importantes de la base de
 A continuación se listan todos estos conceptos, agrupados por categorías, susceptibles de búsqueda: 
 
 #### Ubicación 
-<u>Localización (museo o colección)</u> = ¿Dónde se encuentra el retrato actualmente? Entrada libre.
+<u>Localización (museo o colección)</u> = ¿Dónde se encuentra el retrato actualmente? Campo desplegable.
 
 <u>Número de catálogo</u> = De la institución que lo custodia. Entrada libre.
 
@@ -59,6 +59,6 @@ Usted podrá preguntar por conceptos individuales (para todos los retratos con c
 
 En la categoría de "Dimensiones", puede preguntar por una concreta (misma cifra en "Altura mínima" y "Altura máxima") o por un rango de ellas.
 
-El campo "Agrupaciones", permite relacionar todos los retratos mediante un doble desplegable en cascada con infinidad de conexiones <a href="../seccion-retratos/seccion-agrupaciones/Agrupaciones">consulte aquí todas las actuales</a>. El primer desplegable contiene 21 agrupaciones de trabajo. Eligiendo una de ellas, el segundo desplegable mostrará las varias opciones disponibles. Con este sistema es posible conocer los retratos que usaron malaquita como pigmento, los que son de militares, los que llevan pendientes tipo *crotalia*... El sistema no solo facilita identificar cualquier retrato, por escasos que sean los datos iniciales de que se disponga, sino que permite establecer una enorme cantidad de conexiones, inaccesibles hasta este momento. 
+El campo "Agrupaciones", permite relacionar todos los retratos mediante un doble desplegable en cascada con infinidad de conexiones <a href="../seccion-retratos/seccion-agrupaciones/Agrupaciones">(consulte aquí todas las actuales)</a>. El primer desplegable contiene 21 agrupaciones de trabajo. Eligiendo una de ellas, el segundo desplegable mostrará las varias opciones disponibles. Con este sistema es posible conocer los retratos que usaron malaquita como pigmento, los que son de militares, los que llevan pendientes tipo *crotalia*... El sistema no solo facilita identificar cualquier retrato, por escasos que sean los datos iniciales de que se disponga, sino que permite establecer una enorme cantidad de conexiones, inaccesibles hasta este momento. 
 
 Es fundamental tener en cuenta que algunos conceptos, en ocasiones, pueden ser bastante aleatorios. Hay veces, por ejemplo, en las que un corte de madera, o la orientación del cuerpo, están en el límite entre dos opciones; la "legibilidad" de un retrato es, en ocasiones, muy subjetiva. Pero estos son problemas inevitables en cualquier clasificación.

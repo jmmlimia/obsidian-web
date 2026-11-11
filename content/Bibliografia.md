@@ -167,6 +167,8 @@ Einstein, L. D. (1968). *A Diplomat Looks Back*. Yale University Press.
 
 Eladany, A. H. (2011). *A study of a selected group of third intermediate period mummies in the British Museum* [Tesis doctoral, University of Manchester]. The University of Manchester Research Explorer. ^de66e6
 
+<span id="guimet2026"></span>*Émile Guimet*. (2026, septiembre 13). Wikipedia. [https://fr.wikipedia.org/wiki/%C3%89mile_Guimet](https://fr.wikipedia.org/wiki/%C3%89mile_Guimet) ^5217fd
+
 *Etim.* = San Isidoro de Sevilla. (2004). _Etimologías_. Biblioteca de Autores Cristianos. (Obra original publicada en ca. 630)
 
 Eudel, P. (1882). *L'Hotel Drouot et la curiosité en 1881*. G.Charpentier. ^fabf6e

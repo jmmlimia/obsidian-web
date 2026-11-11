@@ -136,7 +136,7 @@ async function iniciarBusquedaAvanzada() {
     ["", "Todos"],
     ["__sin_datos__", "Sin datos"],
     ["Indefinible", "Indefinible"],
-    ["Absidial", "Absidial"],
+    ["Absidal", "Absidal"],
     ["Circular", "Circular"],
     ["Irregular", "Irregular"],
     ["Ovalado", "Ovalado"],

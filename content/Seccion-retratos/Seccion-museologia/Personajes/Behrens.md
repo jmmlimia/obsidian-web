@@ -1,9 +1,7 @@
 ---
-title: Behrens
+title: Johannes Behrens
 ---
 
-
-Johannes Behrens
 
 ? – ?
 

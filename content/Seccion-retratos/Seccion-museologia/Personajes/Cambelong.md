@@ -1,9 +1,7 @@
 ---
-title: Cambelong
+title: Thierry Cambelong
 ---
 
-
-Thierry Cambelong 
 
 Suiza, activo en la década de 1970 
 

@@ -13,7 +13,7 @@ Aunque el nombre de los organismos gubernamentales ha cambiado a lo largo de los
 
 El responsable de cada uno de estos organismos siempre ha sido una de las personas más importantes del país, desde el arqueólogo francés Auguste Mariette que estableció el servicio, hasta el penúltimo Zahi Hawass, omnipresente, televisivo y polémico arqueólogo y político egipcio.
 
-Relacionados con el (1) retrato:
+**Relacionados con el (1) retrato:**
 
 [[PIV0748]]
 

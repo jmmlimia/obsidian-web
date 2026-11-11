@@ -1,9 +1,7 @@
 ---
-title: Barakat
+title: Fayez Barakat
 ---
 
-
-Fayez Barakat
 
 Hebrón, Líbano, 1949 - en activo 
 

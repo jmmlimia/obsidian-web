@@ -64,7 +64,7 @@ En este período, referente al peinado femenino, hay que recordar a Julia Domna,
 | Casi 20 emperadores | 235 - 284 |
 
 **ÉPOCA CONSTANTINIANA = 284 - 363** 
-Esta es una división más arbitraria, por eso hemos preferido llamarla 'época' en vez de 'dinastía' (aunque después de Constancio I, que era César en el año 293 ya sí existe relación familiar directa). Para muchos autores, en estos años ya no se pintaban retratos de el-Fayum, o la serie estaba concluyendo; otros especialistas, sin embargo, fechan algunos ejemplares más allá de Juliano incluso.
+Esta es una división más arbitraria, por eso hemos preferido llamarla "época" en vez de dinastía (aunque después de Constancio I, que era César en el año 293 ya sí existe relación familiar directa). Para muchos autores, en estos años ya no se pintaban retratos de el-Fayum, o la serie estaba concluyendo; otros especialistas, sin embargo, fechan algunos ejemplares más allá de Juliano incluso.
 
 | Emperador | Años |
 | --------- | :---------------: |

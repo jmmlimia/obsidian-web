@@ -1,9 +1,7 @@
 ---
-title: BSAE
+title: British School of Archaeology in Egypt (BSAE)
 ---
 
-
-British School of Archaeology in Egypt (BSAE)
 
 1905 – 1954
 
@@ -16,7 +14,7 @@ Los objetivos de la BSAE eran:
 4. Organizar exposiciones.
 5. Fomentar la formación y la ayuda a los estudiantes.
 
-Hasta 1925, la BSAE realizó excavaciones en más de 20 yacimientos en todo Egipto. Entre todas ellas hemos de destacar la realizada en la temporada 1910-11 en Hawara con el hallazgo de numerosos retratos.
+Hasta 1925, la BSAE realizó excavaciones en más de 20 yacimientos en todo Egipto. Entre ellas hemos de destacar la llevada a cabo en la temporada 1910-11 en Hawara con el hallazgo de numerosos retratos.
 
 **Relacionada con los (1) retratos:** 
 

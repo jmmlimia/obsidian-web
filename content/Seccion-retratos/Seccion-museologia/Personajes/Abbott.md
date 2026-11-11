@@ -1,15 +1,13 @@
 ---
-title: Abbott
+title: Henry William Charles Abbott
 ---
 
 
-Henry William Charles Abbott
+Hendon, Middlesex, Inglaterra, 20AGO1807 ─ Al Qahirah, Egipto, 10MAR1859
 
-1807 ─ 1859
+El Dr. Henry Abbott era un físico inglés que vivió en El Cairo durante 20 años convirtiéndose en un conocido coleccionista de arte y antigüedades. En 1853 organizó una exposición en Nueva York con la intención de vender su colección que, finalmente, fue adquirida en 1860 por la [[Historical-society|New York Historical Society]].
 
-El Dr. Henry Abbott era un físico inglés que vivió en El Cairo durante 20 años convirtiéndose en un conocido coleccionista de arte y antigüedades. En 1853 organizó una exposición en Nueva York con la intención de vender su colección que, finalmente, fue adquirida en 1860 por la New York Historical Society
-
-Relacionado con el (1) retrato:
+**Relacionado con el (1) retrato:**
 
 [[RIV1007]]
 

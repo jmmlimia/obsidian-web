@@ -1,9 +1,7 @@
 ---
-title: Buers
+title: H. J. W. I. Buers
 ---
 
-
-H. J. W. I. Buers
 
 ? - ? 
 

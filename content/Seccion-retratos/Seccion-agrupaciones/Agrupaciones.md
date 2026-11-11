@@ -101,7 +101,7 @@ Aquí tienen desglosadas y actualizadas todas las agrupaciones posibles.
 |    FR04     | Frente tipo arco de medio punto                                                               |
 |    FR05     | Frente tipo arco en mitra                                                                     |
 |    FR06     | Frente tipo arco poligonal                                                                    |
-|    FR07     | Frente tipo arco tumido                                                                       |
+|    FR07     | Frente tipo arco túmido                                                                       |
 |    FR08     | Frente tipo arco geminado                                                                     |
 |    FR09     | Frente tipo arco trilobulado                                                                  |
 |    FR20     | Frente tipo desacorde                                                                         |

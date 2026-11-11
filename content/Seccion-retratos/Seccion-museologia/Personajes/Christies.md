@@ -1,9 +1,7 @@
 ---
-title: Christie's
+title: Christie's Corporate Entities
 ---
 
-
-Christie's Corporate Entities
 
 1766 ─ en activo
 

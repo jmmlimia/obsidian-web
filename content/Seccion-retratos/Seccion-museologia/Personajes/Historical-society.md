@@ -13,9 +13,9 @@ La Sociedad adquirió en 1860 la colección de arte y antiguedades egipcias del 
 
 Puede consultarse su página web: https://www.nyhistory.org/es-us
 
-Relacionada con el retrato:
+**Relacionada con el (1) retrato:**
 
-RIV1007 
+[[RIV1007]] 
 
 **Bibliografía**
 

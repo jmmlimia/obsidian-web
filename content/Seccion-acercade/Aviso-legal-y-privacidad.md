@@ -6,7 +6,7 @@ title: Aviso legal y privacidad
 
 ## 1. Naturaleza y finalidad del proyecto
 
-*Retratos de el-Fayum* (RdelF) es una obra de consulta digital dedicada a la catalogación, documentación, clasificación y estudio científico de los retratos funerarios de época romana procedentes de Egipto, conocidos convencionalmente como retratos de el-Fayum.
+*Retratos de el-Fayum* (**RdelF**) es una obra de consulta digital dedicada a la catalogación, documentación, clasificación y estudio científico de los retratos funerarios de época romana procedentes de Egipto, conocidos convencionalmente como retratos de el-Fayum.
 
 El proyecto tiene una finalidad exclusivamente científica, académica, educativa y divulgativa. Está dirigido a investigadores, docentes, estudiantes y personas interesadas en la historia, la arqueología, la historia del arte y otras disciplinas relacionadas.
 

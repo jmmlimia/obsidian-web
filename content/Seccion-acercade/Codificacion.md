@@ -24,7 +24,7 @@ Empezando por 700 (Pad700): retratos que se conservan con su momia.
 
 Empezando por 800 (Pad800): retratos o fragmentos ilegibles.
 
-Empezando por 900 (Pad900): retratos no clasificados en ninguno de los otros grupos, por ejemplo, los recompuestos.
+Empezando por 900 (Pad900): retratos no clasificados en ninguno de los apartados anteriores, por ejemplo, los recompuestos.
 
 
 
@@ -32,11 +32,11 @@ A continuación hay tres grupos de registros especiales que no empiezan por la l
 
 
 
-En primer lugar los que hemos considerado que no son retratos de el Fayum, aunque algunos estén incluidos en los 4 volúmenes de Parlasca (aquí está explicado [[Que-es-un-RdelF|qué entendemos por un retrato de el-Fayum]]), pero que pueden ayudar a discernir o ejemplificar aspectos diversos de los retratos; estos se incluyen con la inicial **R**.
+En primer lugar, los que hemos considerado que no son retratos de el-Fayum (aquí está explicado [[Que-es-un-RdelF|aquello que sí entendemos por retrato de el-Fayum]]), aunque algunos estén incluidos en los 4 volúmenes de Parlasca. Estos pueden ayudar a discernir o ejemplificar aspectos diversos del corpus: se nombran con la inicial **R**.
 
 
 
-En segundo lugar aquellos que empiezan por la letra **T** (del ingles *taken* = fuera del corpus), son retratos cuya existencia estuvo comprobada, pero han desaparecido, en algunos casos destruidos en la II Guerra Mundial, en otros quizás robados... Sea como sea ya no forman parte del corpus vivo. 
+En segundo lugar, aquellos que empiezan por la letra **T** (del inglés *taken* = fuera de la colección), son retratos cuya existencia estuvo comprobada, pero han desaparecido, en algunos casos destruidos en la II Guerra Mundial, en otros quizás robados. Sea como sea, han dejado de existir en lo físico. 
 
 
 

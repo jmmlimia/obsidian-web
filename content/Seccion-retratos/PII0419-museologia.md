@@ -7,7 +7,7 @@ title: PII0419 — Museología
 ### Historia
 Actualmente se encuentra en [Musée du Louvre](https://www.louvre.fr) (París, Francia), cat. = AF 6440.
 
-Excavado en Antinoópolis por [[Gayet|Albert Gayet]] la temporada de 1901, y enviada inmediatamente al Musée Guimet. Transferido al Louvre en 1953.
+Excavado en Antinoópolis por [[Gayet|Albert Gayet]] la temporada de 1901, y enviada inmediatamente al [[Guimet|Musée Guimet]]. Transferido al Louvre en 1953.
 
 ### Comentarios museológicos
 I) Se consulte la lista que se consulte, el Louvre aparece siempre entre los museos más importante del mundo, sino el primero. También en el tema que nos interesa aquí, París ocupa una posición de privilegio, junto a Berlín, Londres y El Cairo, siendo la que conserva los mejores sudarios de lino.
@@ -25,7 +25,7 @@ II)  Ha participado en las siguientes exposiciones:
 III) Otro número de cat. = MG 77 (Aubert 2008: 201). Fotografías, dibujo y estudio completo en Aubert 2008: 201-205.
 
 ### Fotografías
-<u>Reproducidas</u> = Propiedad de [Musée du Louvre](https://www.louvre.fr) de París. [[Permisos-de-fotografias|Permisos de fotografías]], "publications numériques à vocation scientifique ou pédagogique" y Etalab Licence Ouverte.
+<u>Reproducidas</u> = Propiedad de [Musée du Louvre](https://www.louvre.fr) de París. [[Permisos-de-fotografias|Permisos de fotografías]], Etalab Licence Ouverte.
 
 <u>Parlasca</u> = P2: lám. 104, núm. 1 (b/n).
 

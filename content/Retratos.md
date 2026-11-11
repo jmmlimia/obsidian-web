@@ -6,7 +6,7 @@ title: Retratos
 
 
 
-En esta página se lista una breve referencia de cada uno de los ejemplares que ya están incluidos en el sistema: fotografía, nombre, y algunos datos básicos.
+En esta página se lista una breve referencia de cada uno de los ejemplares que ya están incluidos en el sistema: fotografía, nombre y datos que pueden ser objeto de [[Busquedas|búsqueda]] (localización, número de catálogo, ciudad, país, ¿está en su momia?, legibilidad, técnica, soporte, forma del extremo superior, alto, ancho, procedencia original, género, orientación del cuerpo, barba, bigote, corona, pendientes, collares y algunas agrupaciones).
 
 Por medio de sus enlaces, accederán a una ficha de cada retrato, en la que siempre se hallará información completa de la colección que lo custodia, así como una valoración inicial somera de la obra. Muchos más datos adicionales sobre museología, retratística, complementos, sociología... se irán completando progresivamente.
 
