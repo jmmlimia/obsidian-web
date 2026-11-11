@@ -1,9 +1,7 @@
 ---
-title: Kertzmar
+title: Bruno Kertzmar
 ---
 
-
-Bruno Kertzmar
 
 ? – ?
 

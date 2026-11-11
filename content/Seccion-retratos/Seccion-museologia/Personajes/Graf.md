@@ -1,13 +1,11 @@
 ---
-title: Graf
+title: Otto Theodor Graf
 ---
 
 
-Otto Theodor Graf
-
 Engerda, Turingia, hoy Alemania, 11MAR1840 – Rodaun, distrito de Viena, Austria, 25NOV1903
 
-El comercio de antigüedades en el siglo que va desde 1850 a 1950 involucró a muchos occidentales, pero desde una perspectiva socio-histórica, es de notar que pocos de ellos parecen haberse asentado en Egipto con tal propósito expreso, solo se vieron envueltos en este mundo de manera incidental. El más importante de este grupo para nosotros, sin duda, es Theodor Graf. Propietario de un negocio de alfombras en Viena, con sucursal en El Cairo, viajó con frecuencia a Egipto entre finales del siglo XIX y principios del XX y desde allí mercadeaba con antigüedades y textiles.
+El comercio de antigüedades en el siglo que va entre los años de 1850 a 1950 involucró a muchos occidentales, pero desde una perspectiva socio-histórica, es de notar que pocos de ellos parecen haberse asentado en Egipto con tal propósito expreso. Solo se vieron envueltos en aquel mundo de manera incidental. El más importante de este grupo para nosotros, sin duda, es Theodor Graf. Propietario de un negocio de alfombras en Viena, con sucursal en El Cairo, viajó con frecuencia a Egipto entre finales del siglo XIX y principios del XX y desde allí mercadeaba con antigüedades y textiles.
 
 En 1887 adquirió alrededor de 330 retratos de momias tardorromanas de agentes locales cerca de [[er-Rubayat]]. Si bien no existen registros de los movimientos de este gran número de retratos, se asociaron desde el principio con la necrópolis del lugar.
 

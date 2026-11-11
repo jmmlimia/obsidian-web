@@ -1,9 +1,7 @@
 ---
-title: Schmidt
+title: Gunther Schmidt
 ---
 
-
-Gunther Schmidt
 
 Rüdersdorf, Alemania, 1939 - LUGAR Y FECHA DE DEFUNCIÓN 
 

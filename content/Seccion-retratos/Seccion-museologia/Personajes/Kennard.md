@@ -1,9 +1,7 @@
 ---
-title: Kennard
+title: Henry Martyn Kennard
 ---
 
-
-Henry Martyn Kennard
 
 Hackney, Middlesex, Inglaterra, 17FEB1833 – Londres, Inglaterra, 03AGO1911
 

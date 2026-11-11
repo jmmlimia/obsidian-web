@@ -1,9 +1,7 @@
 ---
-title: Möger
+title: Johan Möger
 ---
 
-
-Johan Möger
 
 Leerdam, Utrecht, Países Bajos 30AGO1918 - Soest, Utrecht, Países Bajos, 28OCT1994 
 

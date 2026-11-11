@@ -1,9 +1,7 @@
 ---
-title: Phoenix
+title: Phoenix Ancient Art SA
 ---
 
-
-Phoenix Ancient Art SA
 
 1995 – en activo
 

@@ -1,9 +1,7 @@
 ---
-title: Haworth
+title: Jesse Haworth
 ---
 
-
-Jesse Haworth
 
 Bolton, Lancashire, Inglaterra, 04AGO1835 – Bowdon, Manchester, Inglaterra, 23OCT1920
 

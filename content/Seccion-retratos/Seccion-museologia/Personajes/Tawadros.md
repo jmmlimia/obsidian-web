@@ -1,9 +1,7 @@
 ---
-title: Tawadros
+title: Habib Tawadros
 ---
 
-
-Habib Tawadros
 
 ? – ?
 

@@ -1,9 +1,7 @@
 ---
-title: Petrie
+title: sir William Matthew Flinders Petrie
 ---
 
-
-sir William Matthew Flinders Petrie
 
 Charlton, Londres, Inglaterra, 03JUN1853 – Jerusalén, Israel, 28JUL1942
 

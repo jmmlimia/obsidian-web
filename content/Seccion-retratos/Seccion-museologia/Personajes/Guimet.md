@@ -1,9 +1,7 @@
 ---
-title: Guimet
+title: Émile Guimet
 ---
 
-
-Émile Guimet
 
 Lyon, Francia, 02JUN1836 ─ Fleuneu-sur-Saône, Francia, 12OCT1918
 

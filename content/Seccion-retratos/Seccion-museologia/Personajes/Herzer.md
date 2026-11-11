@@ -1,9 +1,7 @@
 ---
-title: Herzer
+title: Heinz (Heinrich) Herzer
 ---
 
-
-Heinz (Heinrich) Herzer
 
 Berlín, Alemania, 06MAR1934 - Múnich, Alemania, 24JUL2006
 

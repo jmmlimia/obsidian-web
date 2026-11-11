@@ -1,9 +1,9 @@
 ---
-title: Uzan
+title: Joseph Uzan
 ---
 
 
-Joseph Uzan: Túnez, 1944 – ?
+Túnez, 1944 – ?
 
 Sabrina Uzan Kaminski: JUN1978 – ?
 
