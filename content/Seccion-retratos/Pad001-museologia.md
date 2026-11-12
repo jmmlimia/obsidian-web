@@ -14,11 +14,11 @@ En la información de dicha venta, solo aparece que estaba en posesión de [[Cam
 ### Conservación 
 I) En su actual [[Estado-de-conservacion|estado de conservación]], el conjunto del retrato se nos presenta como muy bueno (2).
 
-II) a) La madera está [[Cortes|cortada]] con un borde superior indescifrable que cubren restos de tela, cantos laterales irregulares (el lado derecho muy discontinuo; el lado izquierdo formando un ligero arco cóncavo), ensanchándose hacia la base que es recta y está pintada en su totalidad. b) Solo presenta una fisura en la parte central-superior que va desde el ojo a la nariz, y dos ligeras grietas verticales en el centro de su base, más aparentes pérdidas de material en la zona de la vestimenta.
+II) a) La madera está [[Cortes|cortada]] con un borde superior indescifrable que cubren restos de tela, cantos laterales irregulares (el lado derecho muy discontinuo; el lado izquierdo formando un ligero arco cóncavo), ensanchándose hacia la base que es recta y está pintada en su totalidad. b) Solo presenta una fisura en la parte central-superior que va desde el ojo a la nariz, y dos ligeras grietas verticales en el centro de su base, más aparentes pérdidas de material en la zona de la vestimenta. c) Por tanto, la madera se encuentra en buenas condiciones, su curvatura creemos que le otorga un valor expositivo adicional, que sabemos puede corregirse si se quisiera.
 
-III) a) La capa pictórica sí ha padecido más el paso del tiempo; ha saltado en algunos lugares, como en la parte central de la vestimenta o sien izquierda, pero, sobre todo, presenta mucho desgaste y pérdida de color, advirtiendo un velo blanquecino que no sabemos a qué se debe. b) En toda la superficie del retrato hay concreciones de suciedad y, en los extremos, restos del enfardado.
+III) a) La capa pictórica sí ha padecido más el paso del tiempo; ha saltado en algunos lugares, como en la parte central de la vestimenta o sien izquierda, pero, sobre todo, presenta mucho desgaste y pérdida de color, advirtiéndose un velo blanquecino que no sabemos a qué se debe. b) En toda la superficie del retrato hay concreciones de suciedad y, en los extremos, restos del enfardado. c) Por tanto, el color ha perdido intensidad, presentando un aspecto bastante desvaído.
 
-IV) En general, por tanto, tal como podemos verla hoy (la madera parece en buenas condiciones y su curvatura creemos que le otorga un valor expositivo adicional, que sabemos puede corregirse si se quisiera; y el color ha perdido intensidad, presentando un aspecto bastante desvaído), la situación de la obra no impide su correcta lectura, aunque complicada a nivel tonal, con pérdida de algunos detalles.
+IV) En general, tal como podemos verla hoy, la situación de la obra no impide su correcta lectura, aunque complicada a nivel tonal, con pérdida de algunos detalles.
 
 V) No tenemos referencias a ningún procedimiento de restauración o conservación.
 

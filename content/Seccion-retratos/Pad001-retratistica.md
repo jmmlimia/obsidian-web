@@ -20,7 +20,7 @@ VI) Cuello. [[Cuellos|Cuello tipo tubular]].
 
 VII) Carnación. Tonos cálidos de tez mediterránea con pocas florituras.
 
-VIII) Luz. Una luz lateral contrastada entra desde su izquierda, aunque las sombras propias han sido bastante obliteradas salvo, quizás, en el cuello. A la vez, la zona iluminada lo está, en apariencia, del mismo color adyacente. solo que aclarado.
+VIII) Luz. Una luz lateral contrastada entra desde su izquierda, aunque las sombras propias han sido bastante obliteradas salvo, quizás, en el cuello. A la vez, la zona iluminada lo está, en apariencia, del mismo color adyacente, solo que aclarado.
 
 IX) Desplazamiento No percibimos nada destacable en este apartado.
 
