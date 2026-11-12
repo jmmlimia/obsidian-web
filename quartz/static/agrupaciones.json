@@ -198,44 +198,6 @@
     ]
   },
   {
-    "id": "AGEG",
-    "nombre": "AGRUPACIÓN ESTADO GENERAL DEL RETRATO",
-    "codigos": [
-      {
-        "codigo": "EG01",
-        "descripcion": "Estado pésimo (-3)"
-      },
-      {
-        "codigo": "EG02",
-        "descripcion": "Estado precario (-2)"
-      },
-      {
-        "codigo": "EG03",
-        "descripcion": "Estado deficiente (-1)"
-      },
-      {
-        "codigo": "EG04",
-        "descripcion": "Estado mediocre (-0)"
-      },
-      {
-        "codigo": "EG05",
-        "descripcion": "Estado razonable (+0)"
-      },
-      {
-        "codigo": "EG06",
-        "descripcion": "Estado bueno (+1)"
-      },
-      {
-        "codigo": "EG07",
-        "descripcion": "Estado muy bueno (+2)"
-      },
-      {
-        "codigo": "EG08",
-        "descripcion": "Estado excelente (+3)"
-      }
-    ]
-  },
-  {
     "id": "AGES",
     "nombre": "AGRUPACIÓN ESPECIAL",
     "codigos": [
@@ -274,6 +236,44 @@
     ]
   },
   {
+    "id": "AGEG",
+    "nombre": "AGRUPACIÓN ESTADO GENERAL DEL RETRATO",
+    "codigos": [
+      {
+        "codigo": "EG01",
+        "descripcion": "Estado pésimo (-3)"
+      },
+      {
+        "codigo": "EG02",
+        "descripcion": "Estado precario (-2)"
+      },
+      {
+        "codigo": "EG03",
+        "descripcion": "Estado deficiente (-1)"
+      },
+      {
+        "codigo": "EG04",
+        "descripcion": "Estado mediocre (-0)"
+      },
+      {
+        "codigo": "EG05",
+        "descripcion": "Estado razonable (+0)"
+      },
+      {
+        "codigo": "EG06",
+        "descripcion": "Estado bueno (+1)"
+      },
+      {
+        "codigo": "EG07",
+        "descripcion": "Estado muy bueno (+2)"
+      },
+      {
+        "codigo": "EG08",
+        "descripcion": "Estado excelente (+3)"
+      }
+    ]
+  },
+  {
     "id": "AGFO",
     "nombre": "AGRUPACIÓN FONDOS",
     "codigos": [
@@ -292,28 +292,6 @@
       {
         "codigo": "FO04",
         "descripcion": "Fondo con diferencia tonal: claro-pasado / oscuro-presente"
-      }
-    ]
-  },
-  {
-    "id": "AGGR",
-    "nombre": "AGRUPACIÓN GRUPOS",
-    "codigos": [
-      {
-        "codigo": "GR01",
-        "descripcion": "Grupo de militares"
-      },
-      {
-        "codigo": "GR02",
-        "descripcion": "Grupo de bustos desnudos"
-      },
-      {
-        "codigo": "GR03",
-        "descripcion": "Grupo de sacerdotes-tisas"
-      },
-      {
-        "codigo": "GR04",
-        "descripcion": "Grupo de empresarios"
       }
     ]
   },
@@ -367,6 +345,28 @@
       }
     ]
   },
+  {
+    "id": "AGGR",
+    "nombre": "AGRUPACIÓN GRUPOS",
+    "codigos": [
+      {
+        "codigo": "GR01",
+        "descripcion": "Grupo de militares"
+      },
+      {
+        "codigo": "GR02",
+        "descripcion": "Grupo de bustos desnudos"
+      },
+      {
+        "codigo": "GR03",
+        "descripcion": "Grupo de sacerdotes-tisas"
+      },
+      {
+        "codigo": "GR04",
+        "descripcion": "Grupo de empresarios"
+      }
+    ]
+  },  
   {
     "id": "AGIC",
     "nombre": "AGRUPACIÓN ICONOGRAFÍA",
@@ -544,6 +544,52 @@
     ]
   },
   {
+    "id": "AGPN",
+    "nombre": "AGRUPACIÓN PENDIENTES",
+    "codigos": [
+      {
+        "codigo": "PN01",
+        "descripcion": "Pendientes tipo globular"
+      },
+      {
+        "codigo": "PN01a",
+        "descripcion": "Pendientes tipo perla"
+      },
+      {
+        "codigo": "PN02",
+        "descripcion": "Pendientes tipo crotalia"
+      },
+      {
+        "codigo": "PN03",
+        "descripcion": "Pendientes tipo estribo"
+      },
+      {
+        "codigo": "PN04",
+        "descripcion": "Pendientes tipo patrón S"
+      },
+      {
+        "codigo": "PN05",
+        "descripcion": "Pendientes tipo sanguijuela"
+      },
+      {
+        "codigo": "PN06",
+        "descripcion": "Pendientes tipo alambre y colgante"
+      },
+      {
+        "codigo": "PN07",
+        "descripcion": "Pendientes tipo a grapolo"
+      },
+      {
+        "codigo": "PN09",
+        "descripcion": "Pendientes tipo discoidal"
+      },
+      {
+        "codigo": "PN100",
+        "descripcion": "Pendientes dudosos o irreconocibles"
+      }
+    ]
+  },  
+  {
     "id": "AGPG",
     "nombre": "AGRUPACIÓN PIGMENTOS",
     "codigos": [
@@ -696,52 +742,6 @@
       {
         "codigo": "PI05",
         "descripcion": "Pintor de San Luis"
-      }
-    ]
-  },
-  {
-    "id": "AGPN",
-    "nombre": "AGRUPACIÓN PENDIENTES",
-    "codigos": [
-      {
-        "codigo": "PN01",
-        "descripcion": "Pendientes tipo globular"
-      },
-      {
-        "codigo": "PN01a",
-        "descripcion": "Pendientes tipo perla"
-      },
-      {
-        "codigo": "PN02",
-        "descripcion": "Pendientes tipo crotalia"
-      },
-      {
-        "codigo": "PN03",
-        "descripcion": "Pendientes tipo estribo"
-      },
-      {
-        "codigo": "PN04",
-        "descripcion": "Pendientes tipo patrón S"
-      },
-      {
-        "codigo": "PN05",
-        "descripcion": "Pendientes tipo sanguijuela"
-      },
-      {
-        "codigo": "PN06",
-        "descripcion": "Pendientes tipo alambre y colgante"
-      },
-      {
-        "codigo": "PN07",
-        "descripcion": "Pendientes tipo a grapolo"
-      },
-      {
-        "codigo": "PN09",
-        "descripcion": "Pendientes tipo discoidal"
-      },
-      {
-        "codigo": "PN100",
-        "descripcion": "Pendientes dudosos o irreconocibles"
       }
     ]
   },

@@ -62,16 +62,6 @@ Aquí tienen desglosadas y actualizadas todas las agrupaciones posibles.
 |    ED12     | >50 años, anciano                                                                             |
 |    ED13     | >50 años, anciana                                                                             |
 |             |                                                                                               |
-| **6-AGEG**  | **AGRUPACIÓN ESTADO GENERAL DEL RETRATO**                                                     |
-|    EG01     | Estado pésimo (-3)                                                                            |
-|    EG02     | Estado precario (-2)                                                                          |
-|    EG03     | Estado deficiente (-1)                                                                        |
-|    EG04     | Estado mediocre (-0)                                                                          |
-|    EG05     | Estado razonable (+0)                                                                         |
-|    EG06     | Estado bueno (+1)                                                                             |
-|    EG07     | Estado muy bueno (+2)                                                                         |
-|    EG08     | Estado excelente (+3)                                                                         |
-|             |                                                                                               |
 | **7-AGES**  | **AGRUPACIÓN ESPECIAL**                                                                       |
 |    ES01     | Retrato con inscripción                                                                       |
 |    ES02     | Retrato con nombre propio                                                                     |
@@ -82,17 +72,21 @@ Aquí tienen desglosadas y actualizadas todas las agrupaciones posibles.
 |    ES30     | Retrato recompuesto                                                                           |
 |    ES40     | Panel pintado por ambos lados                                                                 |
 |             |                                                                                               |
+| **6-AGEG**  | **AGRUPACIÓN ESTADO GENERAL DEL RETRATO**                                                     |
+|    EG01     | Estado pésimo (-3)                                                                            |
+|    EG02     | Estado precario (-2)                                                                          |
+|    EG03     | Estado deficiente (-1)                                                                        |
+|    EG04     | Estado mediocre (-0)                                                                          |
+|    EG05     | Estado razonable (+0)                                                                         |
+|    EG06     | Estado bueno (+1)                                                                             |
+|    EG07     | Estado muy bueno (+2)                                                                         |
+|    EG08     | Estado excelente (+3)                                                                         |
+|             |                                                                                               |
 | **8-AGFO**  | **AGRUPACIÓN FONDOS**                                                                         |
 |    FO01     | Fondo completamente cubierto de dorado                                                        |
 |    FO02     | Fondo de color uniforme                                                                       |
 |    FO03     | Fondo con diferencia tonal: oscuro-pasado / claro-presente                                    |
 |    FO04     | Fondo con diferencia tonal: claro-pasado / oscuro-presente                                    |
-|             |                                                                                               |
-| **9-AGGR**  | **AGRUPACIÓN GRUPOS**                                                                         |
-|    GR01     | Grupo de militares                                                                            |
-|    GR02     | Grupo de bustos desnudos                                                                      |
-|    GR03     | Grupo de sacerdotes-tisas                                                                     |
-|    GR04     | Grupo de empresarios                                                                          |
 |             |                                                                                               |
 | **10-AGFR** | **AGRUPACIÓN FRENTES**                                                                        |
 |    FR01     | Frente tipo arco carpanel                                                                     |
@@ -106,6 +100,12 @@ Aquí tienen desglosadas y actualizadas todas las agrupaciones posibles.
 |    FR09     | Frente tipo arco trilobulado                                                                  |
 |    FR20     | Frente tipo desacorde                                                                         |
 |    FR21     | Frente tipo pechina                                                                           |
+|             |                                                                                               |
+| **9-AGGR**  | **AGRUPACIÓN GRUPOS**                                                                         |
+|    GR01     | Grupo de militares                                                                            |
+|    GR02     | Grupo de bustos desnudos                                                                      |
+|    GR03     | Grupo de sacerdotes-tisas                                                                     |
+|    GR04     | Grupo de empresarios                                                                          |
 |             |                                                                                               |
 | **11-AGIC** | **AGRUPACIÓN ICONOGRAFÍA**                                                                    |
 |    IC01     | Sudario tipo Osiris                                                                           |
@@ -153,6 +153,18 @@ Aquí tienen desglosadas y actualizadas todas las agrupaciones posibles.
 |    PEM05    | peinado modelo Serapis                                                                        |
 |    PEM20    | Peinado modelo rizado sin paralelos                                                           |
 |             |                                                                                               |
+| **17-AGPN** | **AGRUPACIÓN PENDIENTES**                                                                     |
+|    PN01     | Pendientes tipo globular                                                                      |
+|    PN01a    | Pendientes tipo perla                                                                         |
+|    PN02     | Pendientes tipo _crotalia_                                                                    |
+|    PN03     | Pendientes tipo estribo                                                                       |
+|    PN04     | Pendientes tipo patrón S                                                                      |
+|    PN05     | Pendientes tipo sanguijuela                                                                   |
+|    PN06     | Pendientes tipo alambre y colgante                                                            |
+|    PN07     | Pendientes tipo _a grappolo_                                                                   |
+|    PN09     | Pendientes tipo discoidal                                                                     |
+|    PN100    | Pendientes dudosos o irreconocibles                                                           |
+|             |                                                                                               |
 | **15-AGPG** | **AGRUPACIÓN PIGMENTOS**                                                                      |
 |   PGAMA1    | Amarillo de plomo                                                                             |
 |   PGAMA2    | Jarosita                                                                                      |
@@ -192,18 +204,6 @@ Aquí tienen desglosadas y actualizadas todas las agrupaciones posibles.
 |    PI03     | Pintor de Brooklyn                                                                            |
 |    PI04     | Maestro de Isidora                                                                            |
 |    PI05     | Pintor de San Luis                                                                            |
-|             |                                                                                               |
-| **17-AGPN** | **AGRUPACIÓN PENDIENTES**                                                                     |
-|    PN01     | Pendientes tipo globular                                                                      |
-|    PN01a    | Pendientes tipo perla                                                                         |
-|    PN02     | Pendientes tipo _crotalia_                                                                    |
-|    PN03     | Pendientes tipo estribo                                                                       |
-|    PN04     | Pendientes tipo patrón S                                                                      |
-|    PN05     | Pendientes tipo sanguijuela                                                                   |
-|    PN06     | Pendientes tipo alambre y colgante                                                            |
-|    PN07     | Pendientes tipo _a grappolo_                                                                   |
-|    PN09     | Pendientes tipo discoidal                                                                     |
-|    PN100    | Pendientes dudosos o irreconocibles                                                           |
 |             |                                                                                               |
 | **18-AGPR** | **AGRUPACIÓN PROCEDENCIA**                                                                    |
 |    PR01     | Procede de excavación arqueológica                                                            |
