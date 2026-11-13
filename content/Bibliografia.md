@@ -71,6 +71,8 @@ Berger, E. (1904). *Die Maltechnik des Altertums*. Georg D.W. Callwey. ^597732
 
 Berger, J.-É. (1999). Los retratos de El Fayum. En K. Parlasca, J.-É. Berger, & R. Pintaudi (Eds.), *El Fayum* (pp. 21-60). Franco Maria Ricci.
 
+Bernand, É. (1975). *Recueil des inscriptions grecques du Fayoum* (Vol. 1). Brill. ^32f8ca
+
 Bezur, A., Lee, L., Loubser, M., & Trentelman, K. (2020). *Handheld XRF In Cultural Heritage: A Practical Workbook for Conservators*. J. Paul Getty Trust. ^6a1077
 
 Bianchi, R. S. (2016). A Faiyum Portrait. En *Fondation Gandur Pour L’Art. Rapport Annuel 2016* (pp. 19-20). ^4eb53d
@@ -143,7 +145,11 @@ Davy, H. (1815). Some experiments and observations on the colours used in painti
 
 Del Barrio Sanz, E., García Arribas, I., Moure Casas, A. M., Hernández Miguel, A., & Arribas Hernández, M. L. (2003). Traducción y notas. En *Historia Natural: Libros VII-XI*. Gredos.
 
+Donner von Richter, O. (1893). Bemerkungen. *Antiker Denkmäler*, -2*(2), 2-3. ^7db1c2
+
 Dorotheum GmbH & Co KG. (2026). *Dorotheum—Since 1707* [Web corporativa]. Dorotheum. 
+
+Doxiadis, E. (2000). *The Mysterious Fayum Portraits: Faces from Ancient Egypt*. Thames & Hudson. (Obra original publicada en 1995) ^83dc98
 
 Dressman, F. (2025). *Alice Nelson Pratt Brown: Philanthropist and Patron of the Arts*. Texas State Historical Association.  ^aa7412
 
@@ -168,6 +174,8 @@ Einstein, L. D. (1968). *A Diplomat Looks Back*. Yale University Press.
 Eladany, A. H. (2011). *A study of a selected group of third intermediate period mummies in the British Museum* [Tesis doctoral, University of Manchester]. The University of Manchester Research Explorer. ^de66e6
 
 <span id="guimet2026"></span>*Émile Guimet*. (2026, septiembre 13). Wikipedia. [https://fr.wikipedia.org/wiki/%C3%89mile_Guimet](https://fr.wikipedia.org/wiki/%C3%89mile_Guimet) ^5217fd
+
+Erman, A. (1893). Porträt von einer Mumie aus Hawara in den Königlichen Museen zu Berlin. *Antiker Denkmäler*, *2*(2), 1-3 y lám. 13. ^14294e
 
 *Etim.* = San Isidoro de Sevilla. (2004). _Etimologías_. Biblioteca de Autores Cristianos. (Obra original publicada en ca. 630)
 
@@ -410,6 +418,8 @@ The J. Paul Getty Museum. (2002). *Handbook of the Antiquities Collection*. J. P
 The National Gallery. (s. f.). *Search the Archive Catalogue*. The National Gallery Library and Archive. Recuperado 2 de noviembre de 2026, de [e/e](https://www.nationalgallery.org.uk/research/research-centre/archive/search) ^c6b2cd
 
 The New York Historical. (2011, septiembre 19). Egypt on Broadway. *From the Stacks*. ^8950d6
+
+The Packard Humanities Institute. (2023). *Fayoum 1:59*. Searchable Greek Inscriptions. [https://inscriptions.packhum.org/text/215900?&bookid=357&location=1882](https://inscriptions.packhum.org/text/215900?&bookid=357&location=1882) ^b7a83c
 
 Thphr. *Lap.* = Teofrasto. (1956). *Theophrastus. On Stones* (E. R. Caley & J. F. C. Richards, Eds.). The Ohio State University. (Obra original publicada en siglo IV aC)
 
