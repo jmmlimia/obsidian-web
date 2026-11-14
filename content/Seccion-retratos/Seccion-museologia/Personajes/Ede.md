@@ -19,6 +19,6 @@ Puede visitarse su página web: www.charlesede.com.
 
 **Bibliografía**
 
-[[Bibliografia#^423b5f|Barr, *et al.*, 2026]] 
+[[Bibliografia#^689b7e|Budrovich, 2026]] 
 
 [[Bibliografia#^324f95|Wolfson, 2002]]

@@ -24,6 +24,6 @@ En 2023 se ha publicado un libro sobre estas galerías: Biro, Y., Brennan, C. E.
 
 [[Bibliografia#^ad60d3|Biro, 2015]]
 
-[[Bibliografia#^423b5f|Barr, *et al.*, 2026]]
+[[Bibliografia#^689b7e|Budrovich, 2026]]
 
 [[Bibliografia#^812ebb|Hollevoet-Force, 2018]]

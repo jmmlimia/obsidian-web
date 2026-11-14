@@ -83,6 +83,8 @@ Bierbrier, M. L., Cartwright, C. R., Filer, J., Humphrey, S., Middleton, A., & W
 
 Bonnassie, P. (1983). _Vocabulario básico de la historia medieval_. Crítica. ^596238
 
+Borg, B. E. (1998). *«Der zierlichste Anblick der Welt»: Agyptische Porträtmumien*. Philipp von Zabern.  ^4bead9
+
 Bourriau, J. (1991). Museum Acquisitions, 1989: Egyptian Antiquities Acquired in 1989 by Museums in the United Kingdom. *The Journal of Egyptian Archaeology*, *77*, 157-164 y láms. XV-XVI. ^650ca5
 
 Bowdoin College Museum of Art. (2016, enero 26). New Acquisitions at Bowdoin College Museum of Art: Egyptian Portraits. *e-bulletin newsletter*. ^60c173
@@ -240,6 +242,8 @@ Hjalgrim, H., Lynnerup, N., Liversage, M., & Rosenklint, A. (1995). Stereolithog
 Jørgensen, M. (2001). *Catalogue Egypt III*. Ny Carlsberg Glyptotek.
 
 Kirby, D. P., Svoboda, M., Mazurek, J., Spaabæk, L. R., & Southon, J. (2023). Characterization of an unusual coating on funerary portraits from Roman Egypt circa 100-300AD. *Heritage Science*, *11*(1).
+
+Königliche Museen zu Berlin. (1899). *Ausführliches Verzeichnis de ägyptischen Altertümer und Gipsabgüsse* (2a ed. rev.). W. Spemann. ^e92581
 
 Kroustallis, S. K. (2008). *Diccionario de Materias y Técnicas (I. Materias)*. Ministerio de Cultura. ^e92539
 

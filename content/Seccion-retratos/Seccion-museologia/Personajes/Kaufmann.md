@@ -11,9 +11,9 @@ Comenzó a coleccionar arte desde 1879 y, en su calidad de coleccionista reconoc
 
 En 1892 realizó él mismo unas excavaciones en Hawara y tuvo la enorme fortuna de localizar una magnífica tumba con ocho momias, entre ellas la que hoy conocemos como Aline y su familia. Tres de los ocho cuerpos tenían retratos.
 
-**Relacionado con el (1) retrato:**
+**Relacionado con los (3) retratos:**
 
-[[PI0001]]
+[[PI0001]] | [[PI0005]] | [[PI0006]] 
 
 **Bibliografía**
 
