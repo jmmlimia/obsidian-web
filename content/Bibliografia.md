@@ -145,7 +145,7 @@ Davy, H. (1815). Some experiments and observations on the colours used in painti
 
 Del Barrio Sanz, E., García Arribas, I., Moure Casas, A. M., Hernández Miguel, A., & Arribas Hernández, M. L. (2003). Traducción y notas. En *Historia Natural: Libros VII-XI*. Gredos.
 
-Donner von Richter, O. (1893). Bemerkungen. *Antiker Denkmäler*, -2*(2), 2-3. ^7db1c2
+Donner von Richter, O. (1893). Bemerkungen. *Antiker Denkmäler*, *2*(2), 2-3. ^7db1c2
 
 Dorotheum GmbH & Co KG. (2026). *Dorotheum—Since 1707* [Web corporativa]. Dorotheum. 
 
@@ -419,7 +419,7 @@ The National Gallery. (s. f.). *Search the Archive Catalogue*. The National Gal
 
 The New York Historical. (2011, septiembre 19). Egypt on Broadway. *From the Stacks*. ^8950d6
 
-The Packard Humanities Institute. (2023). *Fayoum 1:59*. Searchable Greek Inscriptions. [https://inscriptions.packhum.org/text/215900?&bookid=357&location=1882](https://inscriptions.packhum.org/text/215900?&bookid=357&location=1882) ^b7a83c
+The Packard Humanities Institute. (2023). *Fayoum 1:59*. Searchable Greek Inscriptions. ^b7a83c
 
 Thphr. *Lap.* = Teofrasto. (1956). *Theophrastus. On Stones* (E. R. Caley & J. F. C. Richards, Eds.). The Ohio State University. (Obra original publicada en siglo IV aC)
 
@@ -428,6 +428,8 @@ Trope, B. T. (with Quirke, S., & Lacovara, P.). (2005). *Excavating Egypt: Great
 Tuffreau-Libre, M. (1999). Les pots à couleur de Pompéi: Premiers résultats. *Rivista di Studi Pompeiani*, *10*, 63-70. ^eb8497
 
 Varone, A., & Béarat, H. (1997). Pittori Romani al lavoro. Materiali, strumenti, techniche: Evidenze archeologiche e dati analitici di un recente scavo pompeiano lungo via dell’Abbondanza (Reg. IX. Ins. 12). En H. Béarat, M. E. Fuchs, M. Maggetti, & D. Paunier (Eds.), *Roman Wall Painting: Materials, Techniques, Analysis and Conservation* (pp. 199-214). University of Fribourg. ^b572f9
+
+Vaughan, S., Sauer, Jul., Troll, Virchow, R., Orsi, P., Gross, V., Becker, Tischler, O., Schumann, Götze, A., Treichel, A., Bartels, Glogner, Boas, F., Feyerabend, Ohnefalsch-Richter, Brugsch, H., Kaufmann, V., & Lehmann, C. F. (1892). Ausserordentliche Sitzung vom 9. Juli 1892 im Hörsaale des Kunstgewerbe-Museum. *Zeitschrift Für Ethnologie*, *24*, 345-424. ^79791d
 
 Veiga, P. (2012). Studying Mummies and Human Remains: Some Current Developments and Issues. *Journal of the Washington Academy of Sciences*, *98*(2), 1-21. ^c9b300
 
