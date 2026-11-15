@@ -8,10 +8,8 @@ title: PI0005 — Sociología
 Según P 1913: 4, año/entre los años X y Z, final de la dinastía TAL y principios de la dinastía CUAL.
 ver reinados
 
-(4.2) PROCEDENCIA 
-Desconocida, sin datos al respecto.
-Dudosa/Desconocida, aunque X lo se supone que de / Se dice de er-Rubayat (en realidad el cementerio de Filadelfia) por haber pertenecido a las clc. Graf, pero no hay ninguna certeza, en absoluto, de que todos los retratos comprados por el comerciante vienés fueran de ese yacimiento (vid. “er-Rubayat”).
-Hawara, excavado en (el 23 de marzo de) 1888 por W. M. F. Petrie, junto con.
+### Procedencia
+Hawara, excavado (a finales de marzo de 1892) por Richard von Kaufmann.
 
 (4.3) PERSONAJE
 Hombre Mujer Niño Niña de aspecto (muy) (des)cuidado.
@@ -25,18 +23,7 @@ Reconstrucción facial
 Se ha señalado como autor al denominado "pintor de Brooklyn" (G 2022: 258).
 Atribuido al “maestro
 
-(4.5) COMENTARIOS SOCIOLÓGICOS.
-Otras cosas de importancia sociológica (no iconográfica) 
-Relaciones sociológicas 
-El retrato pertenece al grupo de los militares 
-El retrato pertenece al grupo de los bustos desnudos 
-La momia pertenece al grupo de los sudarios rojos
-La momia pertenece al grupo de los enfardados “rojo procesal”
-La momia pertenece al grupo de los sudarios rojo con minio de Riotinto
-La momia pertenece al grupo de las envolturas romboidales o de panal
-El retrato pertenece al grupo Soternalia 
-En el sudario, la cabeza del finado está recortada 
-Relaciones arqueológicas: encontrado junto con 
-Tipo de enterramiento 
-En el reverso del retrato hay … 
-Inscripciones 
+### Comentarios sociológicos
+La momia pertenece al grupo de las envolturas romboidales o de panal.
+
+Aunque no hay manera de comprobarlo, es común la idea de que forma parte de la familia de Aline (PI0001),como su hija mayor, hermana de PI0006. Las tres, junto con el padre de familia (ÄM ) otra hija con máscara dorada, por tanto, imposible de clasificar, y otras tres momias sin decoración de las que nada más se sabe, fueron encontradas en una tumba subterránea sin superestructura, tabicada con adobe, de unos x m

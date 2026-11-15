@@ -10,4 +10,5 @@ Datado en el 1º tercio del siglo II, 100-130, entre los emperadores [[Dinastias
 ### Procedencia 
 ([[Sobre-procedencias|Sobre procedencias]])
 
-Hawara, excavado en 1888 por W.M.F. Petrie.
+Hawara <a href="https://archmap.cultnat.org/Map.aspx" target="_blank" rel="noopener noreferrer">Ver en mapa</a>, excavado en 1888 por W.M.F. Petrie.
+

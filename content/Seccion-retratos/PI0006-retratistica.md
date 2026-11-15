@@ -25,5 +25,5 @@ IX) Desplazamiento.
 
 X) Fondo. (ha sido dorado en el momento del entierro, lo que nos impide, en caso de haber existido, una lectura correcta del mensaje inicial) es de un uniforme-homogéneo tono X sin (en el que no advertimos) acentos temporales-ninguna característica destacable) acentúa el desplazamiento del busto pasado-oscuro a futuro-claro, con una nítida diferencia tonal en cada lado del personaje. Este proceso con pan de oro muestra, no obstante, con claridad la línea donde se detuvo el envoltorio de lino.
 
-###Técnica, materiales y procedimientos
-
+### Técnica, materiales y procedimientos
+I) Técnica. Témpera sobre lino de 29 x 34 cm (Parlasca, 1969, p. 27), en una momia de 75 cm.

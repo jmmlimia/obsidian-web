@@ -25,18 +25,18 @@ Reconstrucción facial
 Se ha señalado como autor al denominado "pintor de Brooklyn" (G 2022: 258).
 Atribuido al “maestro
 
-(4.5) COMENTARIOS SOCIOLÓGICOS.
-Otras cosas de importancia sociológica (no iconográfica) 
-Relaciones sociológicas 
-El retrato pertenece al grupo de los militares 
-El retrato pertenece al grupo de los bustos desnudos 
-La momia pertenece al grupo de los sudarios rojos
-La momia pertenece al grupo de los enfardados “rojo procesal”
-La momia pertenece al grupo de los sudarios rojo con minio de Riotinto
-La momia pertenece al grupo de las envolturas romboidales o de panal
-El retrato pertenece al grupo Soternalia 
-En el sudario, la cabeza del finado está recortada 
-Relaciones arqueológicas: encontrado junto con 
-Tipo de enterramiento 
-En el reverso del retrato hay … 
-Inscripciones 
+### Comentarios sociológicos
+Pertenece al grupo de momias con enfardado romboidal, de diamante o de panal, aunque dicho enfardado no se ha conservado (Corcoran, 1995, p. 9, tabla 2).
+
+Una de las cosas más curiosas de este descubrimiento es que a pesar de la riqueza decorativa de las momias, de que todas, según Kaufmann, formaban una unidad familiar y de que, por lo tanto, se les suponga pertenecientes a un nivel social elevado, la tumba era de una pobreza supina: «Las 8 momias yacían, como ya se ha dicho, en una cámara funeraria de 3.5 m de largo y 2.8 m de ancho hecha de ladrillos de arcilla. Los ladrillos de arcilla no se correspondían con los mucho más grandes de la pirámide, sino que estaban hechos especialmente para la cámara funeraria, que, aparte de las momias y las habituales coronas y otras flores, sólo contenía una vasija de arcilla más bien cruda» (palabras de von Kaufmann, en Vaughan, *et al.*, 1892, pp. 416-417). De hecho, en el mismo escrito se muestra contrario a la conocida opinión de Petrie sobre el maltrato a las momias en los períodos que permanecían en casa antes de ser enterradas. Kaufmann piensa que allí donde encontró a la familia de Aline fue su enterramiento inmediato después del sepelio, de otra forma, dice, nunca se hubieran mantenido los sellos de cera sostenidos por finos hilos que aseguraban el enfardado. No sabemos qué sucedió en este caso concreto, y siempre son posibles las excepciones, pero creemos que Petrie se equivocaba al sostener que las momias se mantenían en los domicilios y Kaufmann confunde una deposición primaria con el entierro definitivo. A la luz de nuestros conocimientos y valoraciones actuales, es casi seguro que las momias que recibían este tipo de tratamientos quedaban expuestas para las visitas más o menos regulares (esta sería una deposición primaria) de sus parientes o allegados; pasado el tiempo, serían enterradas de manera definitiva. Nada impide que ese traslado final se hiciese con todas las precauciones o, incluso, que los sellos fuesen por encima de cualquier otra cosa una especie de marca publicitaria del taller que los remozó para tal ceremonia. Y esto sería lo que encontró Kaufmann. 
+
+Otro detalle interesantísimo es la lápida que se encontró en la tumba (Erman, 1893, p. 1, fig. 4; Bernand, 1975, p. 113). Contiene una información que podría resultar importante y es poco mencionada o, en algún caso, olvidada. Dice: 
+
+ΑΛΙΝΗΙ /  Η ΚΑΙ ΤΕΝΩC / ΗΡΩΔΟΥ ΧΡΗC / ΤΗ ΧΑΙΡΕ ΠΟΛΛΑ / ΕΤΟΥC Ι ΛΕ Λ / ΜΕΣΟΡΗ Ζ
+ALINEI / E KAI TENOS / ERODOI CHRES / TE CHAIRE POLLA / ETOIS I LE L / MESORE E
+
+que Barbara Borg (1998, p. 20) traduce por: «Aline, también llamada Tenos, hija de Herodes, falleció el año 10, a los 35 años, el 7 de Mesore», y se come una palabra esencial casi en el centro del texto. «Aline, también llamada Tenos, hija de Herodes, bondadosa, adiós, (fallecida) el año 10 (de un emperador), 35 años (de edad), (fallecida) el 7 de mesore (Königliche,  1899, p. 351). En la cuarta fila aparece «χαῖρε», de similar significado pero diferente al «eypsychi» que, por ejemplo, lleva el Artemidoros del British Museum: [[PI0164]].  Esta fórmula, nos dice Ebers (1888, p. 8), era usada por los griegos en Egipto, aquella por los demás helenos. Aquí tenemos el ejemplar [[Rad001]], originario de Beocia en la península griega, casi contemporáneo.
+
+El término griego *chaire* (χαῖρε), modo imperativo del verbo *chairo* (χαίρω), que significa "alegrarse", era utilizado de forma habitual como un saludo o una despedida. Señala, pues, tanto un encuentro como una partida, separación y reencuentro, jugando con las nociones de "presencia en la ausencia" y "ausencia en la presencia". «En griego antiguo, *chaire* cumplía también la función específica de último saludo a los recién fallecidos, especialmente en contextos solemnes: aparece, por ejemplo, en la *Alcestis* de Eurípides, donde Feres —padre de Admeto— se dirige con este término al cadáver de la heroína, reconociéndola como alguien digno de honor (626); asimismo, en la *Ilíada*, Aquiles emplea el mismo saludo ante el cuerpo sin vida de Patroclo sobre la pira funeraria (23:179)». La derivación etimológica del verbo "alegrarse" implica al tiempo la última despedida, y el deseo de un nuevo reencuentro futuro entre difunto y supervivientes en el inframundo. Y así se interpreta en una fuente visual empleada con frecuencia en las estelas del arte funerario griego, muchas de ellas a partir de mediados del siglo V aC, que representaban al difunto estrechando la mano de algún pariente o amigo cercano (Evangelista, 2013, parág. 24-25).
+
+Así pues, esa fórmula de despedida podría estar apuntado a una dama más helenizada de lo quepodía ser habitual en Egipto.
