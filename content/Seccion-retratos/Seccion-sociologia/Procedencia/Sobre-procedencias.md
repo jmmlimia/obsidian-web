@@ -14,26 +14,4 @@ Independientemente de que en los textos se aluda a lugares más amplios, no nos 
 
 Un asunto especial es el de los retratos de las colecciones Graf, cuyas piezas están todas localizadas en [[er-Rubayat]]. Para la ficha, consideraremos "dudoso" su lugar de procedencia, ya que esa denominación funcionó en los años finales de la década de 1880 como asignación genérica que facilitaba el conocimiento y la venta de los retratos. No cabe duda de que algunas de las obras que se identifican como de *er-Rubayat* pertenecen al cementerio de Filadelfia (carecería de toda lógica suponer siquiera lo contrario), pero, lamentablemente, no podemos saber cuáles, y esto envenena la colección completa. Además, ninguna de ellas proviene, que sepamos, de una excavación documentada. Ante esta situación, tomamos la opción más cautelosa posible.
 
-Hasta el momento se cuenta con las siguientes procedencias seguras:
-
-Abusir el-Meleq
-
-Akmim
-
-Antinoópolis
-
-el-Hibeh
-
-er-Rubayat
-
-Filadelfia
-
-Hawara
-
-Tebas
-
-Tebtunis
-
-**Bibliografía** 
-
-[[Bibliografia#^51db9e|Dunand 1979]]
+[[yacimiento-retrato.md|En este enlace]] puede seguir la evolución de los retratos que se han documentado arqueológicamente en cada yacimiento, dividido por los años de su hallazgo.

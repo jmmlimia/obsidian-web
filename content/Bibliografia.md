@@ -171,6 +171,8 @@ Dunham, D. (1958). *The Egyptian Department and its Excavations*. Museum of Fine
 
 Eastaugh, N., Walsh, V., Champlin, T., & Siddall, R. (2004). *Pigment Compendium: A Dictionary and Optical Microscopy of Historical Pigments*. Elsevier.
 
+Ebers, G. (1888). *Eine Gallerie antiker Portraits: Erster Bericht über eine jüngst entdeckte Denkmäler-Gruppe*. Cotta. ^75d1ce
+
 Einstein, L. D. (1968). *A Diplomat Looks Back*. Yale University Press.
 
 Eladany, A. H. (2011). *A study of a selected group of third intermediate period mummies in the British Museum* [Tesis doctoral, University of Manchester]. The University of Manchester Research Explorer. ^de66e6
@@ -309,7 +311,7 @@ Parlasca, K. (1977). *Repertorio d’Arte dell’Egitto Greco-Romano. Serie B: I
 
 Parlasca, K. (1980). *Repertorio d’Arte dell’Egitto Greco-Romano. Serie B: III* (IV). L’Erma di Bretschneider. ^660dc0
 
-Parlasca, K. (1999). Introducción y otas. En K. Parlasca, J.-É. Berger, & R. Pintaudi (Eds.), *El Fayum*. Franco Maria Ricci. ^5bb448
+Parlasca, K. (1999). Introducción y notas. En K. Parlasca, J.-É. Berger, & R. Pintaudi (Eds.), *El Fayum*. Franco Maria Ricci. ^5bb448
 
 Parlasca, K., & Frenz, H. G. (2003). *Repertorio d’Arte dell’Egitto Greco-Romano. Serie B: IV* (IV). L’Erma di Bretschneider. ^caca01
 
@@ -324,6 +326,8 @@ Picton, J., Quirke, S., & Roberts, P. C. (Eds.). (2007). *Living Images: Egyptia
 Pierre Bergé & associés. (2009). *Archéologie: Fayez Barakat, lundi 14 décembre 2009*. Pierre Bergé & associés. ^595f8a
 
 Pierre Bergé & associés. (2013). *Vente aux enchéres: Archéologie, mardi 26 novembre 2013*. Pierre Bergé & associés. ^f8a5d5
+
+Pijoán Soteras, J. (1965). *El arte romano* (Vol. 5). Espasa-Calpe. (Obra original publicada en 1934) ^5d909c
 
 Plaza Escudero, L. de la (Ed.). (2012). *Diccionario visual de términos arquitectónicos* (2a ed., amp.). Cátedra. ^0ff5d8
 
