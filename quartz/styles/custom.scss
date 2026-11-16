@@ -273,3 +273,8 @@ header {
 body[data-basepath="/obsidian-web"] .page-title a {
   background-image: url("/obsidian-web/static/logo-rdelf.png");
 }
+
+/* Etiqueta de última actualización */
+.content-meta time::before {
+  content: "Última actualización: ";
+}
