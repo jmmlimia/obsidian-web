@@ -10,7 +10,7 @@ Tanto Parlasca (1977, p. 73) como Aubert (2008, p. 201) lo consideran del 2º cu
 ### Procedencia 
 ([[Sobre-procedencias|Sobre procedencias]])
 
-Antinoópolis, excavado por Albert Gayet.
+Antinoópolis <a href="https://archmap.cultnat.org/Map.aspx" target="_blank" rel="noopener noreferrer">Ver en mapa</a>, excavado por Albert Gayet.
 
 ### Personaje
 Crispina (Krispina). Nombre propio escrito sobre el bajo vientre en una *tabula ansata*, junto a una breve inscripción: Ευψυχι Κρισπινα / (ετων) με = Eypsychi Krispina / (eton) me = Adiós Crispina / 45 años (Nachtergael, 2008, p. 64).

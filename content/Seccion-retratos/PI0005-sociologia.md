@@ -9,7 +9,7 @@ Según P 1913: 4, año/entre los años X y Z, final de la dinastía TAL y princi
 ver reinados
 
 ### Procedencia
-Hawara, excavado (a finales de marzo de 1892) por Richard von Kaufmann.
+Hawara <a href="https://archmap.cultnat.org/Map.aspx" target="_blank" rel="noopener noreferrer">Ver en mapa</a>, excavado por Richard von Kaufmann a finales de marzo de 1892.
 
 (4.3) PERSONAJE
 Hombre Mujer Niño Niña de aspecto (muy) (des)cuidado.

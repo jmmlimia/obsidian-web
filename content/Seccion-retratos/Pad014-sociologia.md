@@ -10,4 +10,4 @@ Para Adams & Walker (2007, p. 226) desde los años 110 al 140, que coinciden cas
 ### Procedencia 
 ([[Sobre-procedencias|Sobre procedencias]])
 
-Hawara, excavado en 1911 por W.  M.  F. Petrie.
+Hawara <a href="https://archmap.cultnat.org/Map.aspx" target="_blank" rel="noopener noreferrer">Ver en mapa</a>, excavado por W.  M.  F. Petrie en 1911.

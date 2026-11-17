@@ -12,4 +12,4 @@ La Barakat Gallery (2026) duda entre los siglos III y IV, sin más explicaciones
 ### Procedencia 
 ([[Sobre-procedencias|Sobre procedencias]])
 
-Desconocida, sin datos al respecto. Por el enorme parecido físico co ejemplos similares, se sospecha que su procedencia será Antinoópolis.
+Desconocida, sin datos al respecto. Por el enorme parecido físico con ejemplos similares, se sospecha que su procedencia será Antinoópolis.

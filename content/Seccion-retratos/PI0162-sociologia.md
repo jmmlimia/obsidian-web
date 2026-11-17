@@ -14,7 +14,7 @@ Parlasca ofrece dos dataciones separadas casi por ese siglo: de los primeros añ
 ### Procedencia 
 ([[Sobre-procedencias|Sobre procedencias]])
 
-Hawara, excavado en 1888 por W.M.F. Petrie, junto con PII0260 y PIV0982.
+Hawara <a href="https://archmap.cultnat.org/Map.aspx" target="_blank" rel="noopener noreferrer">Ver en mapa</a>, por W.M.F. Petrie excavado en 1888, junto con PII0260 y PIV0982.
 
 ### Personaje 
 Artemidoros (Artemidore). Nombre propio escrito sobre el pecho del enfardado en una breve inscripción: ΑΡΤΕΜΙΔWΡΕ ΕΥΨΥΧΙ = Artemidore eypsychi = Adiós Artemidoro.

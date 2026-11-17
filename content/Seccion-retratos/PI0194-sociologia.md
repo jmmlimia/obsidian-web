@@ -18,7 +18,7 @@ El estilo de la barba puede ser un signo de fecha temprana, quizás Flavio o de 
 ### Procedencia 
 ([[Sobre-procedencias|Sobre procedencias]])
 
-Hawara, excavado en 1888 por W.M.F. Petrie.
+Hawara <a href="https://archmap.cultnat.org/Map.aspx" target="_blank" rel="noopener noreferrer">Ver en mapa</a>, por W.M.F. Petrie excavado en 1888.
 
 ### Personaje 
 Cecil Smith (1889, p.46) dudaba de adscribirlo a una nacionalidad romana o egipcia; hoy sabemos que estas consideraciones carecen, en su mayor parte, de sentido. 

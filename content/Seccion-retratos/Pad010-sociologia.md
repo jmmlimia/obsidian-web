@@ -10,7 +10,7 @@ Para Adams & Walker (2007, p. 256) y Trope (2005, p. 101) de inicios del siglo I
 ### Procedencia 
 ([[Sobre-procedencias|Sobre procedencias]])
 
-Hawara, excavado el 23 de marzo de 1888 por W.  M.  F. Petrie.
+Hawara <a href="https://archmap.cultnat.org/Map.aspx" target="_blank" rel="noopener noreferrer">Ver en mapa</a>, excavado por W.  M.  F. Petrie el 23 de marzo de 1888.
 
 ### Comentarios sociológicos
 El retrato pertenece al grupo de los bustos desnudos. 

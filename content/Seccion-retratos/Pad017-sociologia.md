@@ -10,4 +10,4 @@ Para Adams & Walker (2007, p. 220) en la 2º mitad del siglo I, entre los años 
 ### Procedencia 
 ([[Sobre-procedencias|Sobre procedencias]])
 
-Hawara, excavado por W.  M.  F. Petrie.
+Hawara <a href="https://archmap.cultnat.org/Map.aspx" target="_blank" rel="noopener noreferrer">Ver en mapa</a>, excavado por W.  M.  F. Petrie.

@@ -10,4 +10,4 @@ Para Adams & Walker (2007, p. 198) entre los años 180 al 200, [[Dinastias-roman
 ### Procedencia 
 ([[Sobre-procedencias|Sobre procedencias]])
 
-Hawara, excavado en 1888 por W.  M.  F. Petrie.
+Hawara <a href="https://archmap.cultnat.org/Map.aspx" target="_blank" rel="noopener noreferrer">Ver en mapa</a>, excavado por W.  M.  F. Petrie en 1888.

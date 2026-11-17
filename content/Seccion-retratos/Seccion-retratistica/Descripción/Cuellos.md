@@ -9,7 +9,7 @@ Aunque existan ejemplos verdaderamente buenos de las definiciones, habrá que to
 
 1. Cuello tipo ánfora = Será curioso para el que no lo conozca, pero la descripción de estas piezas cerámicas se hace atendiendo a rasgos humanos y, así, se habla de panza, hombros, cuello, labio, etc. Aludimos con esta denominación a un tipo de cuello retratístico en el que de los hombros al cuello se forma una línea curva y cóncava perfectamente marcada. V. ejemplo [[PIV0690]].
 
-2. Cuello tipo de cisne = 
+2. Cuello tipo cisne = 
 
 3. Cuello tipo toro = Se quiere destacar aquí, como su propio nombre indica, un cuello corto y ancho que da sensación de potencia, algunas veces en contraste con otros rasgos del efigiado. V. ejemplo [[PIV0721]].
 
