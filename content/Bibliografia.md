@@ -187,6 +187,8 @@ Eudel, P. (1882). *L'Hotel Drouot et la curiosité en 1881*. G.Charpentier. ^fab
 
 <span id="evangelista2013"></span>Evangelista, S. (2013). Greek Textual Archaeology and Erotic Epigraphy in Simeon Solomon and Michael Field. *Cahiers victoriens et édouardiens*, *78*.
 
+Filer, J. M. (1998). Revealing the face of Artemidorus. *Minerva*, *9*(4), 21-24. ^f993f3
+
 Filer, J. (2012). Artemidorus: An ancient murder mystery? *Joyce Filler Egiptologist*. ^26d311
 
 Fiorelli, G. (1873). *Gli scavi di Pompei dal 1861 al 1872*. Tipografia Italiana nel liceo V. Emanuele. ^cbb682

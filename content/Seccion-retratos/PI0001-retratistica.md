@@ -26,7 +26,7 @@ title: PI0001 — Retratística
 
 a) Témpera sobre lino de 42 x 33 x 2 cm (MR). Doxiadis (2000, p. 200) y Parlasca (1999, p. 63) dan una altura ligeramente diferente: 42.5 cm.
 
-b) La témpera, o el temple, 
+b) La témpera ([[tempera|v. artículo]]), o el temple, sustantivos que consideraremos sinónimos, es una técnica pictórica que emplea una emulsión de componentes grasos y acuosos, esto es, el pigmento se disuelve en agua y se le añade un aglutinante graso como, por ejemplo, las colas animales, las gomas vegetales o yema de huevo. Las características esenciales que de ella nos interesan pueden resumirse así: se seca demasiado rápido para poder mezclar colores; no puede ser aplicada en capas gruesas, sino, al contrario, debe hacerse en capas finas, semi-opacas o transparentes; rara vez tiene la profundidad de color que puede alcanzar la encáustica; produce un acabado fino y mate; y sus colores no cambian a lo largo del tiempo.
 
 **II) Materiales.**
 
