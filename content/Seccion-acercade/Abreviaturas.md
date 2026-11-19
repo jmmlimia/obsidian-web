@@ -59,6 +59,7 @@ title: Abreviaturas
 | per. | (con) permiso |
 | pl. | plural-es |
 | prop. | propiedad-es |
+| reed. | reedición |
 | reimp. | reimpresión-es |
 | reorg. | reorganizado-s |
 | rep. | reproducido-s |

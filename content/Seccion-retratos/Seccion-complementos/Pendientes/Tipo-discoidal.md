@@ -3,10 +3,6 @@ title: Tipo discoidal
 ---
 
 
-Este grupo recoge los pendientes compuestos por un disco plano, sujetado por un alambre, o de cualquier otra forma, al lóbulo de la oreja. 
+Este grupo recoge los pendientes compuestos por un disco plano, sujetado por un [[alambre]], al lóbulo de la oreja. Hay que tener presente que, en un medio con dos dimensiones como la pintura, diferenciar este tipo del globular resulta complicado en bastantes ocasiones.
 
-Hay que tener presente que, en un medio con dos dimensiones como la pintura, diferenciarlos de los tipos globulares puede ser muy complicado.
-
-**Ejemplos**
- 
-[[Pad001]]. 
+La extensión de su uso puede comprobarse en las agrupaciones de la búsqueda avanzada.

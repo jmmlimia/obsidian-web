@@ -51,27 +51,27 @@
       },
       {
         "codigo": "CO01",
-        "descripcion": "Collar-gargantilla de sarta de cuentas"
+        "descripcion": "Gargantilla de sarta de cuentas"
       },
       {
         "codigo": "CO02",
-        "descripcion": "Collar-gargantilla de eslabones orbiculares"
+        "descripcion": "Gargantilla de eslabones orbiculares"
       },
       {
         "codigo": "CO03",
-        "descripcion": "Torques"
+        "descripcion": "Gargantilla de materia orgánica"
+      },
+      {
+        "codigo": "CO04",
+        "descripcion": "Gargantilla de alambre trenzado"
       },
       {
         "codigo": "CO05",
-        "descripcion": "Collar-gargantilla de materia orgánica"
+        "descripcion": "Gargantilla de \"patrón trigo\""
       },
       {
-        "codigo": "CO06",
-        "descripcion": "Collar-gargantilla de alambre trenzado"
-      },
-      {
-        "codigo": "CO09",
-        "descripcion": "Collar-gargantilla de \"patrón trigo\""
+        "codigo": "CO10",
+        "descripcion": "Torques"
       },
       {
         "codigo": "CO25",

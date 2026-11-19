@@ -4,11 +4,8 @@ title: PI0001 — Complementos
 
 # Complementos
 
-(3.1) VESTIMENTA
-Viste chitón blanco, marcado por toques de color rosáceo (que la pérdida de intensidad ha convertido en un tono), con escote en pico / redondo / tipo barco / cuadrado de color XX. Lo adorna/n un-os clavus clavi negros / rojo oscuro / violetas / púrpuras que bajan desde sus hombros izquierdo / derecho ribeteados en dorado, y un filete del mismo color en el cuello. Un/a pallium (para hombres) palla (para mujeres), también blanco/a, del mismo color pero en un tono más oscuro, cubre sus hombros izquierdo / derecho pasando por detrás del cuello, con un pliegue en su borde / sin pliegues. 
-Sobre su hombro se percibe algún tipo de costura ornamental. 
-Los pliegues de ambas prendas han sido esquemáticamente pintados en rosa (que la pérdida de intensidad ha convertido en un tono) / han sido burdamente dibujados con líneas rectas y formas triangulares. 
-El Los clavus clavi presentan un tratamiento pictórico descuidado. 
+### Vestimenta
+Viste chitón blanco, con escote tipo barco. Lo adorna unos *clavi* de color violeta, muy aclarado el de su hombro derecho (el izquierdo bastante más oscurecido).
 
 (3.2) PEINADO
 Masculino 
@@ -40,38 +37,19 @@ Modelo X
 11) Otros = aci crinalis [agujas, alfileres, horquillas, que se dividen en “cabeza”, “cuello” y “fuste” con su parte proximal y distal, de oro/ metal/marfil clavados oblicua/horizontalmente]
 12) Tratamiento pictórico = poco más que una mancha que parece superpuesta a la cabeza de forma apresurada, sin ninguna delicadeza / tratado con cierta delicadeza pictórica 
 
-(3.3) PENDIENTES
-Tipo globular. 
-Tipo perla. 
-Tipoo crotalia. En este caso del modelo con perla, barra horizontal y colgante triple rematado con perla.
-Tipo espuela, con tres galas: dos perlas exteriores y una cuenta interior. 
-Tipo patrón S. 
-Tipo sanguijuela. 
-Tipo alambre y colgante. Dorado, compuesto por un aro atado al lóbulo de la oreja, del que cuelga un palillo que comienza con un botón dorado y termina con una cuenta blanca, quizás una perla. 
-Tipo a grappolo. 
-9 . Tipo discoidal. 
+«Lo mismo cabe decir del peinado que, al igual que los pendientes, aparece con frecuencia y de manera similar en las pinturas de Herculano y Pompeya» (Donner, 1893, p. 3).
+Cabello negro, corto, suavemente ondulado. Una crencha central divide el pelo en dos aladares que caen peinados hacia las sienes, dejando libres las orejas. La parte frontal se estiliza con una fila de elegantes y sutiles caracoles.
 
-(3.4.) COLLARES
-Alrededor del cuello porta un/dos/tres/cuatro elemento/s de ornato: [que pueden ser]
-De menor a mayor tamaño = gargantilla, collar, cadena pectoral
-1) Collar-Gargantilla (ajustada al cuello) de sarta de cuentas (dispuestas en dobles/triples filas, formas de las cuentas, colores, alternancia) 
-2) Cadena-Gargantilla de eslabones (orbiculares) (con dije o colgante medallón central tipo medusa)
-3) Torques (con dije o colgante medallón central)
-4) Collar-Gargantilla de láminas articuladas
-5) Collar-Gargantilla de materia orgánica (en este caso parece tela cuero, flores), con caja dorada de amuleto suspendida del centro y una cuenta blanca a cada lado del punto de cuelgue. Aunque nada parece escrito, se observa perfectamente un espacio dorado para ello en el centro de la caja.
-6) Collar-Gargantilla de alambre de oro trenzado / Collar largo de cadena  (con dije o colgante medallón central) / Placas o medallones pectorales
-7) Se trata de una gargantilla de alambre de oro trenzado 
-8) gargantilla de "patrón trigo" orientada horizontalmente a la izquierda, de cuyo centro cuelga una pequeña lúnula horizontal inferior. 
+### Pendientes
+[[Tipo-perla|Tipo perla]].
 
-De cuyo centro-este collar cuelga un dije / una serie de elementos-formas / una lúnula horizontal inferior - horizontal superior - vertical derecha - vertical izquierda 
+Pendiente de diseño colgante y disposición vertical, compuesto por tres elementos, de los cuales el central es una gran perla o, al menos, un realce de aspecto nacarado, contorno ovalado o ligeramente piriforme. Dicha gala está engastada en sus polos superior e inferior por dos remates metálicos que han sido levantados con estuco y superpuestos con pan de oro. La pieza superior engarza directamente con el [[alambre]], mientras la inferior cierra el conjunto a modo de remate terminal. A partir de la pintura es imposible verificar el tipo de montaje que mantiene unidos a los tres elementos.
 
-(3,5) CORONA 
-Se le ha añadido una corona dorada con hojas romboidales (en forma de rombos)
-Es quizás la parte más visible y mejor conservada del retrato 
-que parece artificialmente compuesta por dos partes que se encuentran en el centro formando un ángulo.
-Que parece adaptarse (se adapta) al contorno de la cabeza. 
-Luce una corona floral, de pétalos de rosa, alrededor de la cabeza.
-Luce un pasador central, perpendicular a la frente, dorado.
+«La forma de los pendientes corresponde a un estilo muy extendido durante los siglos I y II d. C.» (Donner, 1893, p. 3).
 
-(3.6) COMPLEMENTOS
-Resto del cuerpo: brazaletes, anillos, ropa, … 
+### Collares
+Alrededor del cuello porta un elemento de ornato.
+
+Se trata de una [[gargantilla]] de sarta de cuentas dispuestas en triple fila. 
+
+El magnífico collar consta de tres filas de pendientes de oro esféricos, suspendidas de una cadena también de oro. Está realizado directamente con pan de oro sobre estuco (Vaughan, *et al.*, 1892, p. 417).

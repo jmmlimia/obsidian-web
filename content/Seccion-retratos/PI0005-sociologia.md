@@ -19,9 +19,8 @@ Conocida como
 Retratos de personajes parecidos 
 Reconstrucción facial 
 
-(4.4) AUTOR
-Se ha señalado como autor al denominado "pintor de Brooklyn" (G 2022: 258).
-Atribuido al “maestro
+### Autor
+Sin realizar ninguna asignación concreta, Donner (1893, p. 3) considera que el autor del retrato [[PI0001]] es un gran maestro, pero diferente al que pintó a las dos niñas (este y el [[PI0006]]).
 
 ### Comentarios sociológicos
 La momia pertenece al grupo de las envolturas romboidales o de panal.

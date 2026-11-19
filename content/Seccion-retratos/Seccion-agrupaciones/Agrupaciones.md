@@ -23,12 +23,12 @@ Aquí tienen desglosadas y actualizadas todas las agrupaciones posibles.
 |     COA     | Con un collar                                                                                 |
 |     COB     | Con dos collares                                                                              |
 |     COC     | Con tres o más collares                                                                       |
-|    CO01     | Collar-gargantilla de sarta de cuentas                                                        |
-|    CO02     | Collar-gargantilla de eslabones orbiculares                                                   |
-|    CO03     | Torques                                                                                       |
-|    CO05     | Collar-gargantilla de materia orgánica                                                        |
-|    CO06     | Collar-gargantilla de alambre trenzado                                                        |
-|    CO09     | Collar-gargantilla de "patrón trigo"                                                          |
+|    CO01     | Gargantilla de sarta de cuentas                                                               |
+|    CO02     | Gargantilla de eslabones orbiculares                                                          |
+|    CO03     | Gargantilla de materia orgánica                                                               |
+|    CO04     | Gargantilla de alambre trenzado                                                               |
+|    CO05     | Gargantilla de "patrón trigo"                                                                 |
+|    CO10     | Torques                                                                                       |
 |    CO25     | Dije unido a cuello y cintura                                                                 |
 |    CO50     | Collar recubierto con pan de oro                                                              |
 |             |                                                                                               |

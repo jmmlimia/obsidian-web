@@ -31,7 +31,7 @@ Ni el retrato, ni la momia, llevaban inscripción alguna y, por tanto, no tenemo
 Por cierto, en el momento de su descubrimiento, «la cabeza de Aline con la imagen estaba protegida por un paño» (Königliche, 1899, p. 351).
 
 ### Autor
-Sin realizar ninguna asignación concreta, Donner (1893, p. 3) considera que el autor de este retrato es un gran maestro, diferente al de las niñas, a la altura de los grandes coloristas venecianos.
+Sin realizar ninguna asignación concreta, Donner (1893, p. 3) considera que el autor de este retrato es un gran maestro, diferente al que pintó a las dos niñas ([[PI0005]] y [[PI0006]]), a la altura de los grandes coloristas venecianos.
 
 ### Comentarios sociológicos
 I) Pertenece al grupo de momias con enfardado romboidal, de diamante o de panal, aunque dicho enfardado no se ha conservado (Corcoran, 1995, p. 9, tabla 2).
