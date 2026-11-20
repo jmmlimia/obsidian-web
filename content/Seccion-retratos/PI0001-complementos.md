@@ -15,7 +15,7 @@ Cabello negro, con algunas manchas grises en la zona más iluminada, corto, suav
 Otto von Donner (1893, p. 3) considera que este tipo de arreglo «aparece con frecuencia y de manera similar en las pinturas de Herculano y Pompeya».
 
 ### Pendientes
-[[Tipo-perla|Tipo perla]].
+[[Tipo-perla|Tipo perla]]
 
 Pendiente de diseño colgante y disposición vertical, compuesto por tres elementos, de los cuales el central es una gran perla o, al menos, un realce de aspecto nacarado, contorno ovalado o ligeramente piriforme. Dicha gala está engastada en sus polos superior e inferior por dos remates metálicos que han sido levantados con estuco y superpuestos con pan de oro. La pieza superior engarza directamente con el [[alambre]], mientras la inferior cierra el conjunto a modo de remate terminal. A partir de la pintura es imposible verificar el tipo de montaje que mantiene unidos a los tres elementos.
 
@@ -26,4 +26,4 @@ Alrededor del cuello porta un elemento de ornato.
 
 Se trata de una [[gargantilla]] de sarta de cuentas dispuestas en triple fila. 
 
-El magnífico collar consta de tres filas de pendientes de oro esféricos, suspendidas de una cadena también de oro. Está realizado directamente con pan de oro sobre estuco (Vaughan, *et al.*, 1892, p. 417).
+El magnífico collar consta de tres filas de pendientes de oro esféricos, suspendidas de una cadena también de oro. Está realizado con pan de oro sobre estuco (Vaughan, *et al.*, 1892, p. 417).

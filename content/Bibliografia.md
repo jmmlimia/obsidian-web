@@ -85,6 +85,8 @@ Bonnassie, P. (1983). _Vocabulario básico de la historia medieval_. Crítica. ^
 
 Borg, B. E. (1998). *«Der zierlichste Anblick der Welt»: Agyptische Porträtmumien*. Philipp von Zabern.  ^4bead9
 
+Boschung, D. (1993). Die Bildnistypen der iulisch-claudischen Kaiserfamilie: Ein Kritischer Forschungsbericht. *Journal of Roman Archaeology*, *6*, 39-79. ^331e5e
+
 Bourriau, J. (1991). Museum Acquisitions, 1989: Egyptian Antiquities Acquired in 1989 by Museums in the United Kingdom. *The Journal of Egyptian Archaeology*, *77*, 157-164 y láms. XV-XVI. ^650ca5
 
 Bowdoin College Museum of Art. (2016, enero 26). New Acquisitions at Bowdoin College Museum of Art: Egyptian Portraits. *e-bulletin newsletter*. ^60c173
