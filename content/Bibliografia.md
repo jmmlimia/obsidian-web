@@ -259,6 +259,8 @@ Kroustallis, S. K. (2015). *Diccionario de Materias y Técnicas (II. Técnicas)*
 
 Liddell, H. G., Scott, R., & Jones, H. S. (1940). *A Greek-English Lexicon*. Clarendon Press. ^15ca04
 
+Liv. = Tito Livio. (1993). *Historia De Roma Desde Su Fundación: Libros XXXI-XXXV* (J. A. Villar Vidal, Ed.). Gredos. (Obra original publicada en ca. 15 aC) ^b80834
+
 Livius Drusus. (2016). Restituted Egyptian mummy portraits for sale. *The History Blog*. ^3ee430
 
 Lynnerup, N. (2007). Mummies. *American Journal of Physical Anthropology*, *134*(S45), 162-190. ^7ef89c
@@ -412,6 +414,8 @@ Stevenson, A., & Challis, D. (2015). Introduction: A modest little museum. En A.
 Str. = Estrabón. (1992). _Geografía: Libros III-IV_ (M. J. Meana & F. Piñero, Eds.). Gredos. (Obra original publicada en ca. 23 dC)
 
 Str. = Estrabón. (2015). _Geografía: Libros XV-XVII_ (J. L. García Alonso, M. P. de Hoz García-Bellido, & S. Torallas Tovar, Eds.). Gredos. (Obra original publicada en ca. 23 dC) ^fe4e7b
+
+Straehle, E. (2020). *Memoria, poder y autoridad: La damnatio memoriae en la antigua Roma*. Conversación sobre la Historia. ^ab95f9
 
 Summer, G. (2012). Painting a Reconstruction of the Deir el-Medineh Portrait on a Painted Shroud and Other Soldiers from Roman Egypt. En M.-L. Nosch (Ed.), *Wearing the Cloak: Dressing the Soldier in Roman Times* (pp. 117-127). Oxbow Books.
 

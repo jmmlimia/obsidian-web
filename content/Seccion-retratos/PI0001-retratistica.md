@@ -15,7 +15,7 @@ title: PI0001 — Retratística
 
 <u>V) Nariz y boca</u>. La nariz recta y ancha con las fosas nasales disparejas que, como en el caso del [[PI0034]], llaman la atención de Dioxiadis (2000, p. 64) a quien le recuerda algunos retratos de Francis Bacon; boca algo pequeña, cerrada, con labios separados por una fina línea negra en forma de "badén", de color rosa violeta intenso y un arco de Cupido muy abierto. Ningún rastro de sonrisa.
 
-<u>VI) Cuello</u>. [[Cuellos|Tipo toro]], ancho y corto. Es visible una crecida papada.
+<u>VI) Cuello</u>. [[Cuellos|Tipo toro]], ancho y corto, donde es visible una crecida papada.
 
 <u>VII) Carnación</u>. Dice Doxiadis (2000, p. 200) que es de tonos rojo bronce, con algunas zonas claras. Creo justo destacar los amplios campos de rosa sobre los pómulos.
 
