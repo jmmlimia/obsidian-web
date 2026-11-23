@@ -17,6 +17,4 @@ Desconocida, sin datos al respecto, aunque Christie's (2006) lo supone de Hawara
 Mujer joven de aspecto cuidado. 
 
 ### Comentarios sociológicos 
-Pertenece al Grupo de momias con enfardado romboidal, de diamante o de panal
-
-Christie's 2006 advierte que en la parte inferior derecha se adivina un enfardado con patrón de rombos, visible en la fotografía.
+Pertenece al Grupo de momias con enfardado romboidal, de diamante o de panal ([[Agrupaciones|agrupación MO03]]), como puede apreciarse en la parte inferior derecha de la fotografía, y advierte Christie's 2006.

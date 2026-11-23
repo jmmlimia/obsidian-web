@@ -84,6 +84,48 @@
     ]
   },
   {
+    "id": "AGGE",
+    "nombre": "AGRUPACIÓN COMPOSICIÓN GEOMÉTRICA",
+    "codigos": [
+      {
+        "codigo": "GE01",
+        "descripcion": "Composición geométrica 01"
+      },
+      {
+        "codigo": "GE02",
+        "descripcion": "Composición geométrica 02"
+      },
+      {
+        "codigo": "GE03",
+        "descripcion": "Composición geométrica 03"
+      },
+      {
+        "codigo": "GEA",
+        "descripcion": "Composición geométrica A"
+      },	  
+      {
+        "codigo": "GEB",
+        "descripcion": "Composición geométrica B"
+      },
+      {
+        "codigo": "GEC",
+        "descripcion": "Composición geométrica C"
+      },
+      {
+        "codigo": "GEi",
+        "descripcion": "Composición geométrica i"
+      },
+      {
+        "codigo": "GEii",
+        "descripcion": "Composición geométrica ii"
+      },
+      {
+        "codigo": "GEiii",
+        "descripcion": "Composición geométrica iii"
+      }
+    ]
+  },  
+  {
     "id": "AGCR",
     "nombre": "AGRUPACIÓN CORONAS",
     "codigos": [

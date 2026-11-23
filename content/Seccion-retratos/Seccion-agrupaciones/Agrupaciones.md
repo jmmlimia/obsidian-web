@@ -9,7 +9,7 @@ Aquí tienen desglosadas y actualizadas todas las agrupaciones posibles.
 
 *** 
 
-| **1-AGBU**  | **AGRUPACIÓN BUSTOS**                                                                         |
+| **AGBU**    | **AGRUPACIÓN BUSTOS**                                                                         |
 | :---------: | :-------------------------------------------------------------------------------------------- |
 |    BU01     | Busto desplazado hacia la izquierda desbordando el marco                                      |
 |    BU02     | Busto desplazado hacia la izquierda sin desbordar el marco                                    |
@@ -19,7 +19,7 @@ Aquí tienen desglosadas y actualizadas todas las agrupaciones posibles.
 |    BU10     | Busto vestido                                                                                 |
 |    BU11     | Busto desnudo                                                                                 |
 |             |                                                                                               |
-| **2-AGCO**  | **AGRUPACIÓN COLLARES**                                                                       |
+| **AGCO**    | **AGRUPACIÓN COLLARES**                                                                       |
 |     COA     | Con un collar                                                                                 |
 |     COB     | Con dos collares                                                                              |
 |     COC     | Con tres o más collares                                                                       |
@@ -32,7 +32,18 @@ Aquí tienen desglosadas y actualizadas todas las agrupaciones posibles.
 |    CO25     | Dije unido a cuello y cintura                                                                 |
 |    CO50     | Collar recubierto con pan de oro                                                              |
 |             |                                                                                               |
-| **3-AGCR**  | **AGRUPACIÓN CORONAS**                                                                        |
+| **AGGE**    | **AGRUPACIÓN COMPOSICIÓN GEOMÉTRICA**                                                         |
+|    GE01     | Composición geométrica 01                                                                     |
+|    GE02     | Composición geométrica 02                                                                     |
+|    GE03     | Composición geométrica 03                                                                     |
+|    GEA      | Composición geométrica A                                                                      |
+|    GEB      | Composición geométrica B                                                                      |
+|    GEC      | Composición geométrica C                                                                      |
+|    GEi      | Composición geométrica i                                                                      |
+|    GEii     | Composición geométrica ii                                                                     |
+|    GEiii    | Composición geométrica iii                                                                    |
+|             |                                                                                               |
+| **AGCR**    | **AGRUPACIÓN CORONAS**                                                                        |
 |    CR00     | Corona indeterminada                                                                          |
 |    CR01     | Corona de pan de oro formando rombos y ángulo agudo en el centro                              |
 |    CR02     | Corona de pan de oro formando rombos adaptada al contorno de la cabeza                        |
@@ -40,14 +51,14 @@ Aquí tienen desglosadas y actualizadas todas las agrupaciones posibles.
 |    CR10     | Pasador central, perpendicular a la frente                                                    |
 |    CR20     | Adorno central estrellado                                                                     |
 |             |                                                                                               |
-| **4-AGCU**  | **AGRUPACIÓN CUELLOS**                                                                        |
+| **AGCU**    | **AGRUPACIÓN CUELLOS**                                                                        |
 |    CU01     | Cuello tipo ánfora                                                                            |
 |    CU02     | Cuello tipo de cisne                                                                          |
 |    CU03     | Cuello tipo toro                                                                              |
 |    CU04     | Cuello tipo troncocónico                                                                      |
 |    CU05     | Cuello tipo tubular                                                                           |
 |             |                                                                                               |
-| **5-AGED**  | **AGRUPACIÓN EDADES**                                                                         |
+| **AGED**    | **AGRUPACIÓN EDADES**                                                                         |
 |    ED01     | <3 años, bebé                                                                                 |
 |    ED02     | <3 años, niño pequeño                                                                         |
 |    ED03     | <3 años, niña pequeña                                                                         |
@@ -62,7 +73,7 @@ Aquí tienen desglosadas y actualizadas todas las agrupaciones posibles.
 |    ED12     | >50 años, anciano                                                                             |
 |    ED13     | >50 años, anciana                                                                             |
 |             |                                                                                               |
-| **7-AGES**  | **AGRUPACIÓN ESPECIAL**                                                                       |
+| **AGES**    | **AGRUPACIÓN ESPECIAL**                                                                       |
 |    ES01     | Retrato con inscripción                                                                       |
 |    ES02     | Retrato con nombre propio                                                                     |
 |    ES02a    | Retrato con nombre impropio                                                                   |
@@ -72,7 +83,7 @@ Aquí tienen desglosadas y actualizadas todas las agrupaciones posibles.
 |    ES30     | Retrato recompuesto                                                                           |
 |    ES40     | Panel pintado por ambos lados                                                                 |
 |             |                                                                                               |
-| **6-AGEG**  | **AGRUPACIÓN ESTADO GENERAL DEL RETRATO**                                                     |
+| **AGEG**    | **AGRUPACIÓN ESTADO GENERAL DEL RETRATO**                                                     |
 |    EG01     | Estado pésimo (-3)                                                                            |
 |    EG02     | Estado precario (-2)                                                                          |
 |    EG03     | Estado deficiente (-1)                                                                        |
@@ -82,13 +93,13 @@ Aquí tienen desglosadas y actualizadas todas las agrupaciones posibles.
 |    EG07     | Estado muy bueno (+2)                                                                         |
 |    EG08     | Estado excelente (+3)                                                                         |
 |             |                                                                                               |
-| **8-AGFO**  | **AGRUPACIÓN FONDOS**                                                                         |
+| **AGFO**    | **AGRUPACIÓN FONDOS**                                                                         |
 |    FO01     | Fondo completamente cubierto de dorado                                                        |
 |    FO02     | Fondo de color uniforme                                                                       |
 |    FO03     | Fondo con diferencia tonal: oscuro-pasado / claro-presente                                    |
 |    FO04     | Fondo con diferencia tonal: claro-pasado / oscuro-presente                                    |
 |             |                                                                                               |
-| **10-AGFR** | **AGRUPACIÓN FRENTES**                                                                        |
+| **AGFR**    | **AGRUPACIÓN FRENTES**                                                                        |
 |    FR01     | Frente tipo arco carpanel                                                                     |
 |    FR02     | Frente tipo arco conopial                                                                     |
 |    FR03     | Frente tipo arco deprimido                                                                    |
@@ -101,13 +112,13 @@ Aquí tienen desglosadas y actualizadas todas las agrupaciones posibles.
 |    FR20     | Frente tipo desacorde                                                                         |
 |    FR21     | Frente tipo pechina                                                                           |
 |             |                                                                                               |
-| **9-AGGR**  | **AGRUPACIÓN GRUPOS**                                                                         |
+| **AGGR**    | **AGRUPACIÓN GRUPOS**                                                                         |
 |    GR01     | Grupo de militares                                                                            |
 |    GR02     | Grupo de bustos desnudos                                                                      |
 |    GR03     | Grupo de sacerdotes-tisas                                                                     |
 |    GR04     | Grupo de empresarios                                                                          |
 |             |                                                                                               |
-| **11-AGIC** | **AGRUPACIÓN ICONOGRAFÍA**                                                                    |
+| **AGIC**    | **AGRUPACIÓN ICONOGRAFÍA**                                                                    |
 |    IC01     | Sudario tipo Osiris                                                                           |
 |    IC02     | Sudario tipo psicopompo                                                                       |
 |    IC03     | Enfardado rojo procesal                                                                       |
@@ -120,19 +131,19 @@ Aquí tienen desglosadas y actualizadas todas las agrupaciones posibles.
 |    IC90     | Collar usejet (grupo de símbolos inanimados)                                                  |
 |    IC91     | Gammadion                                                                                     |
 |             |                                                                                               |
-| **12-AGMI** | **AGRUPACIÓN MIRADAS**                                                                        |
+| **AGMI**    | **AGRUPACIÓN MIRADAS**                                                                        |
 |    MI01     | mirada de las 2000 yardas                                                                     |
 |    MI02     | mirada de frente al espectador                                                                |
 |    MI03     | mirada al infinito                                                                            |
 |             |                                                                                               |
-| **13-AGMO** | **AGRUPACIÓN MOMIAS**                                                                         |
+| **AGMO**    | **AGRUPACIÓN MOMIAS**                                                                         |
 |    MO01     | Momia con sudario rojo                                                                        |
 |    MO03     | Momia con enfardado romboidal, de diamante o de panal                                         |
 |    MO04     | Momia con inscripción                                                                         |
 |    MO05     | Momia con nombre propio                                                                       |
 |    MO06     | Momia con decoración estucada                                                                 |
 |             |                                                                                               |
-| **14-AGPE** | **AGRUPACIÓN PEINADOS**                                                                       |
+| **AGPE**    | **AGRUPACIÓN PEINADOS**                                                                       |
 |    PE03     | Peinado de solo rizos sobre la frente                                                         |
 |    PE05     | Peinado corto, liso y hacia la frente con corte recto                                         |
 |    PE06     | Peinado recogido en una trenza delantera paralela y pegada a la frente, alcanzando las sienes |
@@ -153,7 +164,7 @@ Aquí tienen desglosadas y actualizadas todas las agrupaciones posibles.
 |    PEM05    | peinado modelo Serapis                                                                        |
 |    PEM20    | Peinado modelo rizado sin paralelos                                                           |
 |             |                                                                                               |
-| **17-AGPN** | **AGRUPACIÓN PENDIENTES**                                                                     |
+| **AGPN**    | **AGRUPACIÓN PENDIENTES**                                                                     |
 |    PN01     | Pendientes tipo globular                                                                      |
 |    PN01a    | Pendientes tipo perla                                                                         |
 |    PN02     | Pendientes tipo _crotalia_                                                                    |
@@ -165,7 +176,7 @@ Aquí tienen desglosadas y actualizadas todas las agrupaciones posibles.
 |    PN09     | Pendientes tipo discoidal                                                                     |
 |    PN100    | Pendientes dudosos o irreconocibles                                                           |
 |             |                                                                                               |
-| **15-AGPG** | **AGRUPACIÓN PIGMENTOS**                                                                      |
+| **AGPG**    | **AGRUPACIÓN PIGMENTOS**                                                                      |
 |   PGAMA1    | Amarillo de plomo                                                                             |
 |   PGAMA2    | Jarosita                                                                                      |
 |   PGAMA3    | Litargirio                                                                                    |
@@ -198,18 +209,18 @@ Aquí tienen desglosadas y actualizadas todas las agrupaciones posibles.
 |   PGVER3    | Tierra u ocre celadonita                                                                      |
 |   PGVER4    | Tierra u ocre glauconita                                                                      |
 |             |                                                                                               |
-| **16-AGPI** | **AGRUPACIÓN PINTORES**                                                                       |
+| **AGPI**    | **AGRUPACIÓN PINTORES**                                                                       |
 |    PI01     | Pintor de Montreal                                                                            |
 |    PI02     | Pintor de Malibú                                                                              |
 |    PI03     | Pintor de Brooklyn                                                                            |
 |    PI04     | Maestro de Isidora                                                                            |
 |    PI05     | Pintor de San Luis                                                                            |
 |             |                                                                                               |
-| **18-AGPR** | **AGRUPACIÓN PROCEDENCIA**                                                                    |
+| **AGPR**    | **AGRUPACIÓN PROCEDENCIA**                                                                    |
 |    PR01     | Procede de excavación arqueológica                                                            |
 |    PR02     | No procede de excavación arqueológica                                                         |
 |             |                                                                                               |
-| **19-AGRF** | **AGRUPACIÓN RASGOS FACIALES**                                                                |
+| **AGRF**    | **AGRUPACIÓN RASGOS FACIALES**                                                                |
 |    RF01     | Collar de Venus                                                                               |
 |    RF10     | Rostro redondeado                                                                             |
 |    RF11     | Rostro cuadrado                                                                               |
@@ -218,13 +229,13 @@ Aquí tienen desglosadas y actualizadas todas las agrupaciones posibles.
 |    RF14     | Rostro triangular                                                                             |
 |    RF15     | Rostro adiamantado                                                                            |
 |             |                                                                                               |
-| **20-AGRE** | **AGRUPACIÓN REPRESENTACIÓN**                                                                 |
+| **AGRE**    | **AGRUPACIÓN REPRESENTACIÓN**                                                                 |
 |    RE01     | Solo busto                                                                                    |
 |    RE10     | Busto y manos                                                                                 |
 |    RE11     | Busto, manos y pies                                                                           |
 |    RE20     | Busto y pies                                                                                  |
 |             |                                                                                               |
-| **21-AGVE** | **AGRUPACIÓN VESTIMENTA**                                                                     |
+| **AGVE**    | **AGRUPACIÓN VESTIMENTA**                                                                     |
 |    VE01     | Chitón blanco                                                                                 |
 |    VE02     | Chitón púrpura                                                                                |
 |    VE03     | Chitón rojo oscuro                                                                            |
