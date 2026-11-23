@@ -453,6 +453,8 @@ Verde, M., De Bonis, A., Di Benedetto, C., Di Martire, D., Fiore, E., Izzo, F
 
 Verein zur Förderung der Ägyptischen Museums Berlin e.V. (s. f.). *Otto Rubensohn in Ägypten—Vergessene Grabungen: Funde und Archivalien aus den Grabungen der Königlichen Museen zu Berlin (1901-1907/08)*. 
 
+Virchow, R. (Ed.). (1892). Hr. H. Brugsch berichtet über seine neuesten Untersuchungen in Uterägypten und dem Fayum, insbesondere über das Labyrinth, den Möris-See und Porträt-Bilder aus Gräbern. En *Verhandlungen der Berliner Gesellschaft für Anthropologie, Ethnologie und Urgeschichte* (pp. 416-418). Asher. ^e04c3e
+
 Vitr. = Vitruvio. (2001). _Los Diez Libros de Archîtectura de M. Vitruvio Polión_ (Princeps en 1787,  J. Ortiz y Sanz, Ed.). Akal. (Obra original publicada en ca. 15 dC) ^42fb97
 
 Walker, S. E. C. (1997a). Ancient Faces: An exhibition of Mummy Portraiture at the British Museum. *Egyptian Archaeology*, *10*, 19-23.

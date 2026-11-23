@@ -50,6 +50,10 @@
         "descripcion": "Con tres o más collares"
       },
       {
+        "codigo": "CO00",
+        "descripcion": "Gargantillas"
+      },	  
+      {
         "codigo": "CO01",
         "descripcion": "Gargantilla de sarta de cuentas"
       },
@@ -553,8 +557,12 @@
       },
       {
         "codigo": "PEFA01",
-        "descripcion": "Peinado \"a melón\""
+        "descripcion": "Peinado modelo de melón"
       },
+      {
+        "codigo": "PEFA02",
+        "descripcion": "Peinado modelo Livilla"
+      },	  
       {
         "codigo": "PEFA07a",
         "descripcion": "Peinado modelo diosa liso"

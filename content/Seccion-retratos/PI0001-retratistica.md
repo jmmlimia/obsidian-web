@@ -5,7 +5,7 @@ title: PI0001 — Retratística
 # Retratística
 
 ### Descripción
-<u>I) Edad</u>. [[Edades|Adulta]] entre 36-50 años. Si la estela la refiere a ella y la edad es correcta (no tiene por qué serlo, conocemos papiros sobre personas a las que se adjudica edades diferentes en el mismo documento), Aline está justo en la frontera entre la juventud y la edad adulta, hemos preferido clasificarla en este segundo grupo.
+<u>I) Edad</u>. [[Edades|Adulta]], [[Agrupaciones|entre 36-50 años, agrupación ED11]]. Si la estela la refiere a ella y la edad es correcta (no tiene por qué serlo, conocemos papiros sobre personas a las que se adjudica edades diferentes en el mismo documento), Aline está justo en la frontera entre la juventud y la edad adulta, hemos preferido clasificarla en este segundo grupo.
 
 <u>II) Busto</u>. La mujer con el busto vuelto a su derecha, nos entrega la cabeza ligeramente en 3/4, apenas girada su vertical también hacia ese mismo lado; [[Rostros|rostro]] de forma redondeada, que remata en una barbilla apenas destacada por la sombra del labio inferior y una mancha en tonos ocre.
 
@@ -43,9 +43,9 @@ b) La témpera ([[tempera|v. artículo]]), o el temple, sustantivos que consider
 <u>b) Boceto</u>. No hay noticias de ningún boceto o dibujo preliminar.
 
 (V. figura 1: Esquema geométrico C. Elaboración propia).
-<img src="../images/geometria-c.jpg" alt="Esquema geométrico C" style="float: right; width: 250px; margin: 0 0 15px 20px; border-radius: 8px;">
+<a href="../images/geometria-c.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/geometria-c.jpg" alt="Esquema geométrico C" style="float: right; width: 250px; margin: 0 0 15px 20px; border-radius: 8px;"></a>
 
-<u>c) Composición</u>. Lo definiremos como un esquema geométrico C ([[Agrupaciones|agrupación GEC]]): rostro vertical centrado en la composición y girado en tres cuartos hacia la izquierda, sincronizado con una diagonal inferior descendente de derecha a izquierda. El personaje está desplazado hacia ese lado superior, donde parece que puede desbordar el marco, apoyando la línea de fuerza oblicua. En nuestra opinión, este diseño, lejos de ser casual, y atender a criterios pictóricos relacionados con el *[[contrapposto]]*, podría tener un componente mágico-religioso: proyecta la esperanza de un movimiento que se correspondería con el lapso pasado-futuro.
+<u>c) Composición</u>. La definiremos como un esquema geométrico C ([[Agrupaciones|agrupación GEC]]): rostro vertical centrado en la composición y girado en tres cuartos hacia la izquierda, sincronizado con una diagonal inferior descendente de derecha a izquierda. El personaje está desplazado hacia ese lado superior, donde parece que puede desbordar el marco, apoyando la línea de fuerza oblicua. En nuestra opinión, este diseño, lejos de ser casual, y atender a criterios pictóricos relacionados con el *[[contrapposto]]*, podría tener un componente mágico-religioso: proyecta la esperanza de un movimiento que se correspondería con el lapso pasado-futuro.
 
 <u>d) Fondo</u>. El fondo acentúa el desplazamiento de Aline con una absoluta diferencia tonal entre su derecha (pasado), tono más oscuro, y su izquierda (futuro), sensiblemente más claro ([[Agrupaciones|agrupación FO03]]). Lo curioso es que ese tratamiento del fondo ha invadido al personaje, en lo que a su vestimenta se refiere, produciéndose una destacable disonancia entre luz del rostro y luz del fondo. Dice Doxiadis (2000, pp. 64 y 200) que este retrato sobresale, entre los realizados a la témpera, por tener un fondo coloreado (marrón claro debajo de la carne y gris negruzco en otras partes) en vez del habitual blanco.
 

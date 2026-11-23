@@ -24,6 +24,6 @@ Pendiente de diseño colgante y disposición vertical, compuesto por tres elemen
 ### Collares
 Alrededor del cuello porta un elemento de ornato.
 
-Se trata de una [[gargantilla]] de sarta de cuentas dispuestas en triple fila. 
+Se trata de una [[gargantilla]] de sarta de cuentas dispuestas en triple fila ([[Agrupaciones|agrupación CO01]]). 
 
-El magnífico collar consta de tres filas de pendientes de oro esféricos, suspendidas de una cadena también de oro. Está realizado con pan de oro sobre estuco (Vaughan, *et al.*, 1892, p. 417).
+Nos referimos con el apelativo "sarta de cuentas" a un conjunto de piezas que han sido ensartadas entre sí para elaborar un collas. El magnífico  de este retrato consta de tres filas de pendientes de oro esféricos, suspendidas de una cadena también de oro. Está realizado con pan de oro sobre estuco (Vaughan, *et al.*, 1892, p. 417).

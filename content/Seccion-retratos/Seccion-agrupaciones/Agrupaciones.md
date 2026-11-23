@@ -23,6 +23,7 @@ Aquí tienen desglosadas y actualizadas todas las agrupaciones posibles.
 |     COA     | Con un collar                                                                                 |
 |     COB     | Con dos collares                                                                              |
 |     COC     | Con tres o más collares                                                                       |
+|    CO00     | Gargantillas                                                                                  |
 |    CO01     | Gargantilla de sarta de cuentas                                                               |
 |    CO02     | Gargantilla de eslabones orbiculares                                                          |
 |    CO03     | Gargantilla de materia orgánica                                                               |
@@ -155,7 +156,8 @@ Aquí tienen desglosadas y actualizadas todas las agrupaciones posibles.
 |   PEE01a    | Peinado con "mechón de juventud" en el lado derecho de la cabeza                              |
 |   PEE01b    | Peinado con "mechón de juventud" en el lado izquierdo de la cabeza                            |
 |   PEE01c    | Peinado con "mechón de juventud" en ambos lados de la cabeza                                  |
-|   PEFA01    | Peinado "a melón"                                                                             |
+|   PEFA01    | Peinado modelo de melón                                                                       |
+|   PEFA02    | Peinado modelo Livilla                                                                        |
 |   PEFA07a   | Peinado modelo diosa liso                                                                     |
 |   PEFA07b   | Peinado modelo diosa rizado                                                                   |
 |   PEFB01    | Peinado modelo _nodus_ femenino                                                               |

@@ -16,6 +16,8 @@ Utilizaron el mismo tipo de arreglo Agripina la Menor (15 - 59), Julia Drusila (
 
 Con el paso del tiempo, esos pocos rizos iniciales, característicos y elegantes de Livilla, pudieron extenderse hacia las sienes o la cima de la cabeza, e incluirá, o no, los tirabuzones que caen sobre los hombros paralelos al cuello en ciertos casos. Un ejemplo hispano de estas representaciones, adjudicado a Agripina la Menor, se encuentra en el [Museo del Greco](https://www.cultura.gob.es/mgreco/la-coleccion/colecciones/seleccion-de-piezas/escultura/agripina.html) en Toledo: «Es típica la hilera de rizos que bordean la frente hasta las sienes y las patillas a cuya altura se ensancha el rizado formando un triángulo delante de la oreja, como se aprecia perfectamente en este fragmento». Para las comparaciones de peinados, también es imprescindible tener en cuenta las especificidades locales: «Su magnífica calidad no oculta algunos rasgos provinciales como la insistencia recargada de las bandas de rizos, lo que hace suponer que nos encontramos ante una obra realizada en Hispania».
 
+La extensión de su uso puede comprobarse en las agrupaciones de la búsqueda avanzada ([[Agrupaciones|agrupación PEFA02]]).
+
 <div style="clear: both;"></div>
 
 **Bibliografía** 

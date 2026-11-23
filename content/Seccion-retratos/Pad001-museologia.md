@@ -12,7 +12,7 @@ Vendido por la Galería [[Christies|Christie's]], Nueva York, el 07DIC2006 (vent
 En la información de dicha venta, solo aparece que estaba en posesión de [[Cambelong|Thierry Cambelong]], Suiza, en la década de 1970.
 
 ### Conservación 
-I) En su actual [[Estado-de-conservacion|estado de conservación]], el conjunto del retrato se nos presenta como muy bueno (2).
+I) En su actual [[Estado-de-conservacion|estado de conservación]], el conjunto del retrato se nos presenta como muy bueno ([[Agrupaciones|+ 2, agrupación EG07]]).
 
 II) a) La madera está [[Cortes|cortada]] con un borde superior indescifrable cubierto por restos de tela; cantos laterales irregulares (el lado derecho muy discontinuo, el izquierdo formando un ligero arco cóncavo), ensanchándose hacia la base que es recta y está pintada en su totalidad. b) Solo presenta una fisura en la parte central-superior que va desde el ojo a la nariz, y dos ligeras grietas verticales en el centro de su base, más aparentes pérdidas de material en la zona de la vestimenta. c) Por tanto, la madera se encuentra en buenas condiciones, su curvatura creemos que le otorga un valor expositivo adicional, que sabemos puede corregirse si se quisiera.
 

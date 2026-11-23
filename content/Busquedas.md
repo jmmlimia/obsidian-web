@@ -5,7 +5,7 @@ title: Búsquedas simples y avanzadas
 
 ### Simples
 
-Utilice el icono de búsqueda en la cabecera izquierda de la página. Se devolverá una relación de las coincidencias encontradas. 
+Utilice el icono de búsqueda en la cabecera izquierda de la página. Se devolverá una relación de las coincidencias encontradas. Tecleando su código, por ejemplo, es el método más rápido para encontrar un retrato concreto.
 
 ### Avanzadas
 

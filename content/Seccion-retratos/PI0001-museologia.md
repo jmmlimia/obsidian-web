@@ -7,10 +7,10 @@ title: PI001 — Museología
 ### Historia 
 Actualmente se encuentra en [Ägyptisches Museum und Papyrussammlung](https://smb.museum-digital.de/institution/9?navlang=de) (Berlín, Alemania), cat. = ÄM 11411.
 
-Excavado en Hawara por [[Kaufmann|Richard von Kaufmann]] a finales de marzo de 1892, e ingresado en el Museo en 1893 gracias a él mismo (Königliche, 1899, p. 351). 
+Excavado en Hawara por [[Kaufmann|Richard von Kaufmann]] a finales de marzo de 1892. En julio de ese mismo año estaba expuesto en el museo, donde ingresó en 1893 gracias a él mismo (Königliche, 1899, p. 351; Vaughan, *et al.*, 1892, p. 416; Virchow, 1892, p. 416). 
 
 ### Conservación
-I) En su actual [[Estado-de-conservacion|estado de conservación]], el conjunto del retrato se nos presenta como excelente (+3). 
+I) En su actual [[Estado-de-conservacion|estado de conservación]], el conjunto del retrato se nos presenta como excelente ([[Agrupaciones|+ 3, agrupación EG08]]). 
 
 II) a) El lino está cortado con bordes rectos en sus cuatro lados. b) Muestra un aspecto extraordinario, sin tajos, ni fisuras, ni perdidas de material.
 
@@ -27,7 +27,7 @@ Los edificios que custodiaban las magníficas piezas encontradas han sufrido los
 
 II) El sudario donde se encontraba la imagen fue recortado y la propia momia desenrollada. El excavador también le cortó la cabeza, con la intención de entregarla al médico Rudolf Virchow para una reconstrucción facial, que se llevó a cabo. Desafortunadamente, hoy hemos perdido todo lo que no es el retrato (MR; Parlasca, 1969, p. 25).
 
-Existe una divergencia en las fuentes primarias sobre el momento en que el retrato pasó al museo: en alguna se afirma que ya en julio de 1892 se encontraba en la sección egipcia del Museo Real (Vaughan, *et al.*, 1892: 416); mientras que el propio museo lo cataloga en 1893 (Königliche, 1899, p. 351). Creemos que puede tratarse de un asunto administrativo. Que el retrato estaba expuesto para su visita en el verano de 1892 es seguro. La primera referencia es a una reunión extraordinaria en la que, entre otras cosas, se trató de él, con la intervención de von Kaufmann, y así se afirma. Pero, dada la trascendencia del descubrimiento, este pudo ser un encuentro solo expositivo mientras que el catálogo de 1899 recoge una situación legal de pertenencia. 
+Existe una divergencia en las fuentes primarias sobre el momento en que el retrato pasó al museo: en alguna se afirma que ya en julio de 1892 se encontraba en la sección egipcia del Museo Real (Vaughan, *et al.*, 1892: 416; Virchow, 1892, p. 416); mientras que el propio museo lo cataloga en 1893 (Königliche, 1899, p. 351). Creemos que puede tratarse de un asunto administrativo. Que el retrato estaba expuesto para su visita en el verano de 1892 es seguro. La primera referencia es a una reunión extraordinaria en la que, entre otras cosas, se trató de él, con la intervención de von Kaufmann, y así se afirma. Pero, dada la trascendencia del descubrimiento, este pudo ser un encuentro solo expositivo mientras que el catálogo de 1899 recoge una situación legal de pertenencia. 
 
 ### Fotografías 
 <u>Reproducidas</u>= Propiedad de [Ägyptisches Museum und Papyrussammlung](https://smb.museum-digital.de/institution/9?navlang=de) de Berlín. [[Permisos-de-fotografias|Permisos de fotografías]], CC BY-SA.

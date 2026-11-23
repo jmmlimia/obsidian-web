@@ -9,4 +9,4 @@ En principio, una gargantilla tiene un desarrollo más horizontal que vertical y
 
 La gargantilla será aquí un tipo genérico, y analizaremos por separado cada uno de los modelos que aparezcan, diferenciándolas por sus nombres
 
-Su uso puede comprobarse en las agrupaciones de la búsqueda avanzada.
+La extensión de su uso puede comprobarse en las agrupaciones de la búsqueda avanzada ([[Agrupaciones|agrupación CO00]]).

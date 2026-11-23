@@ -6,7 +6,7 @@ title: Pad001 - Retratística
 # Retratística
 
 ### Descripción 
-<u>I) Edad</u>. [[Edades|Adolescente]] entre 15-20 años. 
+<u>I) Edad</u>. [[Edades|Adolescente]], [[Agrupaciones|entre 15-20 años, agrupación ED07]]. 
 
 <u>II) Busto</u>. Apenas visible para determinar su orientación, con la cabeza en 3/4, girada a su derecha y verticalmente recta; el rostro tiene forma claramente [[Rostros|adiamantada]], presentando una mandíbula no marcada que termina en un mentón alargado y afilado. No se aprecia la asimetría facial tan característica en bastantes retratos.
 
@@ -38,7 +38,7 @@ b) La encáustica ([[encaustica|v. artículo]]) es una técnica pictórica que u
 <u>a), b)</u> Sin noticias sobre la existencia de aparejo o boceto preparatorio en este panel.
 
 (V. figura 1: Esquema geométrico 03. Elaboración propia).
-<img src="../images/geometria-03.jpg" alt="Esquema geométrico 03" style="float: right; width: 250px; margin: 0 0 15px 20px; border-radius: 8px;">
+<a href="../images/geometria-03.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/geometria-03.jpg" alt="Esquema geométrico 03" style="float: right; width: 250px; margin: 0 0 15px 20px; border-radius: 8px;"></a>
 
 <u>c) Composición</u>. Con el estrecho marco que sobrevive del retrato es difícil extraer conclusiones. Da la impresión de ofrecernos un esquema geométrico que definiremos como 03 ([[Agrupaciones|agrupación GE03]]): rostro vertical centrado en la composición y girado en tres cuartos hacia la izquierda, acompañado con una postura frontal de los hombros. Este diseño debe atender a criterios pictóricos en exclusiva, donde la cabeza marca un ligero *[[contrapposto]]* respecto del busto.
 
