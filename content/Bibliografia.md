@@ -281,6 +281,8 @@ Mininberg, D. T. (2001). The Museum’s Mummies: An Inside View. *Neurosurgery*,
 
 Miriello, D., Bloise, A., Crisci, G., De Luca, R., De Nigris, B., Martellone, A., Osanna, M., Pace, R., Pecci, A., & Ruggieri, N. (2018). Non-Destructive Multi-Analytical Approach to Study the Pigments of Wall Painting Fragments Reused in Mortars from the Archaeological Site of Pompeii (Italy). *Minerals*, *8*(4), 1-15. ^93b0d5
 
+Mohammed, A. S., & Ibrahim, C. M. (2016). _Look from the Past: Woman Mummy Portrait from Linen in Egyptian Museum CG 33268_. Minitry of Antiquities. ^2e7a13
+
 Montserrat, D. (1993). The Representation of Young Males in «Fayum Portraits». *The Journal of Egyptian Archaeology*, *79*, 215-225 y lám. XXII-XXIII. ^810bf2
 
 Montserrat, D. (1994). The Dating of Fayum Mummy Portraits: A Papyrological Perspective. En A. Bülow-Jacobsen (Ed.), *Proceedings of the 20th International Congress of Papyrologists* (pp. 578-581). Museum Tusculanum Press. ^b9204e
