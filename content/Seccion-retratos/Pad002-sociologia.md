@@ -3,6 +3,9 @@ title: Pad002 - Sociología
 ---
 
 
+Contenido en edición, no disponible en este momento.
+
+%%
 # Sociología
 
 ### Datación 
@@ -15,3 +18,4 @@ Desconocida, sin datos al respecto.
 
 ### Personaje 
 MR apunta una edad de entre quince y dieciséis años para el niño, pero nosotros mantenemos una de 14, o quizás algo inferior, por el "mechón de juventud".
+%%

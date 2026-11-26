@@ -88,43 +88,43 @@
     ]
   },
   {
-    "id": "AGGE",
+    "id": "AGCG",
     "nombre": "AGRUPACIÓN COMPOSICIÓN GEOMÉTRICA",
     "codigos": [
       {
-        "codigo": "GE01",
+        "codigo": "CG01",
         "descripcion": "Composición geométrica 01"
       },
       {
-        "codigo": "GE02",
+        "codigo": "CG02",
         "descripcion": "Composición geométrica 02"
       },
       {
-        "codigo": "GE03",
+        "codigo": "CG03",
         "descripcion": "Composición geométrica 03"
       },
       {
-        "codigo": "GEA",
+        "codigo": "CGA",
         "descripcion": "Composición geométrica A"
       },	  
       {
-        "codigo": "GEB",
+        "codigo": "CGB",
         "descripcion": "Composición geométrica B"
       },
       {
-        "codigo": "GEC",
+        "codigo": "CGC",
         "descripcion": "Composición geométrica C"
       },
       {
-        "codigo": "GEi",
+        "codigo": "CGi",
         "descripcion": "Composición geométrica i"
       },
       {
-        "codigo": "GEii",
+        "codigo": "CGii",
         "descripcion": "Composición geométrica ii"
       },
       {
-        "codigo": "GEiii",
+        "codigo": "CGiii",
         "descripcion": "Composición geométrica iii"
       }
     ]

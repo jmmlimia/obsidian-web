@@ -2,6 +2,10 @@
 title: Pad003 — Complementos
 ---
 
+
+Contenido en edición, no disponible en este momento.
+
+%%
 # Complementos
 
 ### Vestimenta 
@@ -12,3 +16,4 @@ Lleva pelo largo, lacio, con mechones rectos que caen separados sobre la frente,
 
 ### Corona 
 El personaje lleva corona hecha con pan de oro (que se ha añadido en el último momento del ritual funerario) de hojas romboidales adaptada al contorno de la cabeza.
+%%

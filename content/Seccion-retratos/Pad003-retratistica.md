@@ -2,6 +2,10 @@
 title: Pad003 — Retratística
 ---
 
+
+Contenido en edición, no disponible en este momento.
+
+%%
 # Retratística
 
 ### Descripción 
@@ -34,3 +38,4 @@ III) Procedimientos. g) Pincelada. Como es habitual, el artista ha utilizado dif
 
 ### Iconografía 
 El *cartonnage* que contiene al retrato está rodeado de incrustaciones de estuco dorado. Tres son los elementos iconográficos que lo componen: cabujones de estuco dorado que rodean la ventana; un gran [[art-usejet|collar usejet]] sobre el pecho del difunto, formado por tres hileras (pequeño número según la tradición); y en sus extremos dos cabezas de Horus (a veces se denominan hierocéfalos) portando la [[art-pschent|corona pschent]] (Pierre Bergé & associés, 2013). 
+%%

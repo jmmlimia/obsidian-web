@@ -3,6 +3,9 @@ title: Pad002 - Retratística
 ---
 
 
+Contenido en edición, no disponible en este momento.
+
+%%
 # Retratística
 
 ### Descripción 
@@ -34,3 +37,4 @@ I) Técnica. Encáustica (cera como aglutinante) sobre madera de tilo (_Tilia_ s
 II) Materiales. a) Capa base de cal (al temple o blanco de plomo). c) Pan de oro, utilizado como fondo para enmarcar el rostro y en la corona. Esta decoración aún conserva la línea donde terminaban las vendas de lino.
 
 III) Procedimientos. d) Pincelada = el retrato presenta una textura plana sin empastes aparentes.
+%%

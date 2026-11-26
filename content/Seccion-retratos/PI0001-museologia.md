@@ -10,7 +10,7 @@ Actualmente se encuentra en [Ägyptisches Museum und Papyrussammlung](https://s
 Excavado en Hawara por [[Kaufmann|Richard von Kaufmann]] a finales de marzo de 1892. En julio de ese mismo año estaba expuesto en el museo, donde ingresó en 1893 gracias a él mismo (Königliche, 1899, p. 351; Vaughan, *et al.*, 1892, p. 416; Virchow, 1892, p. 416). 
 
 ### Conservación
-I) En su actual [[Estado-de-conservacion|estado de conservación]], el conjunto del retrato se nos presenta como excelente ([[Agrupaciones|+ 3, agrupación EG08]]). 
+I) En su actual [[Estado-de-conservacion|estado de conservación]], el conjunto del retrato se nos presenta como excelente (+ 3). 
 
 II) a) El lino está cortado con bordes rectos en sus cuatro lados. b) Muestra un aspecto extraordinario, sin tajos, ni fisuras, ni perdidas de material.
 

@@ -6,13 +6,13 @@ title: Pad001 - Retratística
 # Retratística
 
 ### Descripción 
-<u>I) Edad</u>. [[Edades|Adolescente]], [[Agrupaciones|entre 15-20 años, agrupación ED07]]. 
+<u>I) Edad</u>. [[Edades|Adolescente]] entre 15-20 años. 
 
-<u>II) Busto</u>. Apenas visible para determinar su orientación, con la cabeza en 3/4, girada a su derecha y verticalmente recta; el rostro tiene forma claramente [[Rostros|adiamantada]], presentando una mandíbula no marcada que termina en un mentón alargado y afilado. No se aprecia la asimetría facial tan característica en bastantes retratos ([[Agrupaciones|agrupación RF15]]).
+<u>II) Busto</u>. Apenas visible para determinar su orientación, con la cabeza en 3/4, girada a su derecha y verticalmente recta; el rostro tiene forma claramente [[Rostros|adiamantada]], presentando una mandíbula no marcada que termina en un mentón alargado y afilado. No se aprecia la asimetría facial tan característica en bastantes retratos.
 
 <u>III) Cabello/frente y orejas</u>. El pelo negro, corto y liso conforma una frente [[Frentes|tipo arco carpanel]], que define un espacio estrecho pero limpio. El peinado (más la rotación del busto) no deja vislumbrar apenas nada de la oreja derecha, salvo la hélice; la oreja izquierda debería verse con tanta claridad como el pendiente que porta, sin embargo, el pintor la ha tapado con un aladar que no debería estar ahí si, como sucede en el lado contrario, cae por detrás de la cabeza. Estamos ante una disonancia evidente.
 
-<u>IV) Ojos</u>. Cejas anchas, arqueadas y largas, bien cuidadas, junto a pestañas muy ligeramente perceptibles solo en el ojo derecho, enmarcan hendiduras palpebrales grandes y almendradas; ojos algo caídos, con la “mirada de las 2000 yardas” ([[Agrupaciones|agrupación MI01]]), carentes de punto blanco en la pupila (el denominado “punto de la vida”). Los párpados superiores aparecen pesados y caídos, mientras que los inferiores se adivinan enrojecidos, y los pómulos no se han destacado.
+<u>IV) Ojos</u>. Cejas anchas, arqueadas y largas, bien cuidadas, junto a pestañas muy ligeramente perceptibles solo en el ojo derecho, enmarcan hendiduras palpebrales grandes y almendradas; ojos algo caídos, con la “mirada de las 2000 yardas”, carentes de punto blanco en la pupila (el denominado “punto de la vida”). Los párpados superiores aparecen pesados y caídos, mientras que los inferiores se adivinan enrojecidos, y los pómulos no se han destacado.
 
 <u>V) Nariz y boca</u>. Larga y recta, con lóbulos abiertos, la primera, se une a la boca por un surco nasolabial apenas marcado y sin surcos nasogenianos. Esta se ha representado cerrada, corta y pequeña, con un pliegue comisural marcado por una gran línea negra recta; elegantes labios de tonos rosados y el arco de Cupido apenas relevante. En conjunto, la boca ofrece una serenidad y abstracción de excesos que refuerza el conjunto.
 
@@ -40,9 +40,9 @@ b) La encáustica ([[encaustica|v. artículo]]) es una técnica pictórica que u
 (V. figura 1: Esquema geométrico 03. Elaboración propia).
 <a href="../images/geometria-03.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/geometria-03.jpg" alt="Esquema geométrico 03" style="float: right; width: 250px; margin: 0 0 15px 20px; border-radius: 8px;"></a>
 
-<u>c) Composición</u>. Con el estrecho marco que sobrevive del retrato es difícil extraer conclusiones. Da la impresión de ofrecernos un esquema geométrico que definiremos como 03 ([[Agrupaciones|agrupación GE03]]): rostro vertical centrado en la composición y girado en tres cuartos hacia la izquierda, acompañado con una postura frontal de los hombros. Este diseño debe atender a criterios pictóricos en exclusiva, donde la cabeza marca un ligero *[[contrapposto]]* respecto del busto.
+<u>c) Composición</u>. Con el estrecho marco que sobrevive del retrato es difícil extraer conclusiones. Da la impresión de ofrecernos un esquema geométrico que definiremos como 03: rostro vertical centrado en la composición y girado en tres cuartos hacia la izquierda, acompañado con una postura frontal de los hombros. Este diseño debe atender a criterios pictóricos en exclusiva, donde la cabeza marca un ligero *[[contrapposto]]* respecto del busto.
 
-<u>d) Fondo</u>. Para Christie’s (2006), es de tono crema visible hoy apenas, aunque encajaría perfectamente con la tonalidad general de la obra. Como en el caso de la composición, también aquí parecen existir solo connotaciones pictóricas ([[Agrupaciones|agrupación FO02]]).
+<u>d) Fondo</u>. Para Christie’s (2006), es de tono crema visible hoy apenas, aunque encajaría perfectamente con la tonalidad general de la obra. Como en el caso de la composición, también aquí parecen existir solo connotaciones pictóricas.
 
 <u>e) Luz</u>. Una luz lateral contrastada entra desde su izquierda, aunque las sombras propias han sido bastante obliteradas salvo, quizás, en el cuello. A la vez, la zona iluminada lo está, en apariencia, con aclarados del mismo color adyacente.
 

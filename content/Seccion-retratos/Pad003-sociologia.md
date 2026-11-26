@@ -2,6 +2,10 @@
 title: Pad003 — Sociología
 ---
 
+
+Contenido en edición, no disponible en este momento.
+
+%%
 # Sociología
 
 ### Datación 
@@ -21,3 +25,4 @@ Para Pierre Bergé & associés (2013), el retrato representa a un joven de alta 
 Este retrato pertenece al grupo de sudarios rojos; a lo que añade Bianchi (2016, p. 19) que el «grupo se divide en varios tipos, de los cuales este ejemplar de las colecciones de la Fondation Gandur pour l'Art pertenece a la categoría 2B, el tipo complejo» (aparte de este comentario, no tenemos ninguna información sobre tal división del grupo).
 
 La conformación del enfardado es muy parecida a la de los ejemplares [[PI0162]] y [[PIV0711]].
+%%

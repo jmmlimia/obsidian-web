@@ -2,6 +2,10 @@
 title: Pad003 — Museología
 ---
 
+
+Contenido en edición, no disponible en este momento.
+
+%%
 # Museología
 
 ### Historia 
@@ -39,3 +43,4 @@ V) Toda la procedencia anterior a la subasta de Pierre Bergé & Associés parece
 <u>Reproducidas</u> = Permiso Public Domain [[Permisos-de-fotografias|Permisos de fotografías]]. 
 
 <u>Recientes de calidad</u> = Pierre Bergé & associés, 2013, pp. 116-117 y 119; Phoenix Ancient Art, 2014, pp. 15-16; Carreras, 2015, p. 42; Bianchi, 2016, p. 20; Droux, 2021, p. 1.
+%%

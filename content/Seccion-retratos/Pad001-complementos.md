@@ -6,7 +6,7 @@ title: Pad001 - Complementos
 # Complementos
 
 ### Vestimenta 
-Según Christie's 2006, viste un [[chiton|chitón]] blanco azulado con *[[clavus]]* azul oscuro y, quizás, un *[[pallium]]* sobre su hombro izquierdo ocultando el segundo *clavus*. Apenas nada podemos añadir a esta descripción dada la pérdida de color ya reseñada. El chitón tiene un escote redondo que bordea un filete del mismo color que el *clavus*, y este visible es ancho y de tono oscuro, quizás algún azul profundo (en la actualidad su aspecto pictórico es muy descuidado). No sabemos identificar la línea ancha, más o menos vertical, visible por el interior del _clavus_ y que va separándose de él desde el hombro ([[Agrupaciones|agrupación VE09, VE13, VE21 y VE50]]). 
+Según Christie's 2006, viste un [[chiton|chitón]] blanco azulado con *[[clavus]]* azul oscuro y, quizás, un *[[pallium]]* sobre su hombro izquierdo ocultando el segundo *clavus*. Apenas nada podemos añadir a esta descripción dada la pérdida de color ya reseñada. El chitón tiene un escote redondo que bordea un filete del mismo color que el *clavus*, y este visible es ancho y de tono oscuro, quizás algún azul profundo (en la actualidad su aspecto pictórico es muy descuidado). No sabemos identificar la línea ancha, más o menos vertical, visible por el interior del _clavus_ y que va separándose de él desde el hombro. 
 
 ### Peinado 
 [[modf-melon|Modelo *Melonfrisur*]]

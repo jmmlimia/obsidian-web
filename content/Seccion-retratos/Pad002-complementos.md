@@ -3,6 +3,9 @@ title: Pad002 - Complementos
 ---
 
 
+Contenido en edición, no disponible en este momento.
+
+%%
 # Complementos
 
 ### Vestimenta 
@@ -15,3 +18,4 @@ Cabello negro, de mediana longitud, rizado, muy poco visible por el descuido en 
 
 ### Corona 
 Se le ha añadido una corona dorada con hojas en forma de rombos que parece adaptarse al contorno de la cabeza. Algunas flores emergen de esa corona, particularmente visible la que ocupa la sien derecha casi tocando el ojo. Para MR es de laurel.
+%%

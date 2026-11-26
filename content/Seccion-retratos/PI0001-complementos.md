@@ -5,7 +5,7 @@ title: PI0001 — Complementos
 # Complementos
 
 ### Vestimenta
-Viste [[chitón]] blanco, con escote tipo barco. Lo adorna unos *[[clavi]]* de color violeta, muy aclarado el de su hombro derecho, el izquierdo bastante más oscurecido ([[Agrupaciones|agrupación VE01, VE12 y VE22]]).
+Viste [[chitón]] blanco, con escote tipo barco. Lo adorna unos *[[clavi]]* de color violeta, muy aclarado el de su hombro derecho, el izquierdo bastante más oscurecido.
 
 ### Peinado
 [[modf-livilla|Modelo Livilla]]
@@ -24,6 +24,6 @@ Pendiente de diseño colgante y disposición vertical, compuesto por tres elemen
 ### Collares
 Alrededor del cuello porta un elemento de ornato.
 
-Se trata de una [[gargantilla]] de sarta de cuentas dispuestas en triple fila ([[Agrupaciones|agrupación CO01]]). 
+Se trata de una [[gargantilla]] de sarta de cuentas dispuestas en triple fila. 
 
 Nos referimos con el apelativo “sarta de cuentas” a un conjunto de piezas que han sido ensartadas entre sí para elaborar un collar. El magnífico de este retrato consta de tres filas de pendientes de oro esféricos, suspendidas de una cadena también de oro. Está realizado con pan de oro sobre estuco (Vaughan, *et al.*, 1892, p. 417).
