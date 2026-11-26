@@ -15,12 +15,14 @@ En el Egipto romano, la mayoría de las utilizadas eran de lana, aunque sabemos 
 
 Salvo error u omisión, con excepción de alguno de cuerpo entero, no hay un solo retrato de el-Fayum donde aparezcan los brazos del comitente. Cardon y su equipo han identificado de manera indirecta, comparando con prendas originales halladas en Didymoi, aquellos chitones que serían de manga corta: abertura horizontal en el cuello bordeada en la parte delantera y trasera por una banda oscura que se extiende sobre el hombro. Pero no parece claro el largo de estas mangas en caso de que las hubiera. 
 
-Dos detalles importantes que los retratos pueden omitir o desvirtuar: i) el chitón iba ceñido por un cinturón; y ii) todos sus adornos (en especial los *[[clavus|clavi]]*) eran tejidos al mismo tiempo que la base, en ningún caso cosidos, pintados o teñidos. 
+Dos detalles importantes que los retratos pueden omitir o desvirtuar: i) el chitón iba ceñido por un cinturón; y ii) en todos los casos, los *[[clavus|clavi]]*, eran tejidos al mismo tiempo que la base. Otros elementos, como cordones en los bordes del cuello podían ir cosidos, y aún otros, pintados, como en los sudarios (Letellier, 2020, p. 40); pero nunca un *clavus*. Ambos detalles son convenientes de recordar. El primero, porque explica algunas arrugas pectorales, aparentemente artificiales, que se podrían achacar al interés artístico cuando, en realidad, deberían tomarse por voluntad de realismo. El segundo, significa que los *clavi* duraban lo que duraba la túnica (bien que la tela pudiera reutilizarse para otros fines), siendo imposible restaurarlos por la adición de telas cosidas con las que volverían a relucir como nuevos; por tanto, la inmensa mayoría de los pintados o estaban en perfectas condiciones, o se representaban así para transmitir determinados mensajes.
 
 **Bibliografía** 
 
 [Cardon, *et al.*, 2011](Bibliografia.md#^5011f0)
 
 [Hom. *Il.*](Bibliografia.md#^303a44)
+
+[[Bibliografia#^36f959|Letellier-Willemin, 2020]]
 
 [[Bibliografia#^923958|Mossakowska-Gaubert, 2017]]

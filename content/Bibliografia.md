@@ -261,6 +261,8 @@ Kroustallis, S. K. (2008). *Diccionario de Materias y Técnicas (I. Materias)*. 
 
 Kroustallis, S. K. (2015). *Diccionario de Materias y Técnicas (II. Técnicas)*. Ministerio de Cultura.
 
+Letellier-Willemin, F. (2020). Tackling the technical history of the textiles of El-Deir, Kharga Oasis, the Western Desert of Egypt. En M. Mossakowska-Gaubert (Ed.), *Egyptian textiles and their production: ‘Word’ and ‘object’* (pp. 37-48). Zea E-Books. ^36f959
+
 *Lewis Einstein*. (2026, junio 27). Wikipedia. https://en.wikipedia.org/wiki/Lewis_Einstein 
 
 Liddell, H. G., Scott, R., & Jones, H. S. (1940). *A Greek-English Lexicon*. Clarendon Press. ^15ca04
