@@ -107,7 +107,7 @@ Calament, F. (2011). _GAYET, Albert_ [INHA, Institut national d’histoire de l�
 
 Calzada Echevarría, A. (2003). *Diccionario clásico de arquitectura y bellas artes*. Ediciones del Serbal. ^bd3c3e
 
-Cardon, D., Granger-Taylor, H., & Nowik, W. (2011). What did the look like? Fragments of clothing found at Didymoi: Case studies. En H. Cuvigny (Ed.), *Didymoi: Une garnison romeine dans le désert Oriental d’Égypte. I - Les fouilles et le matériel* (pp. 273-362). Institut Français d’Archéologie Orientale.
+Cardon, D., Granger-Taylor, H., & Nowik, W. (2011). What did the look like? Fragments of clothing found at Didymoi: Case studies. En H. Cuvigny (Ed.), *Didymoi: Une garnison romeine dans le désert Oriental d’Égypte. I - Les fouilles et le matériel* (pp. 273-362). Institut Français d’Archéologie Orientale. ^5011f0
 
 Cardon, D., Nowik, W., Granger-Taylor, H., Marcinowska, R., Kusyk, K., & Trojanowicz, M. (2011). Who could wear true purple in Roman Egypt? Technical and social considerations on some new identifications of purple from marine molluscs in archaeological textiles. En C. Alfaro Giner, J.-P. Brun, P. Borgard, & R. Pierobon Benoit (Eds.), *Textiles y tintes en la ciudad antigua* (pp. 197-214). Universidad de Valencia.
 
@@ -125,6 +125,8 @@ Christie’s London. (2015). *An Egyptian painted wood mummy portrait of a man*.
 
 Christie’s New York. (2006). *A Painted Wood Mummy Portrait of a Woman*. ^ffc796
 
+Cleland, L., Davies, G., & LLewellyn-Jones, L. (2007). *Greek and Roman Dress from A to Z*. Routledge. ^d8fabf
+
 Corcoran, L. H. (1995). Evidence for the Survival of Pharaonic Religion in Roman Egypt: The Portrait Mummy. En *Aufstieg und Niedergang der romischen Welt (ANRW)* (Vols. 18-5, pp. 3316-3332). De Gruyter. ^dae8cc
 
 Corcoran, L. H. (1995). *Portrait Mummies from Roman Egypt (I-IV Centuries A.D.): With a Catalog of Portrait Mummies in Egyptian Museums*. The Oriental Institute of the University of Chicago. ^96ab81
@@ -140,6 +142,8 @@ Cox, S. L. (2015). A Critical Look at Mummy CT Scanning. *The Anatomical Record*
 Dahms, J., Flossmann-Schütze, M., & Schütze, A. (2023). Forschung Im Smäk. Der Workshop «Coffins In 3D» Die Sargbestände Des Smäk Und Ihre Digitalisirrung. *Maat*, *29*, 2-17.
 
 Danny, D. D. (2006.). *Harry De Forest Smith Residence, Old Brunswick Road*. Edwin Arlington Robinson.  ^540d0c
+
+Daremberg, C. V., & Saglio, E. (1877). *Dictionnaire des Antiquités grecques et romaines* (Vols. 1-9). Hachette. ^79153d
 
 David, R. (Ed.). (1979). *Manchester Museum Mummy Project: Multidisciplinary Research on Ancient Egyptian Mummified Remains*. Manchester Museum.
 
@@ -243,6 +247,8 @@ Higginbotham, J. (s. f.). *Portrait of a youth wearing a gilded wreath*. Bowdoi
 
 Hjalgrim, H., Lynnerup, N., Liversage, M., & Rosenklint, A. (1995). Stereolithography: Potential Applications in Anthropological  Studies. *American Journal of Physical Anthropology*, *97*, 329-333. ^bcd8b9
 
+Hom. *Il.* = Homero. (1996). *Ilíada* (E. Crespor Güemes, Ed.). Gredos. (Obra original publicada en ca. 700 aC) ^303a44
+
 <span id="drouot2020"></span>*Hôtel Drouot*. (2020, mayo 6). Wikipedia. https://es.wikipedia.org/wiki/H%C3%B4tel_Drouot 
 
 Jørgensen, M. (2001). *Catalogue Egypt III*. Ny Carlsberg Glyptotek.
@@ -288,6 +294,8 @@ Montserrat, D. (1993). The Representation of Young Males in «Fayum Portraits».
 Montserrat, D. (1994). The Dating of Fayum Mummy Portraits: A Papyrological Perspective. En A. Bülow-Jacobsen (Ed.), *Proceedings of the 20th International Congress of Papyrologists* (pp. 578-581). Museum Tusculanum Press. ^b9204e
 
 Morrow Archival. (s. f.). _The pigments of Pompeii_. ^064a14
+
+Mossakowska-Gaubert, M. (2017). Tunics Worn in Egypt in Roman and Byzantine Times: The Greek Vocabulary. En S. Gaspa, C. Michel, & M.-L. Nosch (Eds.), *Textile Terminologies from the Orient to the Mediterranean and Europe 1000 BC - AD 1000* (pp. 321-345). Zea Books. ^923958
 
 *Multidetector Computed Tomography*. (2025). ScienceDirect. ^b4e6e0
 

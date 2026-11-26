@@ -11,7 +11,7 @@ Según Christie's (2006), entre los años 55 y 70, [[Dinastias-romanas|final de 
 ### Procedencia 
 ([[Sobre-procedencias|Sobre procedencias]]) 
 
-Desconocida, sin datos al respecto, aunque Christie's (2006) lo supone de Hawara sin explicar por qué.
+Desconocida, sin datos al respecto, aunque Christie's (2006) lo supone de Hawara sin explicar por qué ([[Agrupaciones|agrupación PR02]]).
 
 ### Personaje 
 Mujer joven de aspecto cuidado. 

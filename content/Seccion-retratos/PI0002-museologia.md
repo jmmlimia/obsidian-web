@@ -3,6 +3,9 @@ title: PI0002 - Museología
 ---
 
 
+Contenido en edición, no disponible en este momento.
+
+%%
 # Museología
 
 ### Historia
@@ -15,3 +18,4 @@ title: PI0002 - Museología
 
 
 ### Fotografías 
+%%

@@ -246,8 +246,8 @@ Aquí tienen desglosadas y actualizadas todas las agrupaciones posibles.
 |    VE09     | Chitón de otro color                                                                          |
 |    VE10     | _clavus-i_ negro                                                                              |
 |    VE11     | _clavus-i_ rojo oscuro                                                                        |
-|    VE12     | _clavus-i_                                                                                    |
-|    VE13     | _clavus-i_                                                                                    |
+|    VE12     | _clavus-i_ violeta                                                                            |
+|    VE13     | _clavus-i_ azul                                                                               |
 |    VE20     | Escote en pico                                                                                |
 |    VE21     | Escote redondo                                                                                |
 |    VE22     | Escote tipo barco                                                                             |

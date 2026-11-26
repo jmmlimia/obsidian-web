@@ -48,6 +48,8 @@ Flor. *epit.* = Floro, *Epítome de la Historia de Tito Livio*
 
 Hdt. = Heródoto, *Los nueve libros de la historia* 
 
+Hom. *Il.* = Homero, *Ilíada*
+
 Hor. C. = Horacio, *Odas y Epodos* 
 
 I. *BI* = Flavio Josefo, *La guerra de los judíos* 

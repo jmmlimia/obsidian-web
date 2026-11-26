@@ -3,6 +3,9 @@ title: PI0002 - Retratística
 ---
 
 
+Contenido en edición, no disponible en este momento.
+
+%%
 # Retratística
 
 ### Descripción 
@@ -13,3 +16,4 @@ I) Técnica.
 II) Materiales. 
 
 III) Procedimientos. 
+%%

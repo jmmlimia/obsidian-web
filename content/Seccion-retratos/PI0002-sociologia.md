@@ -3,6 +3,9 @@ title: PI0002 - Sociología
 ---
 
 
+Contenido en edición, no disponible en este momento.
+
+%%
 # Sociología
 
 ### Datación 
@@ -14,3 +17,4 @@ title: PI0002 - Sociología
 
 
 ### Personaje 
+%%
