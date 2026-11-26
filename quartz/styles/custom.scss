@@ -194,20 +194,23 @@ table td:first-child img {
 /* Botones de los estudios individuales */
 
 .ficha-apartados {
-  display: grid;
-  grid-template-columns: repeat(4, minmax(0, 1fr));
-  gap: 8px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 6px;
   margin: 25px 0 20px;
 }
 
 .ficha-apartados button {
+  flex: 0 0 auto;
   background-color: #E8D8B8;
   color: #59442F;
   border: 1px solid #C7AD83;
   border-radius: 6px;
-  padding: 10px 5px;
+  padding: 10px 7px;
   font-size: 0.85rem;
   cursor: pointer;
+  white-space: nowrap;
 }
 
 .ficha-apartados button:hover {
@@ -217,26 +220,6 @@ table td:first-child img {
 .ficha-apartados button.estudio-activo {
   background-color: #C7AD83;
   font-weight: bold;
-}
-
-/* En pantallas estrechas, dos botones por fila */
-
-@media (max-width: 900px) {
-  .ficha-apartados {
-    grid-template-columns: repeat(2, minmax(0, 1fr));
-  }
-}
-
-.ficha-apartados {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  gap: 24px;
-}
-
-.ficha-apartados button {
-  flex: 0 0 auto;
-  padding: 10px 14px;
 }
 
 /* Separadores entre grupos bibliográficos */
@@ -277,4 +260,28 @@ body[data-basepath="/obsidian-web"] .page-title a {
 /* Etiqueta de última actualización */
 .content-meta time::before {
   content: "Última actualización: ";
+}
+
+/* Presentación del apartado Agrupaciones */
+
+.agrupaciones-retrato > h3 {
+  display: none;
+}
+
+.agrupaciones-retrato {
+  margin-top: 20px;
+}
+
+.grupo-agrupaciones {
+  margin: 0 0 12px;
+}
+
+.grupo-agrupaciones h4 {
+  font-weight: 400;
+  margin: 0 0 5px;
+}
+
+.codigo-agrupacion {
+  margin: 0 0 3px;
+  line-height: 1.5;
 }
