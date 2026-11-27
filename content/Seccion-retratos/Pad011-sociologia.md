@@ -2,6 +2,10 @@
 title: Pad011 — Sociología
 ---
 
+
+Contenido en edición, no disponible en este momento.
+
+%%
 # Sociología
 
 ### Datación 
@@ -11,3 +15,4 @@ Para Adams & Walker (2007, p. 182) de la 1º mitad del siglo II, 100-140, que co
 ([[Sobre-procedencias|Sobre procedencias]])
 
 Hawara <a href="https://archmap.cultnat.org/Map.aspx" target="_blank" rel="noopener noreferrer">Ver en mapa</a>, excavado por W.  M.  F. Petrie en 1911.
+%%

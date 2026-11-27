@@ -2,6 +2,10 @@
 title: Pad009 — Sociología
 ---
 
+
+Contenido en edición, no disponible en este momento.
+
+%%
 # Sociología
 
 ### Datación 
@@ -11,4 +15,4 @@ Datado en el 1º tercio del siglo II, 100-130, entre los emperadores [[Dinastias
 ([[Sobre-procedencias|Sobre procedencias]])
 
 Hawara <a href="https://archmap.cultnat.org/Map.aspx" target="_blank" rel="noopener noreferrer">Ver en mapa</a>, excavado en 1888 por W.M.F. Petrie.
-
+%%

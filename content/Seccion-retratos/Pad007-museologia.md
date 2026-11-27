@@ -2,6 +2,10 @@
 title: Pad007 — Museología
 ---
 
+
+Contenido en edición, no disponible en este momento.
+
+%%
 # Museología
 
 ### Historia
@@ -27,3 +31,4 @@ II) MR (parca en información) es la única fuente bibliográfica que conocemos 
 
 ### Fotografías 
 <u>Reproducidas</u> = Propiedad de [Rijksmuseum van Oudheden](https://www.rmo.nl/) de Leiden. [[Permisos-de-fotografias|Permisos de fotografías]], CC BY.
+%%

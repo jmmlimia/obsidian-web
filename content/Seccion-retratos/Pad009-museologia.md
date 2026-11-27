@@ -2,6 +2,10 @@
 title: Pad009 — Museología
 ---
 
+
+Contenido en edición, no disponible en este momento.
+
+%%
 # Museología
 
 ### Historia 
@@ -18,3 +22,4 @@ III) Numeración de Petrie = AF (Roberts, 2007, p. 66; Picton *et al.*, 2007, p.
 <u>Reproducidas</u> = Propiedad de [Petrie Museum of Egyptian Archaeology](https://www.ucl.ac.uk/culture/petrie-museum) de Londres. [[Permisos-de-fotografias|Permisos de fotografías]], CC BY-NC-SA.
 
 <u>Recientes de calidad</u> =  Adams & Walker, 2007, p. 189.
+%%

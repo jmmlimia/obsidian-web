@@ -2,6 +2,10 @@
 title: Pad006 — Sociología
 ---
 
+
+Contenido en edición, no disponible en este momento.
+
+%%
 # Sociología
 
 ### Datación 
@@ -11,4 +15,4 @@ La única datación que conocemos lo sitúa en el siglo I sin más (MR), cuando,
 ([[Sobre-procedencias|Sobre procedencias]])
 
 Desconocida, sin datos al respecto.
-
+%%

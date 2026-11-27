@@ -2,6 +2,10 @@
 title: Pad004 — Museología
 ---
 
+
+Contenido en edición, no disponible en este momento.
+
+%%
 # Museología
 
 ### Historia 
@@ -14,3 +18,4 @@ Consta de dos plantas y alberga colecciones que abarcan desde la época prehist�
 
 ### Fotografías 
 <u>Reproducidas</u> = Internet.
+%%

@@ -2,6 +2,10 @@
 title: Pad015 — Sociología
 ---
 
+
+Contenido en edición, no disponible en este momento.
+
+%%
 # Sociología
 
 ### Datación 
@@ -11,3 +15,4 @@ Según MR, de la segunda mitad del siglo I, que abarcaría el [[Dinastias-romana
 ([[Sobre-procedencias|Sobre procedencias]])
 
 Desconocida, sin datos al respecto.
+%%

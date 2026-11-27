@@ -2,6 +2,10 @@
 title: Pad018 — Museología
 ---
 
+
+Contenido en edición, no disponible en este momento.
+
+%%
 # Museología
 
 ### Historia
@@ -13,3 +17,4 @@ Vendido por la Galería [[Berge|Pierre Bergé & associés]], París, el 14DIC200
 <u>Reproducidas</u> = Permiso Public Domain [[Permisos-de-fotografias|Permisos de fotografías]]. 
 
 <u>Recientes de calidad</u> = Pierre Bergé & associés, 2009, p. 95.
+%%

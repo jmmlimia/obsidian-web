@@ -2,6 +2,10 @@
 title: Pad006 — Museología
 ---
 
+
+Contenido en edición, no disponible en este momento.
+
+%%
 # Museología
 
 ### Historia 
@@ -29,3 +33,4 @@ En la actualidad, el museo cuenta con tres edificios destinados a la exhibición
 
 ### Fotografías 
 <u>Reproducidas</u> = Propiedad del [The Museum of Fine Arts](https://www.mfah.org/) de Houston (TX). [[Permisos-de-fotografias|Permisos de fotografías]], Public Domain.
+%%

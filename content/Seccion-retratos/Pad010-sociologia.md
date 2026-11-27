@@ -2,6 +2,10 @@
 title: Pad010 — Sociología
 ---
 
+
+Contenido en edición, no disponible en este momento.
+
+%%
 # Sociología
 
 ### Datación 
@@ -16,3 +20,4 @@ Hawara <a href="https://archmap.cultnat.org/Map.aspx" target="_blank" rel="noope
 El retrato pertenece al grupo de los bustos desnudos. 
 
 La representación del hombre desnudo, sumada al gran tamaño del retrato, sugiere que gozaba de cierto estatus social y económico en la comunidad.
+%%

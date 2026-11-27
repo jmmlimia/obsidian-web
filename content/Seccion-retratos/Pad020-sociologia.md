@@ -2,6 +2,10 @@
 title: Pad020 — Sociología
 ---
 
+
+Contenido en edición, no disponible en este momento.
+
+%%
 # Sociología
 
 ### Datación 
@@ -13,3 +17,4 @@ La Barakat Gallery (2026) duda entre los siglos III y IV, sin más explicaciones
 ([[Sobre-procedencias|Sobre procedencias]])
 
 Desconocida, sin datos al respecto. Por el enorme parecido físico con ejemplos similares, se sospecha que su procedencia será Antinoópolis.
+%%

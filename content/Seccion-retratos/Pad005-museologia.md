@@ -2,6 +2,10 @@
 title: Pad005 — Museología
 ---
 
+
+Contenido en edición, no disponible en este momento.
+
+%%
 # Museología
 
 ### Historia 
@@ -18,3 +22,4 @@ En concreto, cuenta con nueve retratos de el-Fayum, entre los que se encuentran 
 
 ### Fotografías 
 <u>Reproducidas</u> = Propiedad de [Museum of Fine Arts](https://www.mfa.org/) de Boston (MA). [[Permisos-de-fotografias|Permisos de fotografías]], Fair Use Permitted.
+%%

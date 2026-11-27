@@ -2,6 +2,10 @@
 title: Pad010 — Retratística
 ---
 
+
+Contenido en edición, no disponible en este momento.
+
+%%
 # Retratística
 
 ### Técnica, materiales y procedimientos
@@ -9,3 +13,4 @@ I) Técnica. Encáustica (cera como aglutinante) sobre madera de tilo (_Tilia_ s
 
 ### Iconografía
 En una carta, Petrie señala que este retrato tenía un marco de estuco dorado con un motivo de vides en relieve, suponemos que refiriéndose a la momia donde se hallaba. Pero más difícil de interpretar es este comentario en un cuaderno de notas: «una cubierta rosa y dorada», que, pensamos, podría aludir a un sudario que envolviera dicha momia (Roberts, 2007, p. 64).
+%%

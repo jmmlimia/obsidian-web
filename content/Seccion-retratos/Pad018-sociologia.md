@@ -2,6 +2,10 @@
 title: Pad018 — Sociología
 ---
 
+
+Contenido en edición, no disponible en este momento.
+
+%%
 # Sociología
 
 ### Datación 
@@ -11,3 +15,4 @@ El único dato que tenemos es el adjudicado en la ficha de subasta por Pierre Be
 ([[Sobre-procedencias|Sobre procedencias]])
 
 Desconocida, sin datos al respecto.
+%%

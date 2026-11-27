@@ -11,6 +11,8 @@ Al cabo, sobre su uso en los retratos de el-Fayum, estamos hablando de una prend
 
 **Bibliografía** 
 
+[[Bibliografia#^8a0405|Croom, 2012]]
+
 [[Bibliografia#^79153d|Daremberg & Saglio, 1877]]
 
 [Hom. *Il.*](Bibliografia.md#^303a44)

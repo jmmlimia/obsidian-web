@@ -2,6 +2,10 @@
 title: Pad020 — Museología
 ---
 
+
+Contenido en edición, no disponible en este momento.
+
+%%
 # Museología
 
 ### Historia
@@ -11,3 +15,4 @@ Inicialmente en una colección particular francesa, al parecer hasta 1982; en 19
 
 ### Fotografías
 <u>Reproducidas</u> = Permiso Public Domain [[Permisos-de-fotografias|Permisos de fotografías]]. 
+%%

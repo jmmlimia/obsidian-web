@@ -2,6 +2,10 @@
 title: Pad015 — Museología
 ---
 
+
+Contenido en edición, no disponible en este momento.
+
+%%
 # Museología
 
 ### Historia
@@ -33,3 +37,4 @@ II) Ha participado en las siguientes exposiciones:
 <u>Reproducidas</u> = Propiedad de [Manchester Museum](https://www.museum.manchester.ac.uk/) de Manchester. [[Permisos-de-fotografias|Permisos de fotografías]], CC BY-SA 4.0.
 
 <u>Otras</u> = Mazza & Cooper, 2012. 
+%%

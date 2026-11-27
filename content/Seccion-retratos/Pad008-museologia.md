@@ -2,6 +2,10 @@
 title: Pad008 — Museología
 ---
 
+
+Contenido en edición, no disponible en este momento.
+
+%%
 # Museología
 
 ### Historia 
@@ -16,3 +20,4 @@ I) «El Museo Nacional de Antigüedades de los Países Bajos fue fundado en 1818
 <u>Reproducidas</u> = Propiedad de [Rijksmuseum van Oudheden](https://www.rmo.nl/) de Leiden. [[Permisos.de.fotografias|Permisos de fotografías]], CC BY.
 
 <u>Recientes de calidad</u> = Bercken & Kaper, 2023, p. 166.
+%%

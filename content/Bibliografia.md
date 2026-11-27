@@ -139,6 +139,8 @@ Cosmacini, P., & Piazentini, P. (2011). Egyptian Mummies and Radiology: A Closer
 
 Cox, S. L. (2015). A Critical Look at Mummy CT Scanning. *The Anatomical Record*, *298*(6), 1099-1110. ^959ed8
 
+Croom, A. (2012). *Roman Clothing and Fashion*. Amberley. ^8a0405
+
 Dahms, J., Flossmann-Schütze, M., & Schütze, A. (2023). Forschung Im Smäk. Der Workshop «Coffins In 3D» Die Sargbestände Des Smäk Und Ihre Digitalisirrung. *Maat*, *29*, 2-17.
 
 Danny, D. D. (2006.). *Harry De Forest Smith Residence, Old Brunswick Road*. Edwin Arlington Robinson.  ^540d0c

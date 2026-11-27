@@ -2,6 +2,10 @@
 title: Pad007 — Sociología
 ---
 
+
+Contenido en edición, no disponible en este momento.
+
+%%
 # Sociología
 
 ### Datación 
@@ -11,4 +15,4 @@ MR, lo data en el último cuarto del siglo II, [[Dinastias-romanas|final de la d
 ([[Sobre-procedencias|Sobre procedencias]])
 
 Desconocida, sin datos al respecto.
-
+%%

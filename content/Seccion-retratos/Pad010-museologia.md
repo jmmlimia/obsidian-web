@@ -2,6 +2,10 @@
 title: Pad010 — Museología
 ---
 
+
+Contenido en edición, no disponible en este momento.
+
+%%
 # Museología
 
 ### Historia
@@ -29,3 +33,4 @@ I) El Petrie Museum of Egyptian Archaeology tiene un interés muy especial para 
 <u>Reproducidas</u> = Propiedad del [Petrie Museum of Egyptian Archaeology](https://www.ucl.ac.uk/culture/petrie-museum) de Londres. [[Permisos-de-fotografias|Permisos de fotografías]], CC BY-NC-SA.
 
 <u>Recientes de calidad</u> =  Trope, 2005, p. 101; Adams & Walker, 2007, p. 257.
+%%

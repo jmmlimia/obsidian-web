@@ -2,6 +2,10 @@
 title: Pad019 — Museología
 ---
 
+
+Contenido en edición, no disponible en este momento.
+
+%%
 # Museología
 
 ### Historia
@@ -11,3 +15,4 @@ A la venta en la Galería Barakat de Londres, propiedad de [[Barakat|Fayez Barak
 
 ### Fotografías
 <u>Reproducidas</u> = Permiso Public Domain [[Permisos-de-fotografias|Permisos de fotografías]]. 
+%%
