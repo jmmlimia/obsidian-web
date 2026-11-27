@@ -287,6 +287,8 @@ Matḥaf al-Uqṣur lil-Fann al-Miṣrī al-Qadīm. (1978). *The Luxor Museum of
 
 Mazza, R., & Cooper, K. (2012). _Faces & Voices_ [Catálogo de mano]. ^c25d5e
 
+McGhee, L. (2009). Work in Progress: Roman painted funerary portraits from Antinoopolis, Egypt. *Archaeological Textile Newsletter*, *48*, 5-7. ^10d822
+
 Mininberg, D. T. (2001). The Museum’s Mummies: An Inside View. *Neurosurgery*, *49*(1), 192-199.
 
 Miriello, D., Bloise, A., Crisci, G., De Luca, R., De Nigris, B., Martellone, A., Osanna, M., Pace, R., Pecci, A., & Ruggieri, N. (2018). Non-Destructive Multi-Analytical Approach to Study the Pigments of Wall Painting Fragments Reused in Mortars from the Archaeological Site of Pompeii (Italy). *Minerals*, *8*(4), 1-15. ^93b0d5

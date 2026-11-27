@@ -11,7 +11,7 @@ El apellido Gayet va siempre unido al topónimo Antinoópolis. En aquella ciudad
 
 Esas excavaciones estuvieron subvencionadas por el industrial [[Guimet|Émile Guimet]] y por numerosos organismos públicos y privados. Los millares de objetos encontrados se repartieron entre la colección Guimet, el Louvre y diversos museos tanto locales como internacionales.
 
-Según algunos especialistas, dichas excavaciones fueron llevadas a cabo con una ausencia total de espíritu científico. Se primaron las publicaciones en breves catálogos, dirigidas a un público más o menos profano, descuidando la elaboración de verdaderos informes de excavación. 
+Según algunos especialistas, dichas excavaciones fueron llevadas a cabo con una ausencia total de espíritu científico, sin diario de excavación o registro detallado, sin registrar contextos ni estratigrafías. Se primaron las publicaciones en breves catálogos, dirigidas a un público más o menos profano, descuidando la elaboración de verdaderos informes de excavación. 
 
 **Relacionado con los (1) retratos:**
 
@@ -21,4 +21,6 @@ Según algunos especialistas, dichas excavaciones fueron llevadas a cabo con una
 
 [[Bibliografia#^ad8994|Calament, 2011]]
 
-[[Bibliografia#^d2a494|Dunand, & Lichtenberg, 1995]]
+[[Bibliografia#^d2a494|Dunand & Lichtenberg, 1995]]
+
+[[Bibliografia#^10d822|McGhee, 2009]]
