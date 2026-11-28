@@ -191,35 +191,80 @@ table td:first-child img {
   }
 }
 
-/* Botones de los estudios individuales */
+/* Barra de navegación de los estudios individuales */
 
 .ficha-apartados {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
-  gap: 6px;
+  gap: 0;
   margin: 25px 0 20px;
+  border-bottom: 1px solid #C7AD83;
 }
 
 .ficha-apartados button {
-  flex: 0 0 auto;
-  background-color: #E8D8B8;
+  flex: 1 0 auto;
+  background-color: transparent;
   color: #59442F;
-  border: 1px solid #C7AD83;
-  border-radius: 6px;
+  border: none;
+  border-bottom: 3px solid transparent;
+  border-radius: 0;
   padding: 10px 7px;
-  font-size: 0.85rem;
+  font-family: inherit;
+  font-size: 1rem;
+  font-weight: 500;
   cursor: pointer;
   white-space: nowrap;
+  transition: background-color 0.2s ease,
+              border-color 0.2s ease,
+              color 0.2s ease;
 }
+
+/* Apartado sobre el que se sitúa el cursor */
 
 .ficha-apartados button:hover {
-  background-color: #D8C39B;
+  background-color: rgba(199, 173, 131, 0.18);
+  color: #463321;
+  border-bottom-color: #C7AD83;
 }
 
+/* Apartado seleccionado */
+
 .ficha-apartados button.estudio-activo {
-  background-color: #C7AD83;
-  font-weight: bold;
+  background-color: transparent;
+  color: #463321;
+  border-bottom-color: #80603A;
+  font-weight: 600;
+}
+
+/* Navegación mediante teclado */
+
+.ficha-apartados button:focus-visible {
+  outline: 2px solid #80603A;
+  outline-offset: -2px;
+}
+
+
+/* Barra de navegación en modo oscuro */
+
+:root[saved-theme="dark"] .ficha-apartados button {
+  color: #D8C39B;
+}
+
+:root[saved-theme="dark"] .ficha-apartados button:hover {
+  background-color: rgba(199, 173, 131, 0.12);
+  color: #F5E7CD;
+  border-bottom-color: #C7AD83;
+}
+
+:root[saved-theme="dark"] .ficha-apartados button.estudio-activo {
+  background-color: transparent;
+  color: #F5E7CD;
+  border-bottom-color: #D8B77E;
+}
+
+:root[saved-theme="dark"] .ficha-apartados button:focus-visible {
+  outline-color: #D8B77E;
 }
 
 /* Separadores entre grupos bibliográficos */
