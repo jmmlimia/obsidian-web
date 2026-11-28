@@ -2,6 +2,10 @@
 title: PI0006 — Retratística
 ---
 
+
+Contenido en edición, no disponible en este momento.
+
+%%
 # Retratística
 
 ### Técnica, materiales y procedimientos
@@ -17,3 +21,4 @@ b) La témpera, o el temple,
 
 **III) Procedimientos.**
 Al igual que en los retratos de los dos niños (PI0005 y PI0006), la pintura se aplica en amplias áreas de color plano, pero se evita cualquier monotonía en este trabajo a gran escala mediante el uso sobre el color plano de trazos paralelos lineales muy juntos (una técnica habitual en la pintura al temple, ya que ésta se seca demasiado rápido para permitir una mezcla), lo que crea mayor sugerencia de volumen y detalle de la superficie (Dioxiadis, 2000, pp. 64 y 200).
+%%

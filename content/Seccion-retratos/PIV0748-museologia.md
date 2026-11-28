@@ -2,6 +2,10 @@
 title: PIV0748 — Museología
 ---
 
+
+Contenido en edición, no disponible en este momento.
+
+%%
 # Museología
 
 ### Historia 
@@ -18,3 +22,4 @@ Consta de dos plantas y alberga colecciones que abarcan desde la época prehist�
 <u>Reproducidas</u> = Internet.
 
 <u>Parlasca</u> = Parlasca & Frenz, 2003, lám. 169, núm. 4 (b/n).
+%%

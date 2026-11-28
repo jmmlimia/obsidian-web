@@ -2,6 +2,10 @@
 title: PI0162 — Museología
 ---
 
+
+Contenido en edición, no disponible en este momento.
+
+%%
 # Museología
 
 ### Historia 
@@ -15,3 +19,4 @@ Donado por [[Kennard|Henry Martyn Kennard]] en 1888, con número de acceso al mu
 <u>Reproducidas</u> = Propiedad de [British Museum](https://www.britishmuseum.org/) de Londres. [[Permisos-de-fotografias|Permisos de fotografías]], CC BY-NC-SA 4,0.
 
 <u>Parlasca</u> = Parlasca, 1969, lám. 39, núm. 1 (b/n).
+%%

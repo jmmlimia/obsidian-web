@@ -2,6 +2,10 @@
 title: PII0419 — Museología
 ---
 
+
+Contenido en edición, no disponible en este momento.
+
+%%
 # Museología
 
 ### Historia
@@ -30,3 +34,4 @@ III) Otro número de cat. = MG 77 (Aubert 2008: 201). Fotografías, dibujo y est
 <u>Parlasca</u> = P2: lám. 104, núm. 1 (b/n).
 
 <u>Recientes de calidad</u> = Aubert, 2008, p. 202.
+%%

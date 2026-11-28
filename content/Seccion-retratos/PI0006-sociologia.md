@@ -2,6 +2,10 @@
 title: PI0006 — Sociología
 ---
 
+
+Contenido en edición, no disponible en este momento.
+
+%%
 # Sociología
 
 ### Datación 
@@ -26,3 +30,4 @@ Sin realizar ninguna asignación concreta, Donner (1893, p. 3) considera que el 
 La momia pertenece al grupo de las envolturas romboidales o de panal.
 
 Aunque no hay manera de comprobarlo, es común la idea de que forma parte de la familia de Aline (PI0001),como su hija mayor, hermana de PI0006. Las tres, junto con el padre de familia (ÄM ) otra hija con máscara dorada, por tanto, imposible de clasificar, y otras tres momias sin decoración de las que nada más se sabe, fueron encontradas en una tumba subterránea sin superestructura, tabicada con adobe, de unos x m
+%%

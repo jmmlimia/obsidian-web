@@ -2,6 +2,10 @@
 title: PI0194 — Museología
 ---
 
+
+Contenido en edición, no disponible en este momento.
+
+%%
 # Museología
 
 ### Historia 
@@ -23,3 +27,4 @@ V) Un trabajo de conservación se realizó en:
 <u>Reproducidas</u> = Propiedad de [British Museum](https://www.britishmuseum.org/) de Londres. [[Permisos-de-fotografias|Permisos de fotografías]], CC BY-NC-SA 4,0.
 
 <u>Parlasca</u> = Parlasca, 1969, lám. 47, núm. 4 (b/n).
+%%

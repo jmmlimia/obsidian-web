@@ -2,6 +2,10 @@
 title: PII0419 — Sociología
 ---
 
+
+Contenido en edición, no disponible en este momento.
+
+%%
 # Sociología
 
 ### Datación 
@@ -20,3 +24,4 @@ Crispina (Krispina). Nombre propio escrito sobre el bajo vientre en una *tabula 
 Este retrato pertenece al grupo de momias con inscripción y, por supuesto, al de nombres conocidos.
 
 Para la palabra Eypsychi, v. [[PI0162]].
+%%

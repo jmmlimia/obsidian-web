@@ -2,6 +2,6 @@
 title: PIV0748 — Sociología
 ---
 
-# Sociología
 
-Pendiente de incorporar.
+Contenido en edición, no disponible en este momento.
+

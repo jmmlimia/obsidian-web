@@ -116,10 +116,7 @@
     "corona": "No",
     "pendientes": "No",
     "collares": "No",
-    "agrupaciones": [
-      "PR02",
-      "RE01"
-    ]
+    "agrupaciones": []
   },
   {
     "id": "Pad005",
@@ -144,11 +141,7 @@
     "corona": "No",
     "pendientes": "No",
     "collares": "No",
-    "agrupaciones": [
-      "COB",
-      "PR02",
-      "RE01"
-    ]
+    "agrupaciones": []
   },
   {
     "id": "Pad006",
@@ -173,10 +166,7 @@
     "corona": "Sí",
     "pendientes": "Sí",
     "collares": "Sí",
-    "agrupaciones": [
-      "PR02",
-      "RE01"
-    ]
+    "agrupaciones": []
   },
   {
     "id": "Pad007",
@@ -201,10 +191,7 @@
     "corona": "No",
     "pendientes": "No",
     "collares": "No",
-    "agrupaciones": [
-      "PR02",
-      "RE01"
-    ]
+    "agrupaciones": []
   },
   {
     "id": "Pad008",
@@ -229,10 +216,7 @@
     "corona": "Sí",
     "pendientes": "No",
     "collares": "No",
-    "agrupaciones": [
-      "PR02",
-      "RE01"
-    ]
+    "agrupaciones": []
   },
   {
     "id": "Pad009",
@@ -257,10 +241,7 @@
     "corona": "No",
     "pendientes": "No",
     "collares": "No",
-    "agrupaciones": [
-      "PR01",
-      "RE01"
-    ]
+    "agrupaciones": []
   },
   {
     "id": "Pad010",
@@ -285,12 +266,7 @@
     "corona": "No",
     "pendientes": "No",
     "collares": "No",
-    "agrupaciones": [
-      "EG04",
-      "GR02",
-      "PR01",
-      "RE01"
-    ]
+    "agrupaciones": []
   },
   {
     "id": "Pad011",
@@ -315,11 +291,7 @@
     "corona": "No",
     "pendientes": "No",
     "collares": "No",
-    "agrupaciones": [
-      "EG02",
-      "PR01",
-      "RE01"
-    ]
+    "agrupaciones": []
   },
   {
     "id": "Pad012",
@@ -344,11 +316,7 @@
     "corona": "No",
     "pendientes": "Sí",
     "collares": "Sí",
-    "agrupaciones": [
-      "EG03",
-      "PR01",
-      "RE01"
-    ]
+    "agrupaciones": []
   },
   {
     "id": "Pad013",
@@ -373,11 +341,7 @@
     "corona": "No",
     "pendientes": "Sí",
     "collares": "No",
-    "agrupaciones": [
-      "EG01",
-      "PR01",
-      "RE01"
-    ]
+    "agrupaciones": []
   },
   {
     "id": "Pad014",
@@ -402,11 +366,7 @@
     "corona": "No",
     "pendientes": "No",
     "collares": "No",
-    "agrupaciones": [
-      "EG01",
-      "PR01",
-      "RE01"
-    ]
+    "agrupaciones": []
   },
   {
     "id": "Pad015",
@@ -431,10 +391,7 @@
     "corona": "No",
     "pendientes": "No",
     "collares": "No",
-    "agrupaciones": [
-      "PR02",
-      "RE01"
-    ]
+    "agrupaciones": []
   },
   {
     "id": "Pad016",
@@ -459,11 +416,7 @@
     "corona": "No",
     "pendientes": "No",
     "collares": "No",
-    "agrupaciones": [
-      "EG01",
-      "PR01",
-      "RE01"
-    ]
+    "agrupaciones": []
   },
   {
     "id": "Pad017",
@@ -488,11 +441,7 @@
     "corona": "No",
     "pendientes": "No",
     "collares": "No",
-    "agrupaciones": [
-      "EG01",
-      "PR01",
-      "RE01"
-    ]
+    "agrupaciones": []
   },
   {
     "id": "Pad018",
@@ -517,12 +466,7 @@
     "corona": "No",
     "pendientes": "No",
     "collares": "No",
-    "agrupaciones": [
-      "CU05",
-      "EG08",
-      "PR02",
-      "RE01"
-    ]
+    "agrupaciones": []
   },
   {
     "id": "Pad019",
@@ -547,15 +491,7 @@
     "corona": "No",
     "pendientes": "No",
     "collares": "No",
-    "agrupaciones": [
-      "BU02",
-      "CU01",
-      "ED06",
-      "EG05",
-      "FO02",
-      "PR02",
-      "RE01"
-    ]
+    "agrupaciones": []
   },
   {
     "id": "Pad020",
@@ -580,9 +516,7 @@
     "corona": "Sí",
     "pendientes": "Sí",
     "collares": "Sí",
-    "agrupaciones": [
-      "RE11"
-    ]
+    "agrupaciones": []
   },
   {
     "id": "PI0001",

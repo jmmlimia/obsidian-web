@@ -2,6 +2,10 @@
 title: PI0194 — Sociología
 ---
 
+
+Contenido en edición, no disponible en este momento.
+
+%%
 # Sociología
 
 ### Datación 
@@ -24,3 +28,4 @@ Hawara <a href="https://archmap.cultnat.org/Map.aspx" target="_blank" rel="noope
 Cecil Smith (1889, p.46) dudaba de adscribirlo a una nacionalidad romana o egipcia; hoy sabemos que estas consideraciones carecen, en su mayor parte, de sentido. 
 
 En 2001 un grupo de neurólogos dirigidos por el profesor Otto Appenzeller (Departamento de Neurología y del Departamento de Medicina de la Universidad de Nuevo México, en Alburquerque y especialista en el análisis de enfermedades históricas) realizaron un estudio de paleoneurología clínica utilizando unos 200 retratos de El Fayum. Particularmente interesante resultó este joven. que tenía un cráneo asociado y se pudieron estudiar ambos: «Tenemos motivos para el diagnóstico de hemiatrofia facial progresiva a la derecha», demostrando que la imagen no presentaba ninguna «incapacidad del pintor» sino, muy al contrario, una perfecta realidad (Appenzeller et al. 2001: 528). Añadiendo: «Los síntomas y signos neurológicos normalmente se evalúan durante la vida. Mostramos aquí que, aunque los pacientes fallecieron hace unos 2000 años, la probabilidad de que tengan epilepsia focal, migraña hemipléjica, desviación de los ejes visuales (tropia), corectopia y disfunción del sistema nervioso autónomo es muy alta. Por lo tanto, la paleoneurología clínica es posible sin la presencia de un sistema nervioso vivo» (Appenzeller *et al.*, 2001, p. 529).
+%%
